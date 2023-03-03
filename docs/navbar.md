@@ -1,0 +1,8 @@
+* [首页](/)
+* [购买指南](/purchase/)
+* [游戏指引](/guide/)
+* [歌曲信息](/songs/)
+* [组曲](/course/)
+* [装备](/equips/)
+* [Rating 相关](/rating/)
+* [常见问题](/qa/)
