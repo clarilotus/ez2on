@@ -423,7 +423,7 @@ pre[data-lang] {
     position: relative;
     max-width: var(--content-max-width);
     margin: 0 auto;
-    padding: 2rem 0px
+    padding: 2rem 50px
 }
 
 .app-nav:not(:empty)~main .markdown-section {
@@ -1989,7 +1989,7 @@ body .sidebar {
 }
 
 :root {
-    --content-max-width: 65em;
+    --content-max-width: 90em;
     --blockquote-background: var(--mono-tint3);
     --blockquote-border-style: solid;
     --blockquote-border-radius: var(--border-radius-m);
