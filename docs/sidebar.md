@@ -1,1 +1,3 @@
-* [首页](/ "EZ2ON 中文 Wiki")
+- [总体介绍](/#home-title-1)
+- [内容模块](/#home-title-2)
+- [联系方式](/#home-title-3)

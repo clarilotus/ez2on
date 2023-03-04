@@ -10,7 +10,7 @@
 .github-corner svg {
     height: 70px;
     width: 70px;
-    fill: var(--theme-color);
+    fill: #dd4a68;
     color: var(--base-background-color)
 }
 
@@ -423,7 +423,7 @@ pre[data-lang] {
     position: relative;
     max-width: var(--content-max-width);
     margin: 0 auto;
-    padding: 2rem 45px
+    padding: 2rem 0px
 }
 
 .app-nav:not(:empty)~main .markdown-section {
@@ -1989,14 +1989,14 @@ body .sidebar {
 }
 
 :root {
-    --content-max-width: 55em;
+    --content-max-width: 65em;
     --blockquote-background: var(--mono-tint3);
     --blockquote-border-style: solid;
     --blockquote-border-radius: var(--border-radius-m);
     --blockquote-em-font-weight: normal;
     --blockquote-font-weight: normal;
-    --blockquote-padding: 1.5em;
-    --code-font-family: Inconsolata, Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono", "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
+    --blockquote-padding: 1.0em;
+    --code-font-family: "Microsoft YaHei UI", Inconsolata, Consolas, Menlo, Monaco,    "Andale Mono WT", "Andale Mono", "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
     --code-font-size: calc(var(--font-size-m) * 0.95);
     --code-font-weight: normal;
     --code-tab-size: 4;
@@ -2029,7 +2029,7 @@ body .sidebar {
     --kbd-margin: 0 0.3em;
     --kbd-min-width: 2.5em;
     --kbd-padding: 0.65em 0.5em;
-    --link-text-decoration: underline;
+    --link-text-decoration: none;
     --notice-background: var(--mono-tint3);
     --notice-border-radius: var(--border-radius-m);
     --notice-border-style: solid;
@@ -2138,7 +2138,7 @@ body .sidebar {
     --sidebar-border-width: 0;
     --sidebar-padding: 0 25px;
     --sidebar-transition-duration: var(--duration-fast);
-    --sidebar-width: 17rem;
+    --sidebar-width: 20rem;
     --sidebar-name-font-size: var(--font-size-l);
     --sidebar-name-font-weight: normal;
     --sidebar-name-margin: 1.5rem 0 0;
