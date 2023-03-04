@@ -134,7 +134,7 @@
 
 ## 二、BASIC & STANDARD 自由模式 :id=guide-bastd
 
-### 1. 主要功能区
+### 1. 主要功能区 :id=guide-bastd-main
 
 ![自由模式](assets/bastd/bastd.png)
 
