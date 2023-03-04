@@ -1995,7 +1995,7 @@ body .sidebar {
     --blockquote-border-radius: var(--border-radius-m);
     --blockquote-em-font-weight: normal;
     --blockquote-font-weight: normal;
-    --blockquote-padding: 1.0em;
+    --blockquote-padding: 0.8em 1em;
     --code-font-family: "Microsoft YaHei UI", Inconsolata, Consolas, Menlo, Monaco,    "Andale Mono WT", "Andale Mono", "Lucida Console", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Courier New", Courier, monospace;
     --code-font-size: calc(var(--font-size-m) * 0.95);
     --code-font-weight: normal;
