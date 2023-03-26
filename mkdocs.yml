@@ -1,0 +1,45 @@
+site_name: 'EZ2ON REBOOT : R 中文 Wiki'
+repo_url: https://github.com/clarilotus/ez2on
+nav:
+  - '首页': index.md
+  - '购买指南': purchase
+  - '游戏指南':   
+    - '主菜单 & 模式': guide/main.md
+    - 'BASIC & STANDARD 自由演奏': guide/freemode/index.md
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+extra_css:
+  - stylesheets/extra.css
+theme:
+  name: material
+  language: zh
+  palette:
+    scheme: default
+    primary: white
+    accent: teal
+  features:
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.path
+    - navigation.expand
+    # - navigation.indexes
+    - toc.follow
+    - navigation.top
+  font:
+    text: Noto Sans Simplified Chinese
+  icon:
+    admonition:
+      note: fontawesome/solid/note-sticky
+      abstract: fontawesome/solid/book
+      info: fontawesome/solid/circle-info
+      tip: fontawesome/solid/bullhorn
+      success: fontawesome/solid/check
+      question: fontawesome/solid/circle-question
+      warning: fontawesome/solid/triangle-exclamation
+      failure: fontawesome/solid/bomb
+      danger: fontawesome/solid/skull
+      bug: fontawesome/solid/robot
+      example: fontawesome/solid/flask
+      quote: fontawesome/solid/quote-left

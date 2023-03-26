@@ -1,0 +1,28 @@
+:root, [data-md-color-scheme=default] {
+    --md-default-fg-color--light: #283e3e;
+    --md-default-fg-color: #283e3e;
+}
+
+.md-typeset h1, .md-typeset h2 {
+    font-weight: 520;
+    color:#283e3e;
+    /* letter-spacing: -.01em; */
+}
+
+
+[data-md-color-primary=white] {
+    --md-primary-bg-color: #283e3e;
+    --md-typeset-a-color: #006b75;
+}
+
+.md-typeset a {
+    color: #007474;
+}
+
+.md-tabs__link--active, .md-tabs__link:focus, .md-tabs__link:hover {
+    font-weight: 600;
+}
+
+[data-md-color-primary=white] .md-search__input+.md-search__icon {
+    color: #283e3e;
+}
