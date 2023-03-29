@@ -92,10 +92,3 @@ EZ2ON REBOOT : R 中文 Wiki 是为国内 EZ2ON (Steam 版) 玩家提供游戏�
 - EZ2ON 交流 QQ 群
 
     [954099355](https://jq.qq.com/?_wv=1027&k=9atW8Y9W)
-
-
-
-|34|56|
-|--|--|
-|dsfsdf|dfgdsfgdsf|
-|![sfdf](/guide/freemode/assets/gsbar_fader.png)|sfd|

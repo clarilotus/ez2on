@@ -6,10 +6,13 @@ nav:
   - '游戏指南':   
     - '主菜单 & 模式': guide/main.md
     - 'BASIC & STANDARD 自由演奏': guide/freemode/index.md
+    - 'OPTION 系统选项': guide/option/index.md
 markdown_extensions:
   - admonition
   - pymdownx.details
   - pymdownx.superfences
+  - attr_list
+  - md_in_html
 extra_css:
   - stylesheets/extra.css
 theme:
