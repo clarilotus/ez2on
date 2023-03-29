@@ -1,15 +1,9 @@
----
-hide:
-  - navigation
----
-
 # 总体介绍
 
 EZ2ON REBOOT : R 中文 Wiki 是为国内 EZ2ON (Steam 版) 玩家提供游戏的购买指南、歌曲、详细功能讲解等，并为新玩家提供入门指南及相关信息的百科，目前由 clarilotus 进行维护。
 
-!!! warning "注意"
-
-    本 Wiki 中的大部分文字信息、图片及其他权利均属于 NEONOVICE、SQUARE PIXELS 所有！
+> 注意：  
+> 本 Wiki 中的大部分文字信息、图片及其他权利均属于 NEONOVICE、SQUARE PIXELS 所有！
 
 ---
 
