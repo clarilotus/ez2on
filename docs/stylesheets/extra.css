@@ -1,10 +1,11 @@
 :root, [data-md-color-scheme=default] {
     --md-default-fg-color--light: #283e3e;
     --md-default-fg-color: #283e3e;
+    --md-text-font: "Microsoft Yahei UI","Noto Sans Simplified Chinese";
 }
 
-.md-typeset h1, .md-typeset h2 {
-    font-weight: 520;
+.md-typeset h1, .md-typeset h2, .md-typeset h3 {
+    font-weight: 600;
     color:#283e3e;
     /* letter-spacing: -.01em; */
 }
@@ -25,4 +26,14 @@
 
 [data-md-color-primary=white] .md-search__input+.md-search__icon {
     color: #283e3e;
+}
+
+.md-typeset code {
+    background-color: #e4e4e4;
+    font-weight: 600;
+    font-family: "Microsoft Yahei UI","Noto Sans Simplified Chinese";
+    padding-top: 2px;
+    padding-right: 5px;
+    padding-bottom: 2px;
+    padding-left: 5px;
 }
