@@ -6,7 +6,28 @@ nav:
   - '游戏指南':   
     - '主菜单 & 模式': guide/main.md
     - 'BASIC & STANDARD 自由演奏': guide/freemode/index.md
+    - 'MULTIPLAY 多人演奏': guide/multiplay/index.md
+    - 'COURSE 课题组曲': guide/course/index.md
+    - 'LOUNGE 个人中心': guide/lounge/index.md
     - 'OPTION 系统选项': guide/option/index.md
+  - '歌曲列表':
+    - '4K BASIC': songlist/4b.md
+    - '5K BASIC': songlist/5b.md
+    - '6K BASIC': songlist/6b.md
+    - '8K BASIC': songlist/8b.md
+    - '4K STANDARD': songlist/4s.md
+    - '5K STANDARD': songlist/5s.md
+    - '6K STANDARD': songlist/6s.md
+    - '8K STANDARD': songlist/8s.md
+  - '课题组曲': course/index.md
+  - '视觉装备':
+    - '系统主题 SYSTEM': equips/theme.md
+    - '演奏面板 PANEL': equips/panel.md
+    - '演奏音符 NOTE': equips/note.md
+    - '判定字体 JUDGE FONT': equips/judge.md
+    - '连击字体 COMBO FONT': equips/combo.md
+    - '面板背景 PANEL BG': equips/panelbg.md
+  - 'Rating': rating/index.md
 markdown_extensions:
   - admonition
   - pymdownx.details

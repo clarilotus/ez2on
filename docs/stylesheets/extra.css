@@ -37,3 +37,10 @@
     padding-bottom: 2px;
     padding-left: 5px;
 }
+
+@media (max-width: 1919px) and (min-width: 768px) {
+    img {
+        zoom: 80%;
+    }
+    @-ms-viewport { width: 1920px; }
+}
