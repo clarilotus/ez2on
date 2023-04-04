@@ -44,3 +44,32 @@
     }
     @-ms-viewport { width: 1920px; }
 }
+
+.md-typeset table:not([class]) th {
+    font-weight: 700;
+    min-width: 3rem;
+    padding-top: 0.9375em;
+    padding-right: 1.0em;
+    padding-bottom: 0.9375em;
+    padding-left: 1.0em;
+    vertical-align: middle;
+}
+
+.md-typeset table:not([class]) td {
+    border-top: .05rem solid var(--md-typeset-table-color);
+    padding-top: 0.9375em;
+    padding-right: 1.0em;
+    padding-bottom: 0.9375em;
+    padding-left: 1.0em;
+    vertical-align: middle;
+}
+
+td, th {
+    font-size: 10pt;
+    vertical-align: middle;
+    /* height: 40pt; */
+}
+
+.md-typeset img, .md-typeset svg, .md-typeset video {
+    vertical-align: middle;
+}
