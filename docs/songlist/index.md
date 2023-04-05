@@ -3,15 +3,12 @@ hide:
   - navigation
   - toc
 ---
+# 歌曲列表
 
 <link rel="stylesheet" type="text/css" href="../stylesheets/jquery.dataTables.min.css">
 <script type="text/javascript" charset="utf8" src="//code.jquery.com/jquery-3.6.4.min.js"></script>
 <script type="text/javascript" charset="utf8" src="../javascripts/jquery.csv.min.js"></script>
 <script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
-
-<!-- 
-{{ read_excel('./4b.xlsx', engine='openpyxl') }} -->
-# 歌曲列表
 
 === "4K BASIC"
 
@@ -38,6 +35,7 @@ hide:
                 // ajax: $.csv.toObjects(require('songlist.csv'));
                 ajax: 'songlist.json',
                 "pageLength": 25,
+                "autoWidth": false,
                 columns: [
                     { data: '序号' },
                     { data: '目录' },
@@ -84,6 +82,7 @@ hide:
                 // ajax: $.csv.toObjects(require('songlist.csv'));
                 ajax: 'songlist.json',
                 "pageLength": 25,
+                "autoWidth": false,
                 columns: [
                     { data: '序号' },
                     { data: '目录' },
@@ -130,6 +129,7 @@ hide:
                 // ajax: $.csv.toObjects(require('songlist.csv'));
                 ajax: 'songlist.json',
                 "pageLength": 25,
+                "autoWidth": false,
                 columns: [
                     { data: '序号' },
                     { data: '目录' },
@@ -176,6 +176,7 @@ hide:
                 // ajax: $.csv.toObjects(require('songlist.csv'));
                 ajax: 'songlist.json',
                 "pageLength": 25,
+                "autoWidth": false,
                 columns: [
                     { data: '序号' },
                     { data: '目录' },
@@ -222,7 +223,7 @@ hide:
                 // ajax: $.csv.toObjects(require('songlist.csv'));
                ajax: 'songlist.json',
                 "pageLength": 25,
-                "autoWidth": true,
+                "autoWidth": false,
                 columns: [
                     { data: '序号' },
                     { data: '目录' },
@@ -269,7 +270,7 @@ hide:
                 // ajax: $.csv.toObjects(require('songlist.csv'));
                 ajax: 'songlist.json',
                 "pageLength": 25,
-                "autoWidth": true,
+                "autoWidth": false,
                 columns: [
                     { data: '序号' },
                     { data: '目录' },
@@ -316,7 +317,7 @@ hide:
                 // ajax: $.csv.toObjects(require('songlist.csv'));
                ajax: 'songlist.json',
                 "pageLength": 25,
-                "autoWidth": true,
+                "autoWidth": false,
                 columns: [
                     { data: '序号' },
                     { data: '目录' },
