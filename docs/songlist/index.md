@@ -1,347 +1,483 @@
 ---
 hide:
-  - navigation
-  - toc
+- navigation
+- toc
 ---
+
 # 歌曲列表
 
-<link rel="stylesheet" type="text/css" href="../stylesheets/jquery.dataTables.min.css">
-<script type="text/javascript" charset="utf8" src="//code.jquery.com/jquery-3.6.4.min.js"></script>
-<script type="text/javascript" charset="utf8" src="../javascripts/jquery.csv.min.js"></script>
-<script type="text/javascript" charset="utf8" src="//cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+<link rel="stylesheet" href="../stylesheets/element-ui.css">
+<script type="text/javascript" charset="utf8" src="../javascripts/jquery.js"></script>
+<script type="text/javascript" charset="utf8" src="../javascripts/vue2.js"></script>
+<script type="text/javascript" charset="utf8" src="../javascripts/element-ui.js"></script>
 
-=== "4K BASIC"
 
-    <table id="4blist" class="display" style="width:100%">
-            <thead>
-                <tr>
-                    <th style="width:28px" >序号</th>
-                    <th style="width:28px"  >目录</th>
-                    <th style="width:28px"  >图标</th>
-                    <th>歌名</th>
-                    <th>艺术家</th>
-                    <th style="width:25px"  >BPM</th>
-                    <th style="width:40px"  > </th>
-                    <th style="width:22px" >EZ</th>
-                    <th style="width:22px" >NM</th>
-                    <th style="width:22px" >HD</th>
-                    <th style="width:26px" >SHD</th>
-                </tr>
-            </thead>
-    </table>
-    <script>
-        $(document).ready(function () {
-            $('#4blist').DataTable({
-                // ajax: $.csv.toObjects(require('songlist.csv'));
-                ajax: 'songlist.json',
-                "pageLength": 25,
-                "autoWidth": false,
-                columns: [
-                    { data: '序号' },
-                    { data: '目录' },
-                    { data: '图标' },
-                    { data: '歌名' },
-                    { data: '艺术家' },
-                    { data: 'BPM'},
-                    { data: 'BPMRNG'},
-                    { data: '4BEZ' },
-                    { data: '4BNM' },
-                    { data: '4BHD' },
-                    { data: '4BSHD' },
-                ],
-                columnDefs: [
-                    { orderable: false, targets: [2,6] }
-                ],
-                order: [[0, 'asc']]
+<div id="app">
+    <template>
+        <el-tabs v-model="activeName" @tab-click="handleClick">
+            <!-- 4K BASIC -->
+            <el-tab-pane label="4K BASIC" name="4b" :lazy="true"  v-loading="loading">
+                <span>
+                    <el-input v-model="searchTitle" style="width:320px" clearable>
+                        <template slot="prepend">搜索歌名</template>
+                    </el-input>
+                </span>
+                <span>
+                    <el-input v-model="searchArtist" style="width:350px" clearable>
+                        <template slot="prepend">搜索艺术家</template>
+                    </el-input>
+                </span>
+                <br /><span style="height: 10px;display: block;"></span>
+                <el-table ref="filterTable" v-if="activeName =='4b'"  v-loading="loading"
+                    :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
+                    :border=true height="550" style="width: 100%" :lazy="true" :load="load">
+                    <el-table-column prop="id" label="#" sortable :resizable=false width="54">
+                    </el-table-column>
+                    <el-table-column prop="dir" label="目录 " :resizable=false width="64"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'S/E' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }]"
+                        :filter-method="filterHandler">
+                    </el-table-column>
+                    <el-table-column prop="title" label="名称" min-width="300pt" :resizable=false sortable>
+                        <template slot-scope="scope">
+                            <div style="display:inline-block;vertical-align: middle">
+                                <el-image :src="'./minidisc/' + scope.row.name + '.png'"
+                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="true" />
+                            </div>
+                            <div style="display:inline-block;vertical-align: middle">
+                                <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
+                                    scope.row.title}}</div>
+                                <div style="font-size:5pt;vertical-align: bottom">{{ scope.row.artist}}</div>
+                            </div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="bpm" label="BPM" :resizable=false width="75" sortable>
+                    </el-table-column>
+                    <el-table-column prop="bpmrng" label="BPM 变动范围" :resizable=false width="115">
+                    </el-table-column>
+                    <el-table-column prop="B4EZ" label="EZ" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.B4EZ}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="B4NM" label="NM" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.B4NM}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="B4HD" label="HD" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.B4HD}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="B4SHD" label="SHD" :resizable=false width="75" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.B4SHD}}</div>
+                        </template>
+                    </el-table-column>
+                </el-table>
+            </el-tab-pane>
+            <!-- 5K BASIC -->
+            <el-tab-pane label="5K BASIC" name="5b" :lazy="true"  v-loading="loading">
+                <span>
+                    <el-input v-model="searchTitle" style="width:320px" clearable>
+                        <template slot="prepend">搜索歌名</template>
+                    </el-input>
+                </span>
+                <span>
+                    <el-input v-model="searchArtist" style="width:350px" clearable>
+                        <template slot="prepend">搜索艺术家</template>
+                    </el-input>
+                </span>
+                <br /><span style="height: 10px;display: block;"></span>
+                <el-table ref="filterTable" v-if="activeName =='5b'" v-loading="loading"
+                    :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
+                    :border=true height="550" style="width: 100%" :lazy="true" :load="load">
+                    <el-table-column prop="id" label="#" sortable :resizable=false width="54">
+                    </el-table-column>
+                    <el-table-column prop="dir" label="目录" :resizable=false width="64"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'S/E' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }]"
+                        :filter-method="filterHandler">
+                    </el-table-column>
+                    <el-table-column prop="title" label="名称" min-width="300pt" :resizable=false sortable>
+                        <template slot-scope="scope">
+                            <div style="display:inline-block;vertical-align: middle">
+                                <el-image :src="'./minidisc/' + scope.row.name + '.png'"
+                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="true" />
+                            </div>
+                            <div style="display:inline-block;vertical-align: middle">
+                                <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
+                                    scope.row.title}}</div>
+                                <div style="font-size:5pt;vertical-align: bottom">{{ scope.row.artist}}</div>
+                            </div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="bpm" label="BPM" :resizable=false width="75" sortable>
+                    </el-table-column>
+                    <el-table-column prop="bpmrng" label="BPM 变动范围" :resizable=false width="115">
+                    </el-table-column>
+                    <el-table-column prop="B5EZ" label="EZ" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.B5EZ}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="B5NM" label="NM" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.B5NM}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="B5HD" label="HD" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.B5HD}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="B5SHD" label="SHD" :resizable=false width="75" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.B5SHD}}</div>
+                        </template>
+                    </el-table-column>
+                </el-table>
+            </el-tab-pane>
+            <!-- 6K BASIC -->
+            <el-tab-pane label="6K BASIC" name="6b" :lazy="true">
+                <span>
+                    <el-input v-model="searchTitle" style="width:320px" clearable>
+                        <template slot="prepend">搜索歌名</template>
+                    </el-input>
+                </span>
+                <span>
+                    <el-input v-model="searchArtist" style="width:350px" clearable>
+                        <template slot="prepend">搜索艺术家</template>
+                    </el-input>
+                </span>
+                <br /><span style="height: 10px;display: block;"></span>
+                <el-table ref="filterTable" v-if="activeName =='6b'" v-loading="loading"
+                    :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
+                    :border=true height="550" style="width: 100%" :lazy="true" :load="load">
+                    <el-table-column prop="id" label="#" sortable :resizable=false width="54">
+                    </el-table-column>
+                    <el-table-column prop="dir" label="目录" :resizable=false width="64"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'S/E' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }]"
+                        :filter-method="filterHandler">
+                    </el-table-column>
+                    <el-table-column prop="title" label="名称" min-width="300pt" :resizable=false sortable>
+                        <template slot-scope="scope">
+                            <div style="display:inline-block;vertical-align: middle">
+                                <el-image :src="'./minidisc/' + scope.row.name + '.png'"
+                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="true" />
+                            </div>
+                            <div style="display:inline-block;vertical-align: middle">
+                                <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
+                                    scope.row.title}}</div>
+                                <div style="font-size:5pt;vertical-align: bottom">{{ scope.row.artist}}</div>
+                            </div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="bpm" label="BPM" :resizable=false width="75" sortable>
+                    </el-table-column>
+                    <el-table-column prop="bpmrng" label="BPM 变动范围" :resizable=false width="115">
+                    </el-table-column>
+                    <el-table-column prop="B6EZ" label="EZ" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.B6EZ}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="B6NM" label="NM" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.B6NM}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="B6HD" label="HD" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.B6HD}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="B6SHD" label="SHD" :resizable=false width="75" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.B6SHD}}</div>
+                        </template>
+                    </el-table-column>
+                </el-table>
+            </el-tab-pane>
+            <!-- 4K STANDARD -->
+            <el-tab-pane label="4K STANDARD" name="4s" :lazy="true">
+                <span>
+                    <el-input v-model="searchTitle" style="width:320px" clearable>
+                        <template slot="prepend">搜索歌名</template>
+                    </el-input>
+                </span>
+                <span>
+                    <el-input v-model="searchArtist" style="width:350px" clearable>
+                        <template slot="prepend">搜索艺术家</template>
+                    </el-input>
+                </span>
+                <br /><span style="height: 10px;display: block;"></span>
+                <el-table ref="filterTable" v-if="activeName =='4s'" v-loading="loading"
+                    :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
+                    :border=true height="550" style="width: 100%" :lazy="true" :load="load">
+                    <el-table-column prop="id" label="#" sortable :resizable=false width="54">
+                    </el-table-column>
+                    <el-table-column prop="dir" label="目录" :resizable=false width="64"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'S/E' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }]"
+                        :filter-method="filterHandler">
+                    </el-table-column>
+                    <el-table-column prop="title" label="名称" min-width="300pt" :resizable=false sortable>
+                        <template slot-scope="scope">
+                            <div style="display:inline-block;vertical-align: middle">
+                                <el-image :src="'./minidisc/' + scope.row.name + '.png'"
+                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="true" />
+                            </div>
+                            <div style="display:inline-block;vertical-align: middle">
+                                <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
+                                    scope.row.title}}</div>
+                                <div style="font-size:5pt;vertical-align: bottom">{{ scope.row.artist}}</div>
+                            </div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="bpm" label="BPM" :resizable=false width="75" sortable>
+                    </el-table-column>
+                    <el-table-column prop="bpmrng" label="BPM 变动范围" :resizable=false width="115">
+                    </el-table-column>
+                    <el-table-column prop="S4EZ" label="EZ" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S4EZ}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="S4NM" label="NM" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S4NM}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="S4HD" label="HD" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S4HD}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="S4SHD" label="SHD" :resizable=false width="75" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S4SHD}}</div>
+                        </template>
+                    </el-table-column>
+                </el-table>
+            </el-tab-pane>
+            <!-- 5K STANDARD -->
+            <el-tab-pane label="5K STANDARD" name="5s" :lazy="true">
+                <span>
+                    <el-input v-model="searchTitle" style="width:320px" clearable>
+                        <template slot="prepend">搜索歌名</template>
+                    </el-input>
+                </span>
+                <span>
+                    <el-input v-model="searchArtist" style="width:350px" clearable>
+                        <template slot="prepend">搜索艺术家</template>
+                    </el-input>
+                </span>
+                <br /><span style="height: 10px;display: block;"></span>
+                <el-table ref="filterTable"  v-if="activeName =='5s'" v-loading="loading"
+                    :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
+                    :border=true height="550" style="width: 100%" :lazy="true" :load="load">
+                    <el-table-column prop="id" label="#" sortable :resizable=false width="54">
+                    </el-table-column>
+                    <el-table-column prop="dir" label="目录" :resizable=false width="64"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'S/E' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }]"
+                        :filter-method="filterHandler">
+                    </el-table-column>
+                    <el-table-column prop="title" label="名称" min-width="300pt" :resizable=false sortable>
+                        <template slot-scope="scope">
+                            <div style="display:inline-block;vertical-align: middle">
+                                <el-image :src="'./minidisc/' + scope.row.name + '.png'"
+                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="true" />
+                            </div>
+                            <div style="display:inline-block;vertical-align: middle">
+                                <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
+                                    scope.row.title}}</div>
+                                <div style="font-size:5pt;vertical-align: bottom">{{ scope.row.artist}}</div>
+                            </div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="bpm" label="BPM" :resizable=false width="75" sortable>
+                    </el-table-column>
+                    <el-table-column prop="bpmrng" label="BPM 变动范围" :resizable=false width="115">
+                    </el-table-column>
+                    <el-table-column prop="S8EZ" label="EZ" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S8EZ}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="S8NM" label="NM" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S8NM}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="S8HD" label="HD" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S8HD}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="S8SHD" label="SHD" :resizable=false width="75" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S8SHD}}</div>
+                        </template>
+                    </el-table-column>
+                </el-table>
+            </el-tab-pane>
+            <!-- 6K STANDARD -->
+            <el-tab-pane label="6K STANDARD" name="6s" :lazy="true">
+                <span>
+                    <el-input v-model="searchTitle" style="width:320px" clearable>
+                        <template slot="prepend">搜索歌名</template>
+                    </el-input>
+                </span>
+                <span>
+                    <el-input v-model="searchArtist" style="width:350px" clearable>
+                        <template slot="prepend">搜索艺术家</template>
+                    </el-input>
+                </span>
+                <br /><span style="height: 10px;display: block;"></span>
+                <el-table ref="filterTable" v-if="activeName =='6s'" v-loading="loading"
+                    :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
+                    :border=true height="550" style="width: 100%" :lazy="true" :load="load">
+                    <el-table-column prop="id" label="#" sortable :resizable=false width="54">
+                    </el-table-column>
+                    <el-table-column prop="dir" label="目录" :resizable=false width="64"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'S/E' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }]"
+                        :filter-method="filterHandler">
+                    </el-table-column>
+                    <el-table-column prop="title" label="名称" min-width="300pt" :resizable=false sortable>
+                        <template slot-scope="scope">
+                            <div style="display:inline-block;vertical-align: middle">
+                                <el-image :src="'./minidisc/' + scope.row.name + '.png'"
+                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="true" />
+                            </div>
+                            <div style="display:inline-block;vertical-align: middle">
+                                <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
+                                    scope.row.title}}</div>
+                                <div style="font-size:5pt;vertical-align: bottom">{{ scope.row.artist}}</div>
+                            </div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="bpm" label="BPM" :resizable=false width="75" sortable>
+                    </el-table-column>
+                    <el-table-column prop="bpmrng" label="BPM 变动范围" :resizable=false width="115">
+                    </el-table-column>
+                    <el-table-column prop="S5EZ" label="EZ" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S5EZ}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="S5NM" label="NM" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S5NM}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="S5HD" label="HD" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S5HD}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="S5SHD" label="SHD" :resizable=false width="75" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S5SHD}}</div>
+                        </template>
+                    </el-table-column>
+                </el-table>
+            </el-tab-pane>
+            <!-- 8K STANDARD -->
+            <el-tab-pane label="8K STANDARD" name="8s" :lazy="true">
+                <span>
+                    <el-input v-model="searchTitle" style="width:320px" clearable>
+                        <template slot="prepend">搜索歌名</template>
+                    </el-input>
+                </span>
+                <span>
+                    <el-input v-model="searchArtist" style="width:350px" clearable>
+                        <template slot="prepend">搜索艺术家</template>
+                    </el-input>
+                </span>
+                <br /><span style="height: 10px;display: block;"></span>
+                <el-table ref="filterTable" v-if="activeName =='8s'" v-loading="loading"
+                    :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
+                    :border=true height="550" style="width: 100%" :lazy="true" :load="load">
+                    <el-table-column prop="id" label="#" sortable :resizable=false width="54">
+                    </el-table-column>
+                    <el-table-column prop="dir" label="目录" :resizable=false width="64"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'S/E' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }]"
+                        :filter-method="filterHandler">
+                    </el-table-column>
+                    <el-table-column prop="title" label="名称" min-width="300pt" :resizable=false sortable>
+                        <template slot-scope="scope">
+                            <div style="display:inline-block;vertical-align: middle">
+                                <el-image :src="'./minidisc/' + scope.row.name + '.png'"
+                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="true" />
+                            </div>
+                            <div style="display:inline-block;vertical-align: middle">
+                                <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
+                                    scope.row.title}}</div>
+                                <div style="font-size:5pt;vertical-align: bottom">{{ scope.row.artist}}</div>
+                            </div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="bpm" label="BPM" :resizable=false width="75" sortable>
+                    </el-table-column>
+                    <el-table-column prop="bpmrng" label="BPM 变动范围" :resizable=false width="115">
+                    </el-table-column>
+                    <el-table-column prop="S5EZ" label="EZ" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S5EZ}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="S5NM" label="NM" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S5NM}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="S5HD" label="HD" :resizable=false width="70" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S5HD}}</div>
+                        </template>
+                    </el-table-column>
+                    <el-table-column prop="S5SHD" label="SHD" :resizable=false width="75" sortable>
+                        <template slot-scope="scope">
+                            <div style="font-size:14pt;font-weight:700pt;text-align:center">{{scope.row.S5SHD}}</div>
+                        </template>
+                    </el-table-column>
+                </el-table>
+            </el-tab-pane>
+        </el-tabs>
+    </template>
+</div>
+
+
+
+
+
+<script>
+    var url = "songlist/songlist.json";
+    var request = new XMLHttpRequest();
+    new Vue({
+        el: '#app',
+        data: function () {
+            return {
+                "tableData": [],
+                "searchTitle": '',
+                "searchArtist": '',
+                "activeName": '4b',
+                loading: false
+            }
+        },
+        mounted() {
+            var self = this
+            $.getJSON('./songlist.json', function (data) {
+                self.tableData = data.songs;
             });
-        });
-    </script>
-
-=== "5K BASIC"
-
-    <table id="5blist" class="display" style="width:100%">
-            <thead>
-                <tr>
-                    <th style="width:28px" >序号</th>
-                    <th style="width:28px"  >目录</th>
-                    <th style="width:28px"  >图标</th>
-                    <th>歌名</th>
-                    <th>艺术家</th>
-                    <th style="width:25px"  >BPM</th>
-                    <th style="width:40px"  > </th>
-                    <th style="width:22px" >EZ</th>
-                    <th style="width:22px" >NM</th>
-                    <th style="width:22px" >HD</th>
-                    <th style="width:26px" >SHD</th>
-                </tr>
-            </thead>
-    </table>
-    <script>
-        $(document).ready(function () {
-            $('#5blist').DataTable({
-                // ajax: $.csv.toObjects(require('songlist.csv'));
-                ajax: 'songlist.json',
-                "pageLength": 25,
-                "autoWidth": false,
-                columns: [
-                    { data: '序号' },
-                    { data: '目录' },
-                    { data: '图标' },
-                    { data: '歌名' },
-                    { data: '艺术家' },
-                    { data: 'BPM'},
-                    { data: 'BPMRNG'},
-                    { data: '5BEZ' },
-                    { data: '5BNM' },
-                    { data: '5BHD' },
-                    { data: '5BSHD' },
-                ],
-                columnDefs: [
-                    { orderable: false, targets: [2,6] }
-                ],
-                order: [[0, 'asc']]
-            });
-        });
-    </script>
-
-=== "6K BASIC"
-
-    <table id="6blist" class="display" style="width:100%">
-            <thead>
-                <tr>
-                    <th style="width:28px" >序号</th>
-                    <th style="width:28px"  >目录</th>
-                    <th style="width:28px"  >图标</th>
-                    <th>歌名</th>
-                    <th>艺术家</th>
-                    <th style="width:25px"  >BPM</th>
-                    <th style="width:40px"  > </th>
-                    <th style="width:22px" >EZ</th>
-                    <th style="width:22px" >NM</th>
-                    <th style="width:22px" >HD</th>
-                    <th style="width:26px" >SHD</th>
-                </tr>
-            </thead>
-    </table>
-    <script>
-        $(document).ready(function () {
-            $('#6blist').DataTable({
-                // ajax: $.csv.toObjects(require('songlist.csv'));
-                ajax: 'songlist.json',
-                "pageLength": 25,
-                "autoWidth": false,
-                columns: [
-                    { data: '序号' },
-                    { data: '目录' },
-                    { data: '图标' },
-                    { data: '歌名' },
-                    { data: '艺术家' },
-                    { data: 'BPM'},
-                    { data: 'BPMRNG'},
-                    { data: '6BEZ' },
-                    { data: '6BNM' },
-                    { data: '6BHD' },
-                    { data: '6BSHD' },
-                ],
-                columnDefs: [
-                    { orderable: false, targets: [2,6] }
-                ],
-                order: [[0, 'asc']]
-            });
-        });
-    </script>
-
-=== "4K STANDARD"
-
-    <table id="4slist" class="display" style="width:100%">
-            <thead>
-                <tr>
-                    <th style="width:28px" >序号</th>
-                    <th style="width:28px"  >目录</th>
-                    <th style="width:28px"  >图标</th>
-                    <th>歌名</th>
-                    <th>艺术家</th>
-                    <th style="width:25px"  >BPM</th>
-                    <th style="width:40px"  > </th>
-                    <th style="width:22px" >EZ</th>
-                    <th style="width:22px" >NM</th>
-                    <th style="width:22px" >HD</th>
-                    <th style="width:26px" >SHD</th>
-                </tr>
-            </thead>
-    </table>
-    <script>
-        $(document).ready(function () {
-            $('#4slist').DataTable({
-                // ajax: $.csv.toObjects(require('songlist.csv'));
-                ajax: 'songlist.json',
-                "pageLength": 25,
-                "autoWidth": false,
-                columns: [
-                    { data: '序号' },
-                    { data: '目录' },
-                    { data: '图标' },
-                    { data: '歌名' },
-                    { data: '艺术家' },
-                    { data: 'BPM'},
-                    { data: 'BPMRNG'},
-                    { data: '4SEZ' },
-                    { data: '4SNM' },
-                    { data: '4SHD' },
-                    { data: '4SSHD' },
-                ],
-                columnDefs: [
-                    { orderable: false, targets: [2,6] }
-                ],
-                order: [[0, 'asc']]
-            });
-        });
-    </script>
-
-=== "5K STANDARD"
-
-    <table id="5slist" class="display" style="width:100%">
-            <thead>
-                <tr>
-                    <th width="28px" >序号</th>
-                    <th width="28px" >目录</th>
-                    <th width="28px" >图标</th>
-                    <th>歌名</th>
-                    <th>艺术家</th>
-                    <th width="25px" >BPM</th>
-                    <th width="40px" > </th>
-                    <th width="22px" >EZ</th>
-                    <th width="22px" >NM</th>
-                    <th width="22px" >HD</th>
-                    <th width="26px" >SHD</th>
-                </tr>
-            </thead>
-    </table>
-    <script>
-        $(document).ready(function () {
-            $('#5slist').DataTable({
-                // ajax: $.csv.toObjects(require('songlist.csv'));
-               ajax: 'songlist.json',
-                "pageLength": 25,
-                "autoWidth": false,
-                columns: [
-                    { data: '序号' },
-                    { data: '目录' },
-                    { data: '图标' },
-                    { data: '歌名' },
-                    { data: '艺术家' },
-                    { data: 'BPM'},
-                    { data: 'BPMRNG'},
-                    { data: '5SEZ' },
-                    { data: '5SNM' },
-                    { data: '5SHD' },
-                    { data: '5SSHD' },
-                ],
-                columnDefs: [
-                    { orderable: false, targets: [2,6] }
-                ],
-                order: [[0, 'asc']]
-            });
-        });
-    </script>
-
-=== "6K STANDARD"
-
-    <table id="6slist" class="display" style="width:100%">
-            <thead>
-                <tr>
-                    <th width="28px" >序号</th>
-                    <th width="28px" >目录</th>
-                    <th width="28px" >图标</th>
-                    <th>歌名</th>
-                    <th>艺术家</th>
-                    <th width="25px" >BPM</th>
-                    <th width="40px" > </th>
-                    <th width="22px" >EZ</th>
-                    <th width="22px" >NM</th>
-                    <th width="22px" >HD</th>
-                    <th width="26px" >SHD</th>
-                </tr>
-            </thead>
-    </table>
-    <script>
-        $(document).ready(function () {
-            $('#6slist').DataTable({
-                // ajax: $.csv.toObjects(require('songlist.csv'));
-                ajax: 'songlist.json',
-                "pageLength": 25,
-                "autoWidth": false,
-                columns: [
-                    { data: '序号' },
-                    { data: '目录' },
-                    { data: '图标' },
-                    { data: '歌名' },
-                    { data: '艺术家' },
-                    { data: 'BPM'},
-                    { data: 'BPMRNG'},
-                    { data: '6SEZ' },
-                    { data: '6SNM' },
-                    { data: '6SHD' },
-                    { data: '6SSHD' },
-                ],
-                columnDefs: [
-                    { orderable: false, targets: [2,6] }
-                ],
-                order: [[0, 'asc']]
-            });
-        });
-    </script>
-
-=== "8K STANDARD"
-
-    <table id="8slist" class="display" style="width:100%">
-            <thead>
-                <tr>
-                    <th width="28px" >序号</th>
-                    <th width="28px" >目录</th>
-                    <th width="28px" >图标</th>
-                    <th>歌名</th>
-                    <th>艺术家</th>
-                    <th width="25px" >BPM</th>
-                    <th width="40px" > </th>
-                    <th width="22px" >EZ</th>
-                    <th width="22px" >NM</th>
-                    <th width="22px" >HD</th>
-                    <th width="26px" >SHD</th>
-                </tr>
-            </thead>
-    </table>
-    <script>
-        $(document).ready(function () {
-            $('#8slist').DataTable({
-                // ajax: $.csv.toObjects(require('songlist.csv'));
-               ajax: 'songlist.json',
-                "pageLength": 25,
-                "autoWidth": false,
-                columns: [
-                    { data: '序号' },
-                    { data: '目录' },
-                    { data: '图标' },
-                    { data: '歌名' },
-                    { data: '艺术家' },
-                    { data: 'BPM'},
-                    { data: 'BPMRNG'},
-                    { data: '8SEZ' },
-                    { data: '8SNM' },
-                    { data: '8SHD' },
-                    { data: '8SSHD' },
-                ],
-                columnDefs: [
-                    { orderable: false, targets: [2,6] }
-                ],
-                order: [[0, 'asc']]
-            });
-        });
-    </script>
-
-<!-- USE BELOW FOR BootStrap Themes, but there seems to be a slight problem with MkDocs Bootstrap... 
-<script type="text/javascript" charset="utf8" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
-<link rel="stylesheet" type="text/css" href="//cdn.datatables.net/plug-ins/1.10.7/integration/bootstrap/3/dataTables.bootstrap.css">
-<script type="text/javascript" charset="utf8" src="//cdn.datatables.net/plug-ins/1.10.7/integration/bootstrap/3/dataTables.bootstrap.js"></script>
--->
-
+        },
+        methods: {
+            filterHandler(value, row, column) {
+                const property = column['property'];
+                return row[property] === value;
+            },
+            handleClick(tab, event) {
+                console.log(tab, event);
+            }
+        }
+    })
+</script>
