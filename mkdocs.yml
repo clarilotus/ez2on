@@ -1,4 +1,5 @@
 site_name: 'EZ2ON REBOOT : R 中文 Wiki'
+repo_name: clarilotus/ez2on
 repo_url: https://github.com/clarilotus/ez2on
 nav:
   - '首页': index.md

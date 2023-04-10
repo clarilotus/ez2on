@@ -14,9 +14,9 @@ hide:
 
 <div id="app">
     <template>
-        <el-tabs v-model="activeName" @tab-click="handleClick">
+        <el-tabs v-model="activeName"  @tab-click="handleClick">
             <!-- 4K BASIC -->
-            <el-tab-pane label="4K BASIC" name="4b" :lazy="true"  v-loading="loading">
+            <el-tab-pane label="4K BASIC" name="4b" :lazy="false">
                 <span>
                     <el-input v-model="searchTitle" style="width:320px" clearable>
                         <template slot="prepend">搜索歌名</template>
@@ -30,7 +30,7 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable" v-if="activeName =='4b'"  v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="550" style="width: 100%" :lazy="true" :load="load">
+                    :border=true height="550" style="width: 100%" :lazy="false" >
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="64"
@@ -41,7 +41,7 @@ hide:
                         <template slot-scope="scope">
                             <div style="display:inline-block;vertical-align: middle">
                                 <el-image :src="'./minidisc/' + scope.row.name + '.png'"
-                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="true" />
+                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="false" />
                             </div>
                             <div style="display:inline-block;vertical-align: middle">
                                 <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
@@ -77,7 +77,7 @@ hide:
                 </el-table>
             </el-tab-pane>
             <!-- 5K BASIC -->
-            <el-tab-pane label="5K BASIC" name="5b" :lazy="true"  v-loading="loading">
+            <el-tab-pane label="5K BASIC" name="5b" :lazy="false">
                 <span>
                     <el-input v-model="searchTitle" style="width:320px" clearable>
                         <template slot="prepend">搜索歌名</template>
@@ -91,10 +91,10 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable" v-if="activeName =='5b'" v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="550" style="width: 100%" :lazy="true" :load="load">
+                    :border=true height="550" style="width: 100%" :lazy="false" >
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
-                    <el-table-column prop="dir" label="目录" :resizable=false width="64"
+                    <el-table-column prop="dir" label="目录 " :resizable=false width="64"
                         :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'S/E' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }]"
                         :filter-method="filterHandler">
                     </el-table-column>
@@ -102,7 +102,7 @@ hide:
                         <template slot-scope="scope">
                             <div style="display:inline-block;vertical-align: middle">
                                 <el-image :src="'./minidisc/' + scope.row.name + '.png'"
-                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="true" />
+                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="false" />
                             </div>
                             <div style="display:inline-block;vertical-align: middle">
                                 <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
@@ -138,7 +138,7 @@ hide:
                 </el-table>
             </el-tab-pane>
             <!-- 6K BASIC -->
-            <el-tab-pane label="6K BASIC" name="6b" :lazy="true">
+            <el-tab-pane label="6K BASIC" name="6b" :lazy="false">
                 <span>
                     <el-input v-model="searchTitle" style="width:320px" clearable>
                         <template slot="prepend">搜索歌名</template>
@@ -152,10 +152,10 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable" v-if="activeName =='6b'" v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="550" style="width: 100%" :lazy="true" :load="load">
+                    :border=true height="550" style="width: 100%" :lazy="false" >
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
-                    <el-table-column prop="dir" label="目录" :resizable=false width="64"
+                    <el-table-column prop="dir" label="目录 " :resizable=false width="64"
                         :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'S/E' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }]"
                         :filter-method="filterHandler">
                     </el-table-column>
@@ -163,7 +163,7 @@ hide:
                         <template slot-scope="scope">
                             <div style="display:inline-block;vertical-align: middle">
                                 <el-image :src="'./minidisc/' + scope.row.name + '.png'"
-                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="true" />
+                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="false" />
                             </div>
                             <div style="display:inline-block;vertical-align: middle">
                                 <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
@@ -199,7 +199,7 @@ hide:
                 </el-table>
             </el-tab-pane>
             <!-- 4K STANDARD -->
-            <el-tab-pane label="4K STANDARD" name="4s" :lazy="true">
+            <el-tab-pane label="4K STANDARD" name="4s" :lazy="false">
                 <span>
                     <el-input v-model="searchTitle" style="width:320px" clearable>
                         <template slot="prepend">搜索歌名</template>
@@ -213,10 +213,10 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable" v-if="activeName =='4s'" v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="550" style="width: 100%" :lazy="true" :load="load">
+                    :border=true height="550" style="width: 100%" :lazy="false" >
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
-                    <el-table-column prop="dir" label="目录" :resizable=false width="64"
+                    <el-table-column prop="dir" label="目录 " :resizable=false width="64"
                         :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'S/E' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }]"
                         :filter-method="filterHandler">
                     </el-table-column>
@@ -224,7 +224,7 @@ hide:
                         <template slot-scope="scope">
                             <div style="display:inline-block;vertical-align: middle">
                                 <el-image :src="'./minidisc/' + scope.row.name + '.png'"
-                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="true" />
+                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="false" />
                             </div>
                             <div style="display:inline-block;vertical-align: middle">
                                 <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
@@ -260,7 +260,7 @@ hide:
                 </el-table>
             </el-tab-pane>
             <!-- 5K STANDARD -->
-            <el-tab-pane label="5K STANDARD" name="5s" :lazy="true">
+            <el-tab-pane label="5K STANDARD" name="5s" :lazy="false">
                 <span>
                     <el-input v-model="searchTitle" style="width:320px" clearable>
                         <template slot="prepend">搜索歌名</template>
@@ -274,10 +274,10 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable"  v-if="activeName =='5s'" v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="550" style="width: 100%" :lazy="true" :load="load">
+                    :border=true height="550" style="width: 100%" :lazy="false" >
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
-                    <el-table-column prop="dir" label="目录" :resizable=false width="64"
+                    <el-table-column prop="dir" label="目录 " :resizable=false width="64"
                         :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'S/E' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }]"
                         :filter-method="filterHandler">
                     </el-table-column>
@@ -285,7 +285,7 @@ hide:
                         <template slot-scope="scope">
                             <div style="display:inline-block;vertical-align: middle">
                                 <el-image :src="'./minidisc/' + scope.row.name + '.png'"
-                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="true" />
+                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="false" />
                             </div>
                             <div style="display:inline-block;vertical-align: middle">
                                 <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
@@ -321,7 +321,7 @@ hide:
                 </el-table>
             </el-tab-pane>
             <!-- 6K STANDARD -->
-            <el-tab-pane label="6K STANDARD" name="6s" :lazy="true">
+            <el-tab-pane label="6K STANDARD" name="6s" :lazy="false">
                 <span>
                     <el-input v-model="searchTitle" style="width:320px" clearable>
                         <template slot="prepend">搜索歌名</template>
@@ -335,10 +335,10 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable" v-if="activeName =='6s'" v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="550" style="width: 100%" :lazy="true" :load="load">
+                    :border=true height="550" style="width: 100%" :lazy="false" >
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
-                    <el-table-column prop="dir" label="目录" :resizable=false width="64"
+                    <el-table-column prop="dir" label="目录 " :resizable=false width="64"
                         :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'S/E' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }]"
                         :filter-method="filterHandler">
                     </el-table-column>
@@ -346,7 +346,7 @@ hide:
                         <template slot-scope="scope">
                             <div style="display:inline-block;vertical-align: middle">
                                 <el-image :src="'./minidisc/' + scope.row.name + '.png'"
-                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="true" />
+                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="false" />
                             </div>
                             <div style="display:inline-block;vertical-align: middle">
                                 <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
@@ -382,7 +382,7 @@ hide:
                 </el-table>
             </el-tab-pane>
             <!-- 8K STANDARD -->
-            <el-tab-pane label="8K STANDARD" name="8s" :lazy="true">
+            <el-tab-pane label="8K STANDARD" name="8s" :lazy="false">
                 <span>
                     <el-input v-model="searchTitle" style="width:320px" clearable>
                         <template slot="prepend">搜索歌名</template>
@@ -396,10 +396,10 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable" v-if="activeName =='8s'" v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="550" style="width: 100%" :lazy="true" :load="load">
+                    :border=true height="550" style="width: 100%" :lazy="false" >
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
-                    <el-table-column prop="dir" label="目录" :resizable=false width="64"
+                    <el-table-column prop="dir" label="目录 " :resizable=false width="64"
                         :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'S/E' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }]"
                         :filter-method="filterHandler">
                     </el-table-column>
@@ -407,7 +407,7 @@ hide:
                         <template slot-scope="scope">
                             <div style="display:inline-block;vertical-align: middle">
                                 <el-image :src="'./minidisc/' + scope.row.name + '.png'"
-                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="true" />
+                                    style="width: 38px; height: 38px;vertical-align: middle" :lazy="false" />
                             </div>
                             <div style="display:inline-block;vertical-align: middle">
                                 <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
@@ -461,13 +461,14 @@ hide:
                 "searchTitle": '',
                 "searchArtist": '',
                 "activeName": '4b',
-                loading: false
+                loading: true
             }
         },
         mounted() {
             var self = this
             $.getJSON('./songlist.json', function (data) {
                 self.tableData = data.songs;
+                self.loading = false
             });
         },
         methods: {
