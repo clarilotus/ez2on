@@ -42,6 +42,8 @@ extra_css:
   - stylesheets/extra.css
 theme:
   name: material
+  icon:
+    logo: bootstrap/envelope-paper
   language: zh
   palette:
     scheme: default
