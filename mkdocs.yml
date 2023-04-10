@@ -3,7 +3,7 @@ repo_name: clarilotus/ez2on
 repo_url: https://github.com/clarilotus/ez2on
 nav:
   - '首页': index.md
-  - '购买指南': purchase
+  - '购买指南': purchase/index.md
   - '游戏指南':   
     - '主菜单 & 模式': guide/main.md
     - 'BASIC & STANDARD 自由演奏': guide/freemode/index.md
@@ -11,7 +11,7 @@ nav:
     - 'COURSE 课题组曲': guide/course/index.md
     - 'LOUNGE 个人中心': guide/lounge/index.md
     - 'OPTION 系统选项': guide/option/index.md
-  - '歌曲列表': songlist
+  - '歌曲列表': songlist/index.md
     # - '4K BASIC': songlist/4b.md
     # - '5K BASIC': songlist/5b.md
     # - '6K BASIC': songlist/6b.md
