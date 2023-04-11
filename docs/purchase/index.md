@@ -5,9 +5,9 @@ hide:
 
 # 游戏与 DLC 购买指引
 
-## EZ2ON REBOOT : R 游戏本体
+## 一、EZ2ON REBOOT : R 游戏本体
 
-![EZ2ON REBOOT : R](./assets/dlc/ez2on.jpg){ width="368" }
+![EZ2ON REBOOT : R](./assets/dlc/ez2on.jpg)
 
 > 游戏本体，收录旧时代 EZ2DJ 街机 1~7 代、EZ2ON 2008 旧网络版、2013 版 REBOOT、以及 2021 本作新增的歌曲，曲目数量250+。
 
@@ -19,11 +19,11 @@ hide:
 
 ---
 
-## 歌曲包 DLC
+## 二、歌曲包 DLC
 
-### TIME TRAVELER
+### 1. TIME TRAVELER
 
-![TIME TRAVELER](./assets/dlc/tt.jpg){ width="368" }
+![TIME TRAVELER](./assets/dlc/tt.jpg)
 
 > 街机歌曲扩充包，收录街机 EZ2AC : TIME TRAVELER 当作及附加曲目共计 17 首歌，歌曲风格比较偏科幻的电子风，整体难度较难，捆绑目前全游戏最难的课题组曲。
 
@@ -45,9 +45,9 @@ hide:
 
 ---
 
-### CODENAME VIOLET
+### 2. CODENAME VIOLET
 
-![CODENAME : VIOLET](./assets/dlc/cv.jpg){ width="368" }
+![CODENAME : VIOLET](./assets/dlc/cv.jpg)
 
 > 街机歌曲扩充包，收录街机 EZ2DJ 7th 特别版 CODENAME : VIOLET 和 BONUS EDITION 的 10 首歌曲，整体难度中等偏难。
 
@@ -68,9 +68,9 @@ hide:
 
 ---
 
-### PRESTIGE PASS
+### 3. PRESTIGE PASS
 
-![PRESTIGE PASS](./assets/dlc/pp.jpg){ width="368" }
+![PRESTIGE PASS](./assets/dlc/pp.jpg)
 
 > 原创歌曲扩充包，曲师阵营有 Cosmograph、RiraN、M2U、Memme 等出名的韩系曲师，特邀的日系曲师 Yamajet、onoken、Tatsh、NAOKI、TAG 等，以及从 DJMAX 系列出身的 Planetboom、NieN、Nauts 等，还有远古 EZ2 系列回归的老朋友 ND Lee、r300k，歌曲风格覆盖面非常广，质量非常高，极力推荐购买，共计 42 首曲目 (包含 1 首隐藏曲)。
 
@@ -90,9 +90,9 @@ hide:
 
 ---
 
-### O2Jam Collaboration
+### 4. O2Jam Collaboration
 
-![O2JAM](./assets/dlc/o2.jpg){ width="368" }
+![O2JAM](./assets/dlc/o2.jpg)
 
 > 联动《劲乐团》，包含 22 首曲目，其中 13 首经典时期的人气歌曲，2 首来自《PopStage》，7 首来自移动版《Analog》和《U》。
 
@@ -113,9 +113,9 @@ hide:
 
 ---
 
-### GROOVE COASTER Collaboration
+### 5. GROOVE COASTER Collaboration
 
-![GROOVE COASTER](./assets/dlc/gc.jpg){ width="368" }
+![GROOVE COASTER](./assets/dlc/gc.jpg)
 
 > 联动《节奏过山车》，从历代每一作各挑选一两首代表性曲目。
 
@@ -143,7 +143,7 @@ hide:
 
 ### Quantum Complex
 
-![Quantum Complex](./assets/theme/qc.jpg){ width="368" }
+![Quantum Complex](./assets/theme/qc.jpg)
 
 > 街机 EZ2AC : FINAL EX 的主题皮肤 DLC，主题风格非常酷炫。
 
@@ -168,7 +168,7 @@ hide:
 
 ### ENDLESS CIRCULATION
 
-![ENDLESS CIRCULATION](./assets/dlc/ec_demo.jpg){ width="368" }
+![ENDLESS CIRCULATION](./assets/dlc/ec_demo.jpg)
 
 > 街机歌曲扩充包，收录街机 EZ2AC : ENDLESS CIRCULATION 中的歌曲，初定共收录 38 首歌，已宣布 2023 年 4 月下旬推出 Chapter 1 共 20 首歌，下半年推出 Chapter 2 共 18 首歌。
 
