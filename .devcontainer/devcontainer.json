@@ -7,7 +7,7 @@
         }
     },
     "waitFor": "onCreateCommand",
-    "updateContentCommand": "pip install mkdocs-material",
+    "postCreateCommand": ["pip","install","mkdocs-material"],
     "postAttachCommand": ["/bin/sh",".devcontainer/mkdocs_serve"],
     "forwardPorts": [8000],
     "portsAttributes": {
