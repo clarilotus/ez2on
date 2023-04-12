@@ -49,9 +49,8 @@ hide:
                             </div>
                         </template>
                     </el-table-column>
-                    <el-table-column prop="bpm" label="BPM" :resizable=false width="75" sortable>
-                    </el-table-column>
-                    <el-table-column prop="bpmrng" label="BPM 变动范围" :resizable=false width="115">
+                    <el-table-column prop="bpm" label="BPM" :resizable=false width="140" sortable>
+                        <template slot-scope="scope">{{scope.row.bpm}} {{scope.row.bpmrng}}</template>
                     </el-table-column>
                     <el-table-column prop="B4EZ" label="EZ" :resizable=false width="70" sortable>
                         <template slot-scope="scope">
@@ -109,9 +108,8 @@ hide:
                             </div>
                         </template>
                     </el-table-column>
-                    <el-table-column prop="bpm" label="BPM" :resizable=false width="75" sortable>
-                    </el-table-column>
-                    <el-table-column prop="bpmrng" label="BPM 变动范围" :resizable=false width="115">
+                    <el-table-column prop="bpm" label="BPM" :resizable=false width="140" sortable>
+                        <template slot-scope="scope">{{scope.row.bpm}} {{scope.row.bpmrng}}</template>
                     </el-table-column>
                     <el-table-column prop="B5EZ" label="EZ" :resizable=false width="70" sortable>
                         <template slot-scope="scope">
@@ -169,9 +167,8 @@ hide:
                             </div>
                         </template>
                     </el-table-column>
-                    <el-table-column prop="bpm" label="BPM" :resizable=false width="75" sortable>
-                    </el-table-column>
-                    <el-table-column prop="bpmrng" label="BPM 变动范围" :resizable=false width="115">
+                    <el-table-column prop="bpm" label="BPM" :resizable=false width="140" sortable>
+                        <template slot-scope="scope">{{scope.row.bpm}} {{scope.row.bpmrng}}</template>
                     </el-table-column>
                     <el-table-column prop="B6EZ" label="EZ" :resizable=false width="70" sortable>
                         <template slot-scope="scope">
@@ -229,9 +226,8 @@ hide:
                             </div>
                         </template>
                     </el-table-column>
-                    <el-table-column prop="bpm" label="BPM" :resizable=false width="75" sortable>
-                    </el-table-column>
-                    <el-table-column prop="bpmrng" label="BPM 变动范围" :resizable=false width="115">
+                    <el-table-column prop="bpm" label="BPM" :resizable=false width="140" sortable>
+                        <template slot-scope="scope">{{scope.row.bpm}} {{scope.row.bpmrng}}</template>
                     </el-table-column>
                     <el-table-column prop="S4EZ" label="EZ" :resizable=false width="70" sortable>
                         <template slot-scope="scope">
@@ -289,9 +285,8 @@ hide:
                             </div>
                         </template>
                     </el-table-column>
-                    <el-table-column prop="bpm" label="BPM" :resizable=false width="75" sortable>
-                    </el-table-column>
-                    <el-table-column prop="bpmrng" label="BPM 变动范围" :resizable=false width="115">
+                    <el-table-column prop="bpm" label="BPM" :resizable=false width="140" sortable>
+                        <template slot-scope="scope">{{scope.row.bpm}} {{scope.row.bpmrng}}</template>
                     </el-table-column>
                     <el-table-column prop="S8EZ" label="EZ" :resizable=false width="70" sortable>
                         <template slot-scope="scope">
@@ -349,9 +344,8 @@ hide:
                             </div>
                         </template>
                     </el-table-column>
-                    <el-table-column prop="bpm" label="BPM" :resizable=false width="75" sortable>
-                    </el-table-column>
-                    <el-table-column prop="bpmrng" label="BPM 变动范围" :resizable=false width="115">
+                    <el-table-column prop="bpm" label="BPM" :resizable=false width="140" sortable>
+                        <template slot-scope="scope">{{scope.row.bpm}} {{scope.row.bpmrng}}</template>
                     </el-table-column>
                     <el-table-column prop="S5EZ" label="EZ" :resizable=false width="70" sortable>
                         <template slot-scope="scope">
@@ -409,9 +403,8 @@ hide:
                             </div>
                         </template>
                     </el-table-column>
-                    <el-table-column prop="bpm" label="BPM" :resizable=false width="75" sortable>
-                    </el-table-column>
-                    <el-table-column prop="bpmrng" label="BPM 变动范围" :resizable=false width="115">
+                    <el-table-column prop="bpm" label="BPM" :resizable=false width="140" sortable>
+                        <template slot-scope="scope">{{scope.row.bpm}} {{scope.row.bpmrng}}</template>
                     </el-table-column>
                     <el-table-column prop="S5EZ" label="EZ" :resizable=false width="70" sortable>
                         <template slot-scope="scope">
