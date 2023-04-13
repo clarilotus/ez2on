@@ -5,12 +5,12 @@ nav:
   - '首页': index.md
   - '购买指南': purchase/index.md
   - '游戏指南':   
-    - '主菜单 & 模式': guide/main.md
-    - 'BASIC & STANDARD 自由演奏': guide/freemode/index.md
-    - 'MULTIPLAY 多人演奏': guide/multiplay/index.md
-    - 'COURSE 课题组曲': guide/course/index.md
-    - 'LOUNGE 个人中心': guide/lounge/index.md
-    - 'OPTION 系统选项': guide/option/index.md
+    - '一、主菜单 & 模式': guide/main.md
+    - '二、BASIC & STANDARD 自由演奏': guide/freemode/index.md
+    - '三、MULTIPLAY 多人演奏': guide/multiplay/index.md
+    - '四、COURSE 课题组曲': guide/course/index.md
+    - '五、LOUNGE 个人中心': guide/lounge/index.md
+    - '六、OPTION 系统选项': guide/option/index.md
   - '歌曲列表': songlist/index.md
     # - '4K BASIC': songlist/4b.md
     # - '5K BASIC': songlist/5b.md
@@ -36,8 +36,16 @@ markdown_extensions:
   - pymdownx.superfences
   - attr_list
   - md_in_html
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
   - pymdownx.tabbed:
       alternate_style: true 
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
 extra_css:
   - stylesheets/extra.css
 theme:
@@ -55,6 +63,7 @@ theme:
     - navigation.expand
     # - navigation.indexes
     - toc.follow
+    - toc.integrate
     - navigation.top
     - content.tabs.link
   font:

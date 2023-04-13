@@ -2,11 +2,11 @@
 
 ## 主要功能区
 
-![自由模式](./assets/bastd.png)
+![自由模式](./assets/bastd.jpg)
 
 ### 1. 导航栏
 
-![导航栏](./assets/navbar.png)
+![导航栏](./assets/navbar.jpg)
 
 #### 个人资料
 
@@ -16,7 +16,7 @@
 
 可快速切换到不同功能模式，只能用鼠标操作，功能目录分布如下：
 
-![navplay](./assets/nav_play.png) ![navopt](./assets/nav_opt.png)
+![navplay](./assets/nav_play.jpg) ![navopt](./assets/nav_opt.jpg)
 
 - HOME - 主菜单
 - (PLAY - 演奏)
@@ -30,25 +30,25 @@
 
 #### 键数模式切换
 
-用于切换不同的键数模式，快捷键是 `TAB`。
+用于切换不同的键数模式，快捷键是 ++tabulator++。
 
-![键数模式切换](./assets/navbar_key.png)
+![键数模式切换](./assets/navbar_key.jpg)
 
 ---
 
 ### 2. 目录栏
 
-![目录栏](./assets/dirbar.png)
+![目录栏](./assets/dirbar.jpg)
 
 #### 代数目录切换
 
-切换不同目录 (代数、DLC) 的歌单，快捷键是 `左右 SHIFT`。
+切换不同目录 (代数、DLC) 的歌单，快捷键是 ++lshift++、++rshift++。
 
 #### 歌单排序方式
 
-切换歌单歌曲的排序 (如按名称、按等级分离等)，快捷键是 `F4`，可选排序方式如下：
+切换歌单歌曲的排序 (如按名称、按等级分离等)，快捷键是 ++f4++，可选排序方式如下：
 
-![排序方式](./assets/dirbar_sort.png)
+![排序方式](./assets/dirbar_sort.jpg)
 
 - `NAME`
 
@@ -72,7 +72,7 @@
 
 #### 显示已收藏歌曲
 
-仅显示已添加收藏的歌曲，快捷键是 `F10`。
+仅显示已添加收藏的歌曲，快捷键是 ++f10++。
 
 ![收藏按钮](./assets/dirbar_fav.png)
 
@@ -88,13 +88,13 @@
 
 #### 参数设置面板开关
 
-打开简要参数设置面板 (下文介绍)，快捷键是 `SPACE`。
+打开简要参数设置面板 (下文介绍)，快捷键是 ++spc++。
 
 ![打开简要参数设置面板](./assets/gsbar_open.png)
 
 #### NOTE SPEED
 
-调节音符下落速度，可通过点击 `鼠标左右键（左加右减）` 调节。
+调节音符下落速度，可通过点击 <kbd>:material-mouse: 鼠标左/右键点击</kbd> 调节。
 
 ![调节音符下落速度](./assets/gsbar_speed.png)
 
