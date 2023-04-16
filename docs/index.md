@@ -1,6 +1,19 @@
 ---
 hide:
   - navigation
+features:
+  - title: 购买指南
+    details: 介绍 Steam 中游戏本体及所有 DLC 内容，并提供推荐程度指引。
+  - title: 游戏指引
+    details: 详细讲解游戏内所有配置项及功能，包括。
+  - title: 歌曲信息
+    details: 展示游戏中已收录的所有单曲及谱面信息，按 BASIC 和 STANDARD 共 7 个模式区分展示。
+  - title: 课题组曲
+    details: 展示游戏中 COURSE 课题组曲模式中的所有挑战信息。
+  - title: 视觉装备
+    details: 介绍游戏的系统主题、演奏面板、演奏音符等视觉装备，及提供推荐方案。
+  - title: 常见问题
+    details: 罗列常见问题及解决建议。
 ---
 
 # 总体介绍

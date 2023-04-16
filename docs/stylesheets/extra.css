@@ -139,3 +139,8 @@ th {
         padding-right: calc(100% - 18rem);
     }
 }
+
+
+.md-typeset .admonition, .md-typeset details {
+    font-size: 0.7rem;
+}
