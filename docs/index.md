@@ -16,9 +16,72 @@ features:
     details: 罗列常见问题及解决建议。
 ---
 
+
 # 总体介绍
 
-EZ2ON REBOOT : R 中文 Wiki 是为国内 EZ2ON (Steam 版) 玩家提供游戏的购买指南、歌曲、详细功能讲解等，并为新玩家提供入门指南及相关信息的百科，目前由 clarilotus 进行维护。
+
+<style>
+#_1{
+	font-size: 0.001em;
+    line-height: 0;
+	color:transparent;
+}
+.md-content__inner {
+    margin: 0px 2.8rem 1.2rem;
+    padding-top: .6rem;
+}
+</style>
+<header class="hero" style="text-align: center;">
+	<img src="/assets/hero.png" alt="hero" class="hero-logo" style="vertical-align: middle; zoom: 100%">
+	<h1 id="main-title" style="font-size: 2.5rem;margin: 1.8rem auto;font-weight: 500;line-height: 0.25;">
+		EZ2ON REBOOT : R 中文 Wiki
+	</h1>
+	<div class="description" style="max-width: 45rem;font-size: 1.0rem;line-height: 1.3;color: #949494;text-align: center;margin:auto">
+		为国内 EZ2ON (Steam 版) 玩家提供游戏的购买指南、歌曲、详细功能讲解等，并为新玩家提供入门指南及相关信息的百科。
+	</div></header></br></br>
+</header>
+
+<div class="grid cards" markdown style="max-width: 1100px;margin: auto;">
+
+-   :material-shopping:{ .lg .middle } __购买指南__
+			
+	---
+			
+	介绍 Steam 中游戏本体及所有 DLC 内容，并提供推荐程度指引。
+				
+-   :material-book:{ .lg .middle } __游戏指引__
+			
+	---
+			
+	讲解游戏内每个模式的操作，以及所有功能可配置项的详细说明。
+			
+			
+-   :material-file-music:{ .lg .middle } __歌曲信息__
+	
+	---
+			
+	展示游戏中已收录的所有单曲及谱面信息，按 BASIC 和 STANDARD 共 7 个模式区分展示。
+				
+-   :material-school:{ .lg .middle } __课题组曲__
+			
+	---
+			
+	展示游戏中 COURSE 课题组曲模式中的所有挑战课题信息。
+			
+-   :material-format-paint:{ .lg .middle } __视觉装备__
+			
+	---
+			
+	介绍游戏的系统主题、演奏面板、演奏音符等视觉装备，及提供推荐方。	
+	
+-   :material-help-box-multiple:{ .lg .middle } __常见问题__
+			
+	---
+			
+	罗列在游戏中遇到的常见问题及解决建议。	
+</div>
+			
+---
 
 !!! warning "注意"
 
@@ -26,82 +89,16 @@ EZ2ON REBOOT : R 中文 Wiki 是为国内 EZ2ON (Steam 版) 玩家提供游戏�
 
 ---
 
-## 购买指南
-
-介绍 Steam 中游戏本体及所有 DLC 内容，并提供推荐程度指引。
-
----
-
-## 游戏指引
-
-详细讲解游戏内所有配置项及功能，包括：
-
-- 主菜单 & 模式介绍
-
-- 自由演奏 BASIC & STANDARD
-  
-- 多人演奏 MULTIPLAY
-  
-- 课题组曲 COURSE
-  
-- 数据中心 LOUNGE
-  
-- 系统选型 OPTION
-
----
-
-## 歌曲信息
-
-展示游戏中已收录的所有单曲及谱面信息，按 BASIC 和 STANDARD 共 7 个模式区分展示。
-
----
-
-## 课题组曲
-
-展示游戏中 [COURSE 课题组曲](/course/#COURSE) 模式中的所有挑战信息。
-
----
-
-## 视觉装备
-
-介绍游戏的系统主题、演奏面板、演奏音符等视觉装备，及提供推荐方案.
-
----
-
-## Rating 系统
-
-讲解评级系统 Rating 的评定标准。
-
----
-
-## 常见问题
-
-罗列常见问题及解决建议。
-
----
-
 ## 联系信息
 
-- EZ2ON 官方 Youtube 频道：
-  
-    [https://www.youtube.com/@EZ2ONOfficial](https://www.youtube.com/@EZ2ONOfficial)
+- EZ2ON 官方 Youtube 频道：[https://www.youtube.com/@EZ2ONOfficial](https://www.youtube.com/@EZ2ONOfficial)
 
-- EZ2ON 官方 Twitter：
+- EZ2ON 官方 Twitter：[https://twitter.com/ez2on_official](https://twitter.com/ez2on_official)
 
-    [https://twitter.com/ez2on_official](https://twitter.com/ez2on_official)
+- EZ2ON 官方 Discord：[https://discord.gg/ez2onofficial](https://discord.gg/ez2onofficial)
 
-- EZ2ON 官方 Discord：
+- EZ2ON 官方 Facebook (已停更)：[https://www.facebook.com/ez2on](https://www.facebook.com/ez2on)
 
-    [https://discord.gg/ez2onofficial](https://discord.gg/ez2onofficial)
-
-- EZ2ON 官方 Facebook (已停更)
-
-    [https://www.facebook.com/ez2on](https://www.facebook.com/ez2on)
-
-- bilibili @clarilotus
-
-    [https://space.bilibili.com/170896943](https://space.bilibili.com/170896943)
+- bilibili @clarilotus：[https://space.bilibili.com/170896943](https://space.bilibili.com/170896943)
     
-- EZ2ON 交流 QQ 群
-
-    [954099355](https://jq.qq.com/?_wv=1027&k=9atW8Y9W)
+- EZ2ON 交流 QQ 群：[954099355](https://jq.qq.com/?_wv=1027&k=9atW8Y9W)

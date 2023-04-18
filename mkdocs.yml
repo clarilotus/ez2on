@@ -60,7 +60,8 @@ extra_css:
   - stylesheets/extra.css
 theme:
   name: material
-  favicon: assets/Finite4.png
+  favicon: assets/logo.png
+  logo: assets/hero.png
   language: zh
   palette:
     scheme: default
