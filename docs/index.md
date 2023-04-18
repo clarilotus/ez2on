@@ -32,7 +32,7 @@ features:
 }
 </style>
 <header class="hero" style="text-align: center;">
-	<img src="/assets/hero.png" alt="hero" class="hero-logo" style="vertical-align: middle; zoom: 100%">
+	<img src="./assets/hero.png" alt="hero" class="hero-logo" style="vertical-align: middle; zoom: 100%">
 	<h1 id="main-title" style="font-size: 2.5rem;margin: 1.8rem auto;font-weight: 500;line-height: 0.25;">
 		EZ2ON REBOOT : R 中文 Wiki
 	</h1>
