@@ -10,7 +10,17 @@ hide:
 <script type="text/javascript" charset="utf8" src="../javascripts/jquery.js"></script>
 <script type="text/javascript" charset="utf8" src="../javascripts/vue2.js"></script>
 <script type="text/javascript" charset="utf8" src="../javascripts/element-ui.js"></script>
-
+<style>
+#_1{
+	font-size: 0.001em;
+    line-height: 0;
+	color:transparent;
+}
+.md-content__inner {
+    margin: -38px 0.8rem 1.2rem;
+    padding-top: 0rem;
+}
+</style>
 
 <div id="app">
     <template>
@@ -26,7 +36,7 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable" v-if="activeName =='4b'"  v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="550" style="width: 100%" :lazy="false">
+                    :border=true height="530" style="width: 100%" :lazy="false">
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
@@ -447,6 +457,7 @@ hide:
                 "searchTitle": '',
                 "searchArtist": '',
                 "activeName": '4b',
+                "vheight": 100,
                 loading: true
             }
         },

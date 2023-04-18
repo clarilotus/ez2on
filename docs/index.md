@@ -26,19 +26,49 @@ features:
     line-height: 0;
 	color:transparent;
 }
-.md-content__inner {
+
+
+
+@media screen and (max-width: 76.1875em) {
+    #main-title {
+        font-size: 1.2rem;
+		margin: 0rem auto;
+    }
+	.md-content__inner {
+    margin: 0px 1rem 1.2rem;
+    padding-top: .6rem;
+	}
+	.description {
+		font-size: 0.8rem;
+		padding-top: .6rem;
+		padding-bottom: 1.6rem;
+	}
+}
+@media screen and (min-width: 78em) {
+    #main-title {
+        font-size: 2.5rem;
+		margin: 1.8rem auto;
+    }
+	.md-content__inner {
     margin: 0px 2.8rem 1.2rem;
     padding-top: .6rem;
+	
+	}
+	.description {
+		font-size: 1.2rem;
+		padding-bottom: 2.6rem;
+	}
 }
+
 </style>
 <header class="hero" style="text-align: center;">
-	<img src="./assets/hero.png" alt="hero" class="hero-logo" style="vertical-align: middle; zoom: 100%">
-	<h1 id="main-title" style="font-size: 2.5rem;margin: 1.8rem auto;font-weight: 500;line-height: 0.25;">
+	<img src="./assets/hero.png" alt="hero" class="hero-logo" style="vertical-align: middle; zoom: 100%;margin-top: -20px;">
+	<h1 id="main-title" style="font-weight: 500;line-height: 1.25;">
 		EZ2ON REBOOT : R 中文 Wiki
 	</h1>
-	<div class="description" style="max-width: 45rem;font-size: 1.0rem;line-height: 1.3;color: #949494;text-align: center;margin:auto">
+	<div class="description" style="max-width: 45rem;line-height: 1.3;color: #949494;text-align: center;margin:auto">
 		为国内 EZ2ON (Steam 版) 玩家提供游戏的购买指南、歌曲、详细功能讲解等，并为新玩家提供入门指南及相关信息的百科。
-	</div></header></br></br>
+	</div></header>
 </header>
 
 <div class="grid cards" markdown style="max-width: 1100px;margin: auto;">

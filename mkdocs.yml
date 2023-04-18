@@ -70,8 +70,8 @@ theme:
   features:
     - navigation.tracking
     - navigation.tabs
-    - navigation.path
-    - navigation.expand
+    # - navigation.path
+    # - navigation.expand
     # - navigation.indexes
     - toc.follow
     - toc.integrate
