@@ -6,7 +6,7 @@
 
 ![BASIC](./assets/ModeIcon_BASIC.png)
 
-- 可自由演奏 `4键`、`5键`、`6键` 的任何谱面，判定非常宽松，官方数据为 `KOOL 40ms`；
+- 可自由演奏任何谱面，判定非常宽松，官方数据为 `KOOL 40ms`；
 - BASIC 模式的成绩排行榜单独统计，`与 STANDARD 模式不共享`；
 - BASIC 模式下，部分歌曲的 EZ 难度谱面比 STANDARD 模式下的要简单；
 - BASIC 模式下演奏的成绩 `不会累计 Rating 值`。
@@ -15,8 +15,8 @@
 
 ![STANDARD](./assets/ModeIcon_STANDARD.png)
 
-- 可自由演奏 `4键`、`5键`、`6键`、`8键` 的任何谱面，判定为正常判定，官方数据为 `KOOL 22ms`；
-- 累计 Rating 值将在后文 Rating 部分中会讲解。
+- 可自由演奏任何谱面，判定为标准判定，官方数据为 `KOOL 22ms`、`COOL 60ms`；
+<!-- - 累计 Rating 值将在后文 Rating 部分中会讲解。 -->
 
 ## 3. MULTIPLAYER 多人演奏
 
