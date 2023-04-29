@@ -2,7 +2,7 @@
 
 ## EZ2ON REBOOT : R 游戏本体
 
-![EZ2ON REBOOT : R](./assets/dlc/ez2on.jpg)
+![EZ2ON REBOOT : R](./assets/base.jpg)
 
 > 游戏本体，收录旧时代 EZ2DJ 街机 1~7 代、EZ2ON 2008 旧网络版、2013 版 REBOOT、以及 2021 本作新增的歌曲，曲目数量250+。
 
@@ -32,10 +32,10 @@
 - 捆绑内容：
     + 系统主题： `TIME TRAVELER`
     + 演奏面板： `TIME TRAVELER`
+    + 面板背景： `TIME STREAM`
     + 演奏音符： `TIME ORBIT`
     + 判定字体： `TIME TRAVELER`
     + 连击字体： `TIME TRAVELER`
-    + 面板背景： `TIME STREAM`
     + 课题组曲： `TIME PARADOX`
 
 ---
@@ -79,9 +79,11 @@
 - 捆绑内容：
     + 系统主题：`PRESTIGE PASS`
     + 演奏面板：`Kings`、`NIGHTFALL`、`FiND A WAY`、`Varvious Ways`
+    + 面板背景：`Kings`、`PRESTIGE PASS`、`FiND A WAY`、`Varvious Ways`
     + 演奏音符：`DOOMS`、`PRESTIGE INGOT`、`PRESTIGE CHIP`、`Scarlet`、`BEANS`
     + 判定字体：`Kings`、`NIGHTFALL`、`FiND A WAY`、`Varvious Ways`
     + 连击字体：`Kings`、`NIGHTFALL`、`FiND A WAY`、`Varvious Ways`
+    + 课题组曲：`PP Maglev Central Line`、`PP Maglev Central Line -RH-`
 
 ---
 
@@ -101,6 +103,7 @@
 - 捆绑内容：
     + 系统主题：`O2Jam`
     + 演奏面板：`O2Jam`、`O2-EA05`
+    + 面板背景：`O2Jam`
     + 演奏音符：`O2Jam`、`NX`、`M250`
     + 判定字体：`Cricket`、`Aqua`、`M250`
     + 连击字体：`Cricket`、`AquaWhale`、`M250`
@@ -124,9 +127,33 @@
 - 捆绑内容：
     + 系统主题：`GROOVE COASTER`
     + 演奏面板：`GROOVE COASTER`
+    + 面板背景：`GROOVE COASTER`
     + 演奏音符：`GROOVE COASTER`
     + 判定字体：`GC-TYPE1`、`GC-TYPE2`
     + 连击字体：`GC-TYPE1`、`GC-TYPE2`
+
+---
+
+### ENDLESS CIRCULATION
+
+![ENDLESS CIRCULATION](./assets/dlc/ec.jpg)
+
+> 街机歌曲扩充包，收录街机 EZ2AC : ENDLESS CIRCULATION 中的歌曲，初定共收录 38 首歌，现推出 Chapter 1 共 20 首歌，下半年将会继续推出 Chapter 2 共 18 首歌。
+
+- 购买链接：[https://store.steampowered.com/app/2325460 :octicons-link-external-16:](https://store.steampowered.com/app/2325460)
+- 推荐程度：⭐⭐⭐⭐⭐
+- 国区原价：**¥ 118.00**
+- 历史最低：**¥ 106.20**
+- 歌曲数量：**38 (现已推出 20 首，2023 年下半年将推出另外 18 首)**
+- 曲风偏向：**迷幻舞曲**
+- 难度趋向：**中等偏难**
+- 捆绑内容：
+    + 系统主题：`ENDLESS CIRCULATION`
+    + 演奏面板：`EC2304 Mk.II`
+    + 面板背景：`ENDLESS`
+    + 演奏音符：`ENDLESS LUNE`
+    + 判定字体：`EC2304 Mk.II`、`EC1304`
+    + 连击字体：`ENDLESS`
 
 ---
 
@@ -160,14 +187,6 @@
 !!! tip "提示"
     
     以下内容均已确定会推出，部分尚未公布详细信息与推出日期。
-
-### ENDLESS CIRCULATION
-
-![ENDLESS CIRCULATION](./assets/dlc/ec_demo.jpg)
-
-> 街机歌曲扩充包，收录街机 EZ2AC : ENDLESS CIRCULATION 中的歌曲，初定共收录 38 首歌，已宣布 2023 年 4 月下旬推出 Chapter 1 共 20 首歌，下半年推出 Chapter 2 共 18 首歌。
-
----
 
 ### DJMAX EMOTIONAL SENSE Collaboration
 
