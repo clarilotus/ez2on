@@ -76,7 +76,7 @@ theme:
     - toc.follow
     - toc.integrate
     - navigation.top
-    - content.tabs.link
+    # - content.tabs.link
   font:
     text: Noto Sans Simplified Chinese
   icon:
