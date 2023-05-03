@@ -38,7 +38,7 @@ nav:
     - '判定字体 JUDGE FONT': equips/judge.md
     - '连击字体 COMBO FONT': equips/combo.md
     - '面板背景 PANEL BG': equips/panelbg.md
-  - 'Rating': rating/index.md
+  # - 'Rating': rating/index.md
 markdown_extensions:
   - tables
   - admonition

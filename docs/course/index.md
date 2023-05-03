@@ -680,7 +680,7 @@ The forbidden answer , unleashed.
         </code></td><td>        <!-- 第四首 歌名 -->    Fire Storm
         </td></tr><tr><td>**总得分**</td><td>
                                 <!-- 总得分 -->         /
-        </td><td style="font-size: 3px;padding-left: 4.8em">
+        </td><td style="font-size: 30%;padding-left: 3em">
                                 <!-- 谱师名 -->         YUKINARI! MELON & Jackalope
         </td><td>**所需 DLC**</td><td colspan = "2">
                                 <!-- 所需 DLC -->/
@@ -710,7 +710,7 @@ The forbidden answer , unleashed.
         </code></td><td>        <!-- 第四首 歌名 -->    Fire Storm
         </td></tr><tr><td>**总得分**</td><td>
                                 <!-- 总得分 -->         /
-        </td><td style="font-size: 3px;padding-left: 4.8em">
+        </td><td style="font-size: 30%;padding-left: 3em">
                                 <!-- 谱师名 -->         YUKINARI! MELON & Jackalope
         </td><td>**所需 DLC**</td><td colspan = "2">
                                 <!-- 所需 DLC -->/
@@ -740,7 +740,7 @@ The forbidden answer , unleashed.
         </code></td><td>        <!-- 第四首 歌名 -->    Fire Storm
         </td></tr><tr><td>**总得分**</td><td>
                                 <!-- 总得分 -->         /
-        </td><td style="font-size: 3px;padding-left: 4.8em">
+        </td><td style="font-size: 30%;padding-left: 3em">
                                 <!-- 谱师名 -->         YUKINARI! MELON & Jackalope
         </td><td>**所需 DLC**</td><td colspan = "2">
                                 <!-- 所需 DLC -->/
@@ -1365,7 +1365,7 @@ EXTRA RAPID SERVICE
         </code></td><td>        <!-- 第四首 歌名 -->    ?
         </td></tr><tr><td>**总得分**</td><td>
                                 <!-- 总得分 -->         3255900
-        </td><td style="font-size: 3px;padding-left: 4.8em">
+        </td><td style="font-size: 30%;padding-left: 3em">
                                 <!-- 谱师名 -->         YUKINARI! MELON & Jackalope
         </td><td>**所需 DLC**</td><td colspan = "2">
                                 <!-- 所需 DLC -->       `PRESTIGE PASS`
@@ -1494,7 +1494,7 @@ EXTRA RAPID SERVICE
         </code></td><td>        <!-- 第四首 歌名 -->    ?
         </td></tr><tr><td>**总得分**</td><td>
                                 <!-- 总得分 -->         3255900
-        </td><td style="font-size: 3px;padding-left: 4.8em">
+        </td><td style="font-size: 30%;padding-left: 3em">
                                 <!-- 谱师名 -->         YUKINARI! MELON & Jackalope
         </td><td>**所需 DLC**</td><td colspan = "2">
                                 <!-- 所需 DLC -->       `PRESTIGE PASS`
@@ -1681,7 +1681,7 @@ Resolve the contradiction
         </code></td><td>        <!-- 第四首 歌名 -->    Last Flight
         </td></tr><tr><td>**总得分**</td><td>
                                 <!-- 总得分 -->         3398400
-        </td><td style="font-size: 3px;padding-left: 4.8em">
+        </td><td style="font-size: 30%;padding-left: 3em">
                                 <!-- 谱师名 -->         YUKINARI! MELON & Jackalope
         </td><td>**所需 DLC**</td><td colspan = "2">
                                 <!-- 所需 DLC -->       `TIME TRAVELER`
