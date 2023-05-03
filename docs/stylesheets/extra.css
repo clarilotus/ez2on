@@ -172,3 +172,25 @@ th {
     height: 2.2rem;
     width: auto;
 }
+
+.md-nav nav {
+    padding-bottom: 20px;
+}
+
+.md-nav__item{
+    /* font-size: larger; */
+    font-family: 'Microsoft Yahei UI';
+    font-weight: 520;
+}
+
+.md-typeset table:not([class]) td {
+    border-left: 1px solid var(--md-typeset-table-color);
+    border-top: 1px solid var(--md-typeset-table-color);
+}
+
+.md-typeset table:not([class]){
+    border-left: 0px solid var(--md-typeset-table-color);
+    border-top: 0px solid var(--md-typeset-table-color);
+    border-right:  1px solid var(--md-typeset-table-color);
+    border-bottom:  1px solid var(--md-typeset-table-color);
+}

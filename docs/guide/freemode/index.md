@@ -20,13 +20,13 @@
 
 - HOME - 主菜单
 - (PLAY - 演奏)
-  - BASIC - 自由模式：入门
-  - STANDARD - 自由模式：标准
-  - COURSE - 课题组曲
+	- BASIC - 自由模式：入门
+	- STANDARD - 自由模式：标准
+	- COURSE - 课题组曲
 - MULTIPLAY - 多人演奏
 - (OTHER - 其它)
-  - OPTION - 系统选项
-  - LOUNGE - 数据中心
+	- OPTION - 系统选项
+	- LOUNGE - 数据中心
 
 #### 键数模式切换
 

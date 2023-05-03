@@ -304,15 +304,19 @@
 
 作为房间宾客成员时，表示准备就绪，快捷键为 ++f5++。
 
-![READY](./assets/room_ready.jpg)
+![READY](./assets/Ready_glow.png)
 
 #### START
 
 作为房间房主时，若其它成员玩家全部都已经进入 READY 状态，则开始进入演奏模式，快捷键也为 ++f5++。
 
+![START](./assets/Start_glow.png)
+
 #### OBSERVE
 
 本次自己的演奏设置为旁观状态，并表示准备就绪，快捷键为 ++f6++。
+
+![OBSERVE](./assets/Observer_glow.png)
 
 !!! tip "提示"
 
@@ -437,25 +441,25 @@
 
 再次按下 ++spc++ 打开高级参数设置面板。
 
-![Advanced Options](./assets/gslite_adv.jpg)
+![Advanced Options](./assets/gslite_adv.png)
 
 ---
 
 ### 2. 高级参数设置 - PLAY
 
-![参数设置面板 - PLAY 部分](./assets/gsplay.jpg)
+![参数设置面板 - PLAY 部分](./assets/gsplay.png)
 
 #### 分类切换标签
 
 切换 PLAY、VISUAL、LAB、MULTIPLAY 四个分类的参数设置。
 
-![设置分类切换标签](./assets/gsplay_sw.jpg)
+![设置分类切换标签](./assets/gsplay_sw.png)
 
 #### JUDGE LINE
 
 判定线位置。
 
-![判定线位置](./assets/gsplay_judgeline.jpg)
+![判定线位置](./assets/gsplay_judgeline.png)
 
 - `NEW`
   
@@ -469,7 +473,7 @@
 
 判定偏移显示开关。(与 [上文](#early-%C2%B7-late) 一致)
 
-![EARLY | LATE](./assets/gsplay_el.jpg)
+![EARLY | LATE](./assets/gsplay_el.png)
 
 - `ON`
 
@@ -483,15 +487,15 @@
 
 调节音符下落速度。(与 [上文](#note-speed-1) 一致)
 
-![NOTE SPEED](./assets/gsplay_speed.jpg)
+![NOTE SPEED](./assets/gsplay_speed.png)
 
 #### EARLY | LATE THRESHOLD
 
 调节打击偏移 EARLY / LATE 的显示精度范围。
 
-![EARLY | LATE THRESHOLD](./assets/gsplay_elt.jpg)
+![EARLY | LATE THRESHOLD](./assets/gsplay_elt.png)
 
-!!! tip "用途
+!!! tip "用途"
 
     1. 实际打击偏移超过此选项中的时间精度设置才显示；
    
@@ -503,19 +507,19 @@
 
 校正显示延迟偏差。(与 [上文](#display-delay-correction) 一致)
 
-![DISPLAY DELAY CORRECTION](./assets/gsplay_delay.jpg)
+![DISPLAY DELAY CORRECTION](./assets/gsplay_delay.png)
 
 #### RANDOM EFFECT
 
 轨道随机效果选项，见 [上文](#random-effector)。
 
-![RANDOM EFFECTOR](./assets/gsplay_random.jpg)
+![RANDOM EFFECTOR](./assets/gsplay_random.png)
 
 #### FADER EFFECTOR
 
 视觉遮掩效果选项。
 
-![FADER EFFECTOR](./assets/gsplay_fader.jpg)
+![FADER EFFECTOR](./assets/gsplay_fader.png)
 
 - `NONE`
   
@@ -541,7 +545,7 @@
 
 演奏中是否显示判定数据详细面板。
 
-![JUDGEMENT TRACKER](./assets/gsplay_jt.jpg)
+![JUDGEMENT TRACKER](./assets/gsplay_jt.png)
 
 - `ON`
 
@@ -556,7 +560,7 @@
 
 是否在游戏演奏中允许按快捷键 ++f5++ 快速重新开始演奏。
 
-![QUICK RESTART OPTION](./assets/gsplay_qro.jpg)
+![QUICK RESTART OPTION](./assets/gsplay_qro.png)
 
 - `ON`
 
@@ -570,7 +574,7 @@
 
 低音增强效果。
 
-![BASS BOOST](./assets/gsplay_bass.jpg)
+![BASS BOOST](./assets/gsplay_bass.png)
 
 - `ON`
 
@@ -584,7 +588,7 @@
 
 高音增强效果。
 
-![TREBLE BOOST](./assets/gsplay_treble.jpg)
+![TREBLE BOOST](./assets/gsplay_treble.png)
 
 - `ON`
 
@@ -598,7 +602,7 @@
 
 左右声道混响效果。
 
-![REVERB](./assets/gsplay_reverb.jpg)
+![REVERB](./assets/gsplay_reverb.png)
 
 - `ON`
 
@@ -614,7 +618,7 @@
 
 音频动态缩放效果。
 
-![COMPRESSOR](./assets/gsplay_compress.jpg)
+![COMPRESSOR](./assets/gsplay_compress.png)
 
 - `ON`
 
@@ -630,31 +634,31 @@
 
 ### 3. 高级参数设置 - VISUAL
 
-![参数设置面板 - VISUAL 部分](./assets/gsvisual.jpg)
+![参数设置面板 - VISUAL 部分](./assets/gsvisual.png)
 
 #### 分类切换标签
 
 切换 PLAY、VISUAL、LAB、MULTIPLAY 四个分类的参数设置。
 
-![设置分类切换标签](./assets/gsvisual_sw.jpg)
+![设置分类切换标签](./assets/gsvisual_sw.png)
 
 #### BGA BRIGHTNESS
 
 背景动画亮度调节。
 
-![BGA BRIGHTNESS](./assets/gsvisual_bgabright.jpg)
+![BGA BRIGHTNESS](./assets/gsvisual_bgabright.png)
 
 #### PANEL OPACITY
 
 面板背景透明度调节。
 
-![PANEL OPACITY](./assets/gsvisual_panelopa.jpg)
+![PANEL OPACITY](./assets/gsvisual_panelopa.png)
 
 #### KEY FEEDBACK OPACITY
 
 轨道打击光亮度调节。
 
-![KEY FEEDBACK OPACITY](./assets/gsvisual_keyfeed.jpg)
+![KEY FEEDBACK OPACITY](./assets/gsvisual_keyfeed.png)
 
 > 即按下演奏按键时，演奏面板里对应轨道的光柱。
 
@@ -662,61 +666,61 @@
 
 更换演奏面板皮肤，所有可用演奏面板可见 [演奏面板]() 部分。 
 
-![PANEL SKIN](./assets/gsvisual_panel.jpg)
+![PANEL SKIN](./assets/gsvisual_panel.png)
 
 #### NOTE SKIN
 
 更换演奏音符皮肤，所有可用演奏音符可见 [演奏音符]() 部分。 
 
-![NOTE SKIN](./assets/gsvisual_note.jpg)
+![NOTE SKIN](./assets/gsvisual_note.png)
 
 #### VETICAL LINE
 
 调节音符辅助线长度，即音符两侧的辅助线。
 
-![VETICAL LINE](./assets/gsvisual_vline.jpg)
+![VETICAL LINE](./assets/gsvisual_vline.png)
 
 #### COMBO POSITION
 
 调节连击字体在面板中的垂直位置。
 
-![COMBO POSITION](./assets/gsvisual_combopos.jpg)
+![COMBO POSITION](./assets/gsvisual_combopos.png)
 
 #### JUDGE POSITION
 
 调节判定字体在面板中的垂直位置。
 
-![JUDGE POSITION](./assets/gsvisual_judgepos.jpg)
+![JUDGE POSITION](./assets/gsvisual_judgepos.png)
 
 #### EARLY | LATE POSITION
 
 调节EARLY、LATE 指示在面板中的垂直位置。
 
-![EARLY | LATE POSITION](./assets/gsvisual_elpos.jpg)
+![EARLY | LATE POSITION](./assets/gsvisual_elpos.png)
 
 #### COMBO SKIN
 
 更换连击字体样式，所有可用连击字体可见 [连击字体]() 部分。 
 
-![COMBO SKIN](./assets/gsvisual_combo.jpg)
+![COMBO SKIN](./assets/gsvisual_combo.png)
 
 #### JUDGE SKIN
 
 更换判定字体样式，所有可用判定字体可见 [判定字体]() 部分。 
 
-![JUDGE SKIN](./assets/gsvisual_judge.jpg)
+![JUDGE SKIN](./assets/gsvisual_judge.png)
 
 #### PANEL BG
 
 更换判定面板背景底图，所有可用面板背景可见 [面板背景]() 部分。 
 
-![PANEL BG](./assets/gsvisual_panelbg.jpg)
+![PANEL BG](./assets/gsvisual_panelbg.png)
 
 #### PANEL ALIGN
 
 更改演奏面板位置。
 
-![PANEL ALIGN](./assets/gsvisual_panelal.jpg)
+![PANEL ALIGN](./assets/gsvisual_panelal.png)
 
 - `LEFT`
 
@@ -734,7 +738,7 @@
 
 更改连击字体的动画特效形式。
 
-![COMBO ANIMATION](./assets/gsvisual_comboani.jpg)
+![COMBO ANIMATION](./assets/gsvisual_comboani.png)
 
 - `NEW`
 
@@ -748,7 +752,7 @@
 
 更改判定字体的动画特效形式。
 
-![JUDGE ANIMATION](./assets/gsvisual_judgeani.jpg)
+![JUDGE ANIMATION](./assets/gsvisual_judgeani.png)
 
 - `NEW`
 
@@ -762,7 +766,7 @@
 
 更改能量槽闪动灯效的形式。
 
-![GROOVE LIGHT](./assets/gsvisual_glight.jpg)
+![GROOVE LIGHT](./assets/gsvisual_glight.png)
 
 - `HIGH`
 
@@ -776,7 +780,7 @@
 
 打击出现 GOOD 判定时是否也显示爆炸特效。
 
-![GOOD BOMB](./assets/gsvisual_gcombo.jpg)
+![GOOD BOMB](./assets/gsvisual_gcombo.png)
 
 - `ON`
 
@@ -793,14 +797,14 @@
 
 用来存放用于实验性功能。
 
-![参数设置面板 - LAB 部分](./assets/gslab.jpg)
+![参数设置面板 - LAB 部分](./assets/gslab.png)
 
 
 #### 分类切换标签
 
 切换 PLAY、VISUAL、LAB、MULTIPLAY 四个分类的参数设置。
 
-![设置分类切换标签](./assets/gsvisual_sw.jpg)
+![设置分类切换标签](./assets/gsvisual_sw.png)
 
 
 #### 8K PANEL TYPE SETTING
@@ -817,15 +821,19 @@
 
 ### 5. 高级参数设置 - MULTIPLAY
 
+![ 高级参数设置 - MULTIPLAY](./assets/gs_multiplay.jpg)
+
 #### MULTIPLAY PREVIEW
 
 多人 (>= 3人) 时的偏好预览。
+
+![MULTIPLAY PREVIEW](./assets/gsmp_pre.png)
 
 #### PANEL ALIGN
 
 更改演奏面板位置，与上文一致。
 
-![PANEL ALIGN](./assets/gsvisual_panelal.jpg)
+![PANEL ALIGN](./assets/gsmp_pa.png)
 
 - `LEFT`
 
@@ -847,6 +855,8 @@
 
 是否显示其它玩家的连击数字。
 
+![COMBO](./assets/gsmp_combo.png)
+
 - `ON`
 
     显示其它玩家的连击数字。
@@ -858,6 +868,8 @@
 #### COOL BOOM
 
 是否显示其它玩家的击中特效。
+
+![COOL BOOM](./assets/gsmp_coolboom.png)
 
 - `ON`
 
@@ -871,11 +883,13 @@
 
 房间内仅两人时的偏好预览。
 
+![MULTIPLAY PREVIEW](./assets/gsmp_pre1v1.png)
+
 #### PANEL ALIGN (1:1)
 
 更改房间内仅两人时的演奏面板位置。
 
-![PANEL ALIGN (1:1)](./assets/gsvisual_panelal.jpg)
+![PANEL ALIGN](./assets/gsmp_pa1v1.png)
 
 - `LEFT`
 
@@ -893,6 +907,8 @@
 
 是否显示对手的连击数字。
 
+![COMBO](./assets/gsmp_combo.png)
+
 - `ON`
 
     显示对手的连击数字。
@@ -905,6 +921,8 @@
 
 是否显示对手的击中特效。
 
+![COOL BOOM](./assets/gsmp_coolboom.png)
+
 - `ON`
 
     显示对手的击中特效。
@@ -916,6 +934,8 @@
 #### MISS INDICATOR LIGHT
 
 是否显示其它玩家出现 MISS 和 FAIL 时的红色闪光。
+
+![COOL BOOM](./assets/gsmp_mil.png)
 
 - `ON`
 
