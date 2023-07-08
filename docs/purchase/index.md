@@ -49,7 +49,7 @@
 - 购买链接：[https://store.steampowered.com/app/1926200 :octicons-link-external-16:](https://store.steampowered.com/app/1926200)
 - 推荐程度：⭐⭐⭐⭐
 - 国区原价：**¥ 37.00** (Early Access 内测期间购买了游戏本体的玩家已免费赠送该 DLC)
-- 历史最低：**¥ 29.60**
+- 历史最低：**¥ 22.75**
 - 歌曲数量：**10** (未来极有可能追加额外曲目)
 - 曲风偏向：**复古、电子、钢琴曲**
 - 难度趋向：**中等偏难**
@@ -72,7 +72,7 @@
 - 购买链接：[https://store.steampowered.com/app/1926210 :octicons-link-external-16:](https://store.steampowered.com/app/1926210)
 - 推荐程度：⭐⭐⭐⭐⭐⭐
 - 国区原价：**¥ 108.00**
-- 历史最低：**¥ 97.20**
+- 历史最低：**¥ 91.80**
 - 歌曲数量：**42 (41 + 1)**
 - 曲风偏向：**复古、电子、钢琴曲**
 - 难度趋向：**中等偏难**
@@ -120,7 +120,7 @@
 - 购买链接：[https://store.steampowered.com/app/2130530 :octicons-link-external-16:](https://store.steampowered.com/app/2130530)
 - 推荐程度：⭐⭐⭐
 - 国区原价：**¥ 78.00**
-- 历史最低：**¥ 70.20**
+- 历史最低：**¥ 66.30**
 - 歌曲数量：**10**
 - 曲风偏向：**电子**
 - 难度趋向：**较难**
@@ -154,6 +154,29 @@
     + 演奏音符：`ENDLESS LUNE`
     + 判定字体：`EC2304 Mk.II`、`EC1304`
     + 连击字体：`ENDLESS`
+
+---
+
+### FORTRESS Collaboration
+
+![FORTRESS](./assets/dlc/ft.jpg)
+
+> 联动经典网游《疯狂坦克 (FORTRESS)》，全为自家曲师参与混音制作的 Remix 曲目，初定共收录 22 首歌，现已推出 14 首，年末将会继续追加 8 首以及《疯狂坦克 3》主题套装。
+
+- 购买链接：[https://store.steampowered.com/app/2459810 :octicons-link-external-16:](https://store.steampowered.com/app/2459810)
+- 推荐程度：⭐⭐⭐⭐⭐
+- 国区原价：**¥ 98.00**
+- 历史最低：**¥ 88.20**
+- 歌曲数量：**22 (现已推出 14 首，2023 年末将推出另外 8 首)**
+- 曲风偏向：**电子混音、轻音乐、摇滚、电核**
+- 难度趋向：**偏简单**
+- 捆绑内容：
+    + 系统主题：`FORTRESS`、`FORTRESS 3 (未推出)`
+    + 演奏面板：`FORTRESS 2`
+    + 面板背景：`FORTRESS 2`
+    + 演奏音符：`FORTRESS 2 Cannon`、`FORTRESS 2 Laser`
+    + 判定字体：`FORTRESS 2`
+    + 连击字体：`FORTRESS 2`
 
 ---
 
@@ -201,14 +224,6 @@
 > 联动日本著名音乐团体，已宣布最快于 2023 年第四季度推出。
 
 ![TANO*C](./assets/dlc/tanoc_demo.jpg){ width="512" }
-
----
-
-### FORTRESS Collaboration
-
-> 联动经典游戏《疯狂坦克》，暂未公布任何详情。
-
-![FORTRESS](./assets/dlc/fortress_demo.jpg){ width="512" }
 
 ---
 
