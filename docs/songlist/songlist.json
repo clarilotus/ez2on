@@ -2873,8 +2873,8 @@
         {
             "id": 71,
             "dir": "3RD",
-            "name": 214,
-            "title": 2.14,
+            "name": "214",
+            "title": "2.14",
             "artist": "FE",
             "bpm": 113,
             "bpmrng": " ",
@@ -2914,8 +2914,8 @@
         {
             "id": 72,
             "dir": "3RD",
-            "name": 20000000000,
-            "title": 20000000000,
+            "name": "20000000000",
+            "title": "20000000000",
             "artist": "Croove",
             "bpm": 174,
             "bpmrng": " ",
@@ -11606,7 +11606,7 @@
         {
             "id": 284,
             "dir": "PP",
-            "name": 2038,
+            "name": "2038",
             "title": "2038 (2022 Version)",
             "artist": "Yamajet",
             "bpm": 138,
