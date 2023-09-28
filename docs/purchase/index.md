@@ -9,7 +9,7 @@
 
 - 购买链接：[https://store.steampowered.com/app/1477590 :octicons-link-external-16:](https://store.steampowered.com/app/1477590)
 - 国区原价：**¥ 126.00**
-- 历史最低：**¥ 88.20 (20% Off)**
+- 历史最低：**¥ 81.90** (35% Off)
 - 歌曲数量：**250+**
 
 ---
@@ -49,8 +49,8 @@
 - 购买链接：[https://store.steampowered.com/app/1926200 :octicons-link-external-16:](https://store.steampowered.com/app/1926200)
 - 推荐程度：⭐⭐⭐⭐
 - 国区原价：**¥ 37.00** (Early Access 内测期间购买了游戏本体的玩家已免费赠送该 DLC)
-- 历史最低：**¥ 22.75**
-- 歌曲数量：**10** (未来极有可能追加额外曲目)
+- 历史最低：**¥ 25.90** (30% Off)
+- 歌曲数量：**10** (未来有可能追加额外曲目)
 - 曲风偏向：**复古、电子、钢琴曲**
 - 难度趋向：**中等偏难**
 - 捆绑内容：
@@ -72,7 +72,7 @@
 - 购买链接：[https://store.steampowered.com/app/1926210 :octicons-link-external-16:](https://store.steampowered.com/app/1926210)
 - 推荐程度：⭐⭐⭐⭐⭐⭐
 - 国区原价：**¥ 108.00**
-- 历史最低：**¥ 91.80**
+- 历史最低：**¥ 86.40** (20% Off)
 - 歌曲数量：**42 (41 + 1)**
 - 曲风偏向：**复古、电子、钢琴曲**
 - 难度趋向：**中等偏难**
@@ -96,7 +96,7 @@
 - 购买链接：[https://store.steampowered.com/app/2052630 :octicons-link-external-16:](https://store.steampowered.com/app/2052630)
 - 推荐程度：⭐⭐⭐⭐
 - 国区原价：**¥ 88.00**
-- 历史最低：**¥ 74.80**
+- 历史最低：**¥ 70.40** (20% Off)
 - 歌曲数量：**22**
 - 曲风偏向：**多样化、经典**
 - 难度趋向：**中等**
@@ -120,9 +120,8 @@
 - 购买链接：[https://store.steampowered.com/app/2130530 :octicons-link-external-16:](https://store.steampowered.com/app/2130530)
 - 推荐程度：⭐⭐⭐
 - 国区原价：**¥ 78.00**
-- 历史最低：**¥ 66.30**
+- 历史最低：**¥ 62.40** (20% Off)
 - 歌曲数量：**10**
-- 曲风偏向：**电子**
 - 难度趋向：**较难**
 - 捆绑内容：
     + 系统主题：`GROOVE COASTER`
@@ -143,8 +142,8 @@
 - 购买链接：[https://store.steampowered.com/app/2325460 :octicons-link-external-16:](https://store.steampowered.com/app/2325460)
 - 推荐程度：⭐⭐⭐⭐⭐
 - 国区原价：**¥ 118.00**
-- 历史最低：**¥ 106.20**
-- 歌曲数量：**38 (现已推出 20 首，2023 年下半年将推出另外 18 首)**
+- 历史最低：**¥ 106.20** (10% Off)
+- 歌曲数量：**38** (现已推出 20 首，2023 年下半年将推出另外 18 首)
 - 曲风偏向：**迷幻舞曲**
 - 难度趋向：**中等偏难**
 - 捆绑内容：
@@ -166,8 +165,8 @@
 - 购买链接：[https://store.steampowered.com/app/2459810 :octicons-link-external-16:](https://store.steampowered.com/app/2459810)
 - 推荐程度：⭐⭐⭐⭐
 - 国区原价：**¥ 98.00**
-- 历史最低：**¥ 88.20**
-- 歌曲数量：**22 (现已推出 14 首，2023 年末将推出另外 8 首)**
+- 历史最低：**¥ 88.20** (10% Off)
+- 歌曲数量：**22** (现已推出 14 首，2023 年末将推出另外 8 首)
 - 曲风偏向：**电子混音、轻音乐、摇滚、电核**
 - 难度趋向：**偏简单**
 - 捆绑内容：
@@ -179,6 +178,29 @@
     + 连击字体：`FORTRESS 2`
 
 ---
+
+### DJMAX Collaboration
+
+![DJMAX](./assets/dlc/djmax.jpg)
+
+> 联动 DJMAX EMOTIONAL SENSE，共 18 首歌，从几乎每一代挑选一两首具有代表性的高质量人气歌曲。
+
+- 购买链接：[https://store.steampowered.com/app/2427370 :octicons-link-external-16:](https://store.steampowered.com/app/2427370)
+- 推荐程度：⭐⭐⭐⭐⭐⭐
+- 国区原价：**¥ 78.00**
+- 历史最低：**¥ 70.20** (10% Off)
+- 歌曲数量：**18**
+- 难度趋向：**较难**
+- 捆绑内容：
+    + 系统主题：`DJMAX RESPECT V`
+    + 演奏面板：`PG-RESPECT`、`TECHNIKA`
+    + 面板背景：`DJMAX`、`TECHNIKA`
+    + 演奏音符：`DJMAX`、`AQUA`、`TECHNIKA`
+    + 判定字体：`DJMAX`、`TECHNIKA`
+    + 连击字体：`DJMAX`、`EMOTIONAL SENSE`、`TECHNIKA`
+
+---
+
 
 ## 外观主题包 DLC
 
@@ -195,7 +217,7 @@
 - 购买链接：[https://store.steampowered.com/app/1926230 :octicons-link-external-16:](https://store.steampowered.com/app/1926230)
 - 推荐程度：⭐⭐⭐⭐⭐
 - 国区原价：**¥ 37.00** (Early Access 内测期间购买了游戏本体的玩家已免费赠送该 DLC)
-- 历史最低：**¥ 27.75**
+- 历史最低：**¥ 25.90** (30% Off)
 - 捆绑内容：
     + 系统主题：`Quantum Complex`
     + 演奏面板：`QTZ-01`、`QTZ-02`
@@ -210,14 +232,6 @@
 !!! tip "提示"
     
     以下内容均已确定会推出，部分尚未公布详细信息与推出日期。
-
-### DJMAX EMOTIONAL SENSE Collaboration
-
-> 联动 DJMAX EMOTIONAL SENSE，已宣布 2023 年内会推出，共 18 首歌，但暂未公布具体日期与售价等。
-
-![DJMAX](./assets/dlc/djmax_demo.jpg){ width="512" }
-
----
 
 ### HARDCORE TANO*C Collaboration
 
