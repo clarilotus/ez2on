@@ -1807,3 +1807,41 @@ The hand is quicker than the eye
     </td></tr></table>
 
 ---
+
+
+## AUTUMNAL EQUINOX
+
+2023 SPECIAL
+
+> 2023 中秋节特别庆祝神秘组曲，暂未推出，预估为 7 键模式特殊组曲。
+
+=== "SP"
+
+    <table  style="display: inline-block; vertical-align: middle"><tr>
+        <td colspan = "2" rowspan="4">![Trickster](./assets/disc/23sp-01.png){ width="200" }</td><td width="160">**等级**</td><td colspan = "3" style="text-align: right;font-weight: 600;">
+                                <!-- 是否有AC挑战 -->   
+        </td></tr><tr><td minwidth="160" rowspan="3" style="width: 20px; text-align: center;vertical-align: middle;font-size:80px;padding-top: 0;padding-bottom: 0;padding-left: 0.3em;padding-right: 0.3em;">
+                                <!-- 组曲等级 -->       ?
+        </td><td style="width: 100px">1st STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第一首 模式 -->    7K
+        </code></td><td style="width: 390px">
+                                <!-- 第一首 歌名 -->    ?
+        </td></tr><tr><td>2nd STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第二首 模式 -->    7K
+        </code></td><td>        <!-- 第二首 歌名 -->    ?
+        </td></tr><tr><td>3rd STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第三首 模式 -->    7K
+        </code></td><td>        <!-- 第三首 歌名 -->    ?
+        </td></tr><tr><td>**总物量**</td><td>
+                                <!-- 总物量 -->         ?
+        </td><td>**谱师**</td><td>4th STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第四首 模式 -->    7K
+        </code></td><td>        <!-- 第四首 歌名 -->    ?
+        </td></tr><tr><td>**总得分**</td><td>
+                                <!-- 总得分 -->         /
+        </td><td>               <!-- 谱师名 -->         ?
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->       `PRESTIGE PASS`
+    </td></tr></table>
+
+---
