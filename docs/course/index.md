@@ -1809,13 +1809,139 @@ The hand is quicker than the eye
 ---
 
 
-## AUTUMNAL EQUINOX
+## AUTUMNAL EQUINOX 2023 SPECIAL
 
-2023 SPECIAL
+> 2023 秋分节日特别庆祝组曲。
 
-> 2023 中秋节特别庆祝神秘组曲，暂未推出，预估为 7 键模式特殊组曲。
+=== "4K"
+
+    The holidays are time for connection
+
+    <table  style="display: inline-block; vertical-align: middle"><tr>
+        <td colspan = "2" rowspan="4">![Trickster](./assets/disc/23sp-01.png){ width="200" }</td><td width="160">**等级**</td><td colspan = "3" style="text-align: right;font-weight: 600;">
+                                <!-- 是否有AC挑战 -->   
+        </td></tr><tr><td minwidth="160" rowspan="3" style="width: 20px; text-align: center;vertical-align: middle;font-size:80px;padding-top: 0;padding-bottom: 0;padding-left: 0.3em;padding-right: 0.3em;">
+                                <!-- 组曲等级 -->       15
+        </td><td style="width: 100px">1st STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第一首 模式 -->    4S
+        </code></td><td style="width: 390px">
+                                <!-- 第一首 歌名 -->    Wings of the Wind
+        </td></tr><tr><td>2nd STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第二首 模式 -->    4S
+        </code></td><td>        <!-- 第二首 歌名 -->    Stellar
+        </td></tr><tr><td>3rd STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第三首 模式 -->    4S
+        </code></td><td>        <!-- 第三首 歌名 -->    Go Back
+        </td></tr><tr><td>**总物量**</td><td>
+                                <!-- 总物量 -->         6300
+        </td><td>**谱师**</td><td>4th STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第四首 模式 -->    4S
+        </code></td><td>        <!-- 第四首 歌名 -->    Monochrome
+        </td></tr><tr><td>**总得分**</td><td>
+                                <!-- 总得分 -->         1890000
+        </td><td>               <!-- 谱师名 -->         Jackalope
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->       `PRESTIGE PASS`、`O2JAM COLLAB`
+    </td></tr></table>
+
+=== "5K"
+
+    in EZ2 folklore, the flow was something like this
+
+    <table  style="display: inline-block; vertical-align: middle"><tr>
+        <td colspan = "2" rowspan="4">![Trickster](./assets/disc/23sp-01.png){ width="200" }</td><td width="160">**等级**</td><td colspan = "3" style="text-align: right;font-weight: 600;">
+                                <!-- 是否有AC挑战 -->   
+        </td></tr><tr><td minwidth="160" rowspan="3" style="width: 20px; text-align: center;vertical-align: middle;font-size:80px;padding-top: 0;padding-bottom: 0;padding-left: 0.3em;padding-right: 0.3em;">
+                                <!-- 组曲等级 -->       20
+        </td><td style="width: 100px">1st STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第一首 模式 -->    5S
+        </code></td><td style="width: 390px">
+                                <!-- 第一首 歌名 -->    Sand Storm
+        </td></tr><tr><td>2nd STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第二首 模式 -->    5S
+        </code></td><td>        <!-- 第二首 歌名 -->    ApolloN
+        </td></tr><tr><td>3rd STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第三首 模式 -->    5S
+        </code></td><td>        <!-- 第三首 歌名 -->    Messier 333
+        </td></tr><tr><td>**总物量**</td><td>
+                                <!-- 总物量 -->         7770
+        </td><td>**谱师**</td><td>4th STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第四首 模式 -->    5S
+        </code></td><td>        <!-- 第四首 歌名 -->    Lucid
+        </td></tr><tr><td>**总得分**</td><td>
+                                <!-- 总得分 -->         2331000
+        </td><td style="font-size: 85%">
+                                <!-- 谱师名 -->         Original by PatternGACHA
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->       `CODENAME VIOLET`
+    </td></tr></table>
+
+=== "6K"
+
+    The Ethnic Cuisine ~ Controller Friendly
+
+    <table  style="display: inline-block; vertical-align: middle"><tr>
+        <td colspan = "2" rowspan="4">![Trickster](./assets/disc/23sp-01.png){ width="200" }</td><td width="160">**等级**</td><td colspan = "3" style="text-align: right;font-weight: 600;">
+                                <!-- 是否有AC挑战 -->   
+        </td></tr><tr><td minwidth="160" rowspan="3" style="width: 20px; text-align: center;vertical-align: middle;font-size:80px;padding-top: 0;padding-bottom: 0;padding-left: 0.3em;padding-right: 0.3em;">
+                                <!-- 组曲等级 -->       13
+        </td><td style="width: 100px">1st STAGE</td><td style="width: 60px"><code style="color:rgb(16, 169, 92);">
+                                <!-- 第一首 模式 -->    6B
+        </code></td><td style="width: 390px">
+                                <!-- 第一首 歌名 -->    Kings
+        </td></tr><tr><td>2nd STAGE</td><td style="width: 60px"><code style="color:rgb(16, 169, 92);">
+                                <!-- 第二首 模式 -->    6B
+        </code></td><td>        <!-- 第二首 歌名 -->    Unleashed Emotions
+        </td></tr><tr><td>3rd STAGE</td><td style="width: 60px"><code style="color:rgb(16, 169, 92);">
+                                <!-- 第三首 模式 -->    6B
+        </code></td><td>        <!-- 第三首 歌名 -->    Diabolic Swing
+        </td></tr><tr><td>**总物量**</td><td>
+                                <!-- 总物量 -->         6292
+        </td><td>**谱师**</td><td>4th STAGE</td><td style="width: 60px"><code style="color:rgb(16, 169, 92);">
+                                <!-- 第四首 模式 -->    6B
+        </code></td><td>        <!-- 第四首 歌名 -->    Good Bye
+        </td></tr><tr><td>**总得分**</td><td>
+                                <!-- 总得分 -->         1887600
+        </td><td>               <!-- 谱师名 -->         Cozy Haus
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->       `PRESTIGE PASS`、`DJMAX`
+    </td></tr></table>
+
+=== "8K"
+
+    Tips for Eating Local Food When You Travel: Equip TYPE E
+
+    <table  style="display: inline-block; vertical-align: middle"><tr>
+        <td colspan = "2" rowspan="4">![Trickster](./assets/disc/23sp-01.png){ width="200" }</td><td width="160">**等级**</td><td colspan = "3" style="text-align: right;font-weight: 600;">
+                                <!-- 是否有AC挑战 -->   
+        </td></tr><tr><td minwidth="160" rowspan="3" style="width: 20px; text-align: center;vertical-align: middle;font-size:80px;padding-top: 0;padding-bottom: 0;padding-left: 0.3em;padding-right: 0.3em;">
+                                <!-- 组曲等级 -->       19
+        </td><td style="width: 100px">1st STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第一首 模式 -->    8S
+        </code></td><td style="width: 390px">
+                                <!-- 第一首 歌名 -->    R.F.C
+        </td></tr><tr><td>2nd STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第二首 模式 -->    8S
+        </code></td><td>        <!-- 第二首 歌名 -->    Soul Destructor
+        </td></tr><tr><td>3rd STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第三首 模式 -->    8S
+        </code></td><td>        <!-- 第三首 歌名 -->    Lucid
+        </td></tr><tr><td>**总物量**</td><td>
+                                <!-- 总物量 -->         9062
+        </td><td>**谱师**</td><td>4th STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
+                                <!-- 第四首 模式 -->    8S
+        </code></td><td>        <!-- 第四首 歌名 -->    ROD7 -Regions Of Desolation-
+        </td></tr><tr><td>**总得分**</td><td>
+                                <!-- 总得分 -->         2718600
+        </td><td style="font-size: 100%">
+                                <!-- 谱师名 -->         Forbidden Chateau
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->       `PRESTIGE PASS`
+    </td></tr></table>
 
 === "SP"
+
+    Curiosity is key to success
 
     <table  style="display: inline-block; vertical-align: middle"><tr>
         <td colspan = "2" rowspan="4">![Trickster](./assets/disc/23sp-01.png){ width="200" }</td><td width="160">**等级**</td><td colspan = "3" style="text-align: right;font-weight: 600;">
@@ -1823,25 +1949,30 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" rowspan="3" style="width: 20px; text-align: center;vertical-align: middle;font-size:80px;padding-top: 0;padding-bottom: 0;padding-left: 0.3em;padding-right: 0.3em;">
                                 <!-- 组曲等级 -->       ?
         </td><td style="width: 100px">1st STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
-                                <!-- 第一首 模式 -->    7K
+                                <!-- 第一首 模式 -->    7S
         </code></td><td style="width: 390px">
-                                <!-- 第一首 歌名 -->    ?
+                                <!-- 第一首 歌名 -->    Kings
         </td></tr><tr><td>2nd STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
-                                <!-- 第二首 模式 -->    7K
-        </code></td><td>        <!-- 第二首 歌名 -->    ?
+                                <!-- 第二首 模式 -->    7S
+        </code></td><td>        <!-- 第二首 歌名 -->    LIGHTYEAR
         </td></tr><tr><td>3rd STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
-                                <!-- 第三首 模式 -->    7K
-        </code></td><td>        <!-- 第三首 歌名 -->    ?
+                                <!-- 第三首 模式 -->    7S
+        </code></td><td>        <!-- 第三首 歌名 -->    ROD7 -Regions Of Desolation-
         </td></tr><tr><td>**总物量**</td><td>
-                                <!-- 总物量 -->         ?
+                                <!-- 总物量 -->         9427
         </td><td>**谱师**</td><td>4th STAGE</td><td style="width: 60px"><code style="color:rgb(0, 164, 219);">
-                                <!-- 第四首 模式 -->    7K
-        </code></td><td>        <!-- 第四首 歌名 -->    ?
+                                <!-- 第四首 模式 -->    7S
+        </code></td><td>        <!-- 第四首 歌名 -->    picking
         </td></tr><tr><td>**总得分**</td><td>
-                                <!-- 总得分 -->         /
-        </td><td>               <!-- 谱师名 -->         ?
+                                <!-- 总得分 -->         2828100
+        </td><td style="font-size: 100%">
+                                <!-- 谱师名 -->         EZ2ON Pattern Team
         </td><td>**所需 DLC**</td><td colspan = "2">
                                 <!-- 所需 DLC -->       `PRESTIGE PASS`
     </td></tr></table>
+
+!!! warning "注意"
+
+    该组曲 SP 的独占 `7K STANDARD` 模式强制使用 **++s++ ++d++ ++f++ ++spc++ ++j++ ++k++ ++l++** 演奏，且演奏面板、判定及连击字体样式均强制使用 NIGHTFALL 套装，演奏音符强制使用 PRESTIGE INGOT。
 
 ---
