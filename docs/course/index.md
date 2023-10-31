@@ -1808,7 +1808,6 @@ The hand is quicker than the eye
 
 ---
 
-
 ## AUTUMNAL EQUINOX 2023 SPECIAL
 
 > 2023 秋分节日特别庆祝组曲。
