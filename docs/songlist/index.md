@@ -55,7 +55,7 @@ hide:
                             <div style="display:inline-block;vertical-align: middle">
                                 <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
                                     scope.row.title}}</div>
-                                <div style="font-size:5pt;vertical-align: bottom">{{ scope.row.artist}}</div>
+                                <div style="font-size:8pt;vertical-align: bottom">{{ scope.row.artist}}</div>
                             </div>
                         </template>
                     </el-table-column>
@@ -114,7 +114,7 @@ hide:
                             <div style="display:inline-block;vertical-align: middle">
                                 <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
                                     scope.row.title}}</div>
-                                <div style="font-size:5pt;vertical-align: bottom">{{ scope.row.artist}}</div>
+                                <div style="font-size:8pt;vertical-align: bottom">{{ scope.row.artist}}</div>
                             </div>
                         </template>
                     </el-table-column>
@@ -173,7 +173,7 @@ hide:
                             <div style="display:inline-block;vertical-align: middle">
                                 <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
                                     scope.row.title}}</div>
-                                <div style="font-size:5pt;vertical-align: bottom">{{ scope.row.artist}}</div>
+                                <div style="font-size:8pt;vertical-align: bottom">{{ scope.row.artist}}</div>
                             </div>
                         </template>
                     </el-table-column>
@@ -232,7 +232,7 @@ hide:
                             <div style="display:inline-block;vertical-align: middle">
                                 <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
                                     scope.row.title}}</div>
-                                <div style="font-size:5pt;vertical-align: bottom">{{ scope.row.artist}}</div>
+                                <div style="font-size:8pt;vertical-align: bottom">{{ scope.row.artist}}</div>
                             </div>
                         </template>
                     </el-table-column>
@@ -291,7 +291,7 @@ hide:
                             <div style="display:inline-block;vertical-align: middle">
                                 <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
                                     scope.row.title}}</div>
-                                <div style="font-size:5pt;vertical-align: bottom">{{ scope.row.artist}}</div>
+                                <div style="font-size:8pt;vertical-align: bottom">{{ scope.row.artist}}</div>
                             </div>
                         </template>
                     </el-table-column>
@@ -350,7 +350,7 @@ hide:
                             <div style="display:inline-block;vertical-align: middle">
                                 <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
                                     scope.row.title}}</div>
-                                <div style="font-size:5pt;vertical-align: bottom">{{ scope.row.artist}}</div>
+                                <div style="font-size:8pt;vertical-align: bottom">{{ scope.row.artist}}</div>
                             </div>
                         </template>
                     </el-table-column>
@@ -409,7 +409,7 @@ hide:
                             <div style="display:inline-block;vertical-align: middle">
                                 <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
                                     scope.row.title}}</div>
-                                <div style="font-size:5pt;vertical-align: bottom">{{ scope.row.artist}}</div>
+                                <div style="font-size:8pt;vertical-align: bottom">{{ scope.row.artist}}</div>
                             </div>
                         </template>
                     </el-table-column>
@@ -468,7 +468,7 @@ hide:
                             <div style="display:inline-block;vertical-align: middle">
                                 <div style="font-size:12pt; font-weight:600pt;vertical-align: bottom">{{
                                     scope.row.title}}</div>
-                                <div style="font-size:5pt;vertical-align: bottom">{{ scope.row.artist}}</div>
+                                <div style="font-size:8pt;vertical-align: bottom">{{ scope.row.artist}}</div>
                             </div>
                         </template>
                     </el-table-column>
