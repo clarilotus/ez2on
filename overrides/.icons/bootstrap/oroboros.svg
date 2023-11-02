@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <svg width="100%" height="100%" viewBox="0 0 490 350" preserveAspectRatio="xMaxYMax meet">
+        <polyline points="215,25 215,105 135,105" 
+        stroke="#283E3E"
+        stroke-width="40" fill="none"
+        />
+
+
+        <path d="M 150 200 A 80 80 0 1 1 200 150" 
+        stroke="#283E3E" stroke-width="40" fill="none"
+            transform="rotate(-19 124.6 124.6)" />
+
+
+        <polyline points="261,224 261,144 341,144" 
+        stroke="#283E3E"
+        stroke-width="40" fill="none"/>
+
+        <path d="M 378 200 A 80 80 0 1 1 428 150" stroke="#283E3E" stroke-width="40" fill="none"
+            transform="rotate(161 352.6 124.6)" />
+
+    </svg>
+
+</body>
+
+</html>
