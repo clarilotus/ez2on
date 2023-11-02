@@ -1895,134 +1895,6 @@ Resolve the contradiction
 
 ---
 
-## O2PLANET
-
-The deserted planet waits
-
-> 致敬《劲乐团》，谱面与原《劲乐团》7K HD 基本一致，并采用 Basic 判定以仿真《劲乐团》的宽松判定。
-
-=== "SP"
-
-    <table style="display: inline-block; vertical-align: middle"><tr>
-        <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![O2PLANET](./assets/disc/o2.webp){ width="200" }
-        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           
-        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
-                                <!-- 组曲等级 -->               ?
-        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td class="ez-course-songname-td">
-                                <!-- 第一首 歌名 -->            Go Hell
-        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第二首 歌名 -->            Visual Dream !!
-        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第三首 歌名 -->            Beautiful Day
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
-                                <!-- 总得分 -->                 1881300
-        </td><td>**总物量**</td><td>
-                                <!-- 总物量 -->                 6271
-        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第四首 歌名 -->            Feel The O2JAM
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
-                                <!-- 谱师名 -->                 O2Jam
-        </td><td>**所需 DLC**</td><td colspan = "2">
-                                <!-- 所需 DLC -->               `O2JAM COLLAB`
-    </td></tr></table>
-
-!!! warning "注意"
-
-    该组曲的独占 `7K BASIC` 模式强制使用 **++s++ ++d++ ++f++ ++spc++ ++j++ ++k++ ++l++** 演奏，且演奏面板、音符、判定及连击字体样式均强制使用 O2Jam 经典搭配。
-
----
-
-## Brain Stretch
-
-A set of perceptual-cognitive traning exercises
-
-> 致敬《劲乐团》，谱面与原《劲乐团》7K HD 基本一致（其中《贵族 II》进行了一定的削弱），并采用 Basic 判定以仿真《劲乐团》的宽松判定。
-
-=== "SP"
-
-    <table style="display: inline-block; vertical-align: middle"><tr>
-        <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Brain Stretch](./assets/disc/o2b.webp){ width="200" }
-        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           
-        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
-                                <!-- 组曲等级 -->               ?
-        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td class="ez-course-songname-td">
-                                <!-- 第一首 歌名 -->            Move it on (DJ HD Mix)
-        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第二首 歌名 -->            Cross Time !!
-        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第三首 歌名 -->            Identity part 2
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
-                                <!-- 总得分 -->                 3135900
-        </td><td>**总物量**</td><td>
-                                <!-- 总物量 -->                 10453
-        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第四首 歌名 -->            End of Fight
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
-                                <!-- 谱师名 -->                 O2Jam
-        </td><td>**所需 DLC**</td><td colspan = "2">
-                                <!-- 所需 DLC -->               `O2JAM COLLAB`
-    </td></tr></table>
-
-!!! warning "注意"
-
-    该组曲的独占 `7K BASIC` 模式强制使用 **++s++ ++d++ ++f++ ++spc++ ++j++ ++k++ ++l++** 演奏，且演奏面板、音符、判定及连击字体样式均强制使用 O2Jam 经典搭配。
-
----
-
-## Trickster
-
-The hand is quicker than the eye
-
-> 出自《ENDLESS CIRCULATION》，经典变速组曲，~~对玩家智力的直接评估~~。
-
-=== "SP"
-
-    <table style="display: inline-block; vertical-align: middle"><tr>
-        <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Trickster](./assets/disc/tr.webp){ width="200" }
-        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           :material-crown-circle: AC 挑战
-        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
-                                <!-- 组曲等级 -->               !?
-        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td class="ez-course-songname-td">
-                                <!-- 第一首 歌名 -->            You love the life you live (Remix)
-        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td>        <!-- 第二首 歌名 -->            Red Ocean
-        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第三首 歌名 -->            Mystic Dream 9903 (Horror Mix)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
-                                <!-- 总得分 -->                 /
-        </td><td>**总物量**</td><td>
-                                <!-- 总物量 -->                 2524
-        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第四首 歌名 -->            Be Mine
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
-                                <!-- 谱师名 -->                 X-seq.TraX
-        </td><td>**所需 DLC**</td><td colspan = "2">
-                                <!-- 所需 DLC -->               /
-    </td></tr></table>
-
----
-
 ## Ouroboros \~Challenge\~
 
 Serpent of Destruction
@@ -2155,6 +2027,134 @@ Serpent of Destruction
                                 <!-- 谱师名 -->                 Jackalope & YUKINARI! MELON 
         </td><td>**所需 DLC**</td><td colspan = "2">
                                 <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+    </td></tr></table>
+
+---
+
+## O2PLANET
+
+The deserted planet waits
+
+> 致敬《劲乐团》，谱面与原《劲乐团》7K HD 基本一致，并采用 Basic 判定以仿真《劲乐团》的宽松判定。
+
+=== "SP"
+
+    <table style="display: inline-block; vertical-align: middle"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![O2PLANET](./assets/disc/o2.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ?
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Go Hell
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td>        <!-- 第二首 歌名 -->            Visual Dream !!
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td>        <!-- 第三首 歌名 -->            Beautiful Day
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 1881300
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 6271
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td>        <!-- 第四首 歌名 -->            Feel The O2JAM
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 O2Jam
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `O2JAM COLLAB`
+    </td></tr></table>
+
+!!! warning "注意"
+
+    该组曲的独占 `7K BASIC` 模式强制使用 **++s++ ++d++ ++f++ ++spc++ ++j++ ++k++ ++l++** 演奏，且演奏面板、音符、判定及连击字体样式均强制使用 O2Jam 经典搭配。
+
+---
+
+## Brain Stretch
+
+A set of perceptual-cognitive traning exercises
+
+> 致敬《劲乐团》，谱面与原《劲乐团》7K HD 基本一致（其中《贵族 II》进行了一定的削弱），并采用 Basic 判定以仿真《劲乐团》的宽松判定。
+
+=== "SP"
+
+    <table style="display: inline-block; vertical-align: middle"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Brain Stretch](./assets/disc/o2b.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ?
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Move it on (DJ HD Mix)
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td>        <!-- 第二首 歌名 -->            Cross Time !!
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td>        <!-- 第三首 歌名 -->            Identity part 2
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 3135900
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 10453
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td>        <!-- 第四首 歌名 -->            End of Fight
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 O2Jam
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `O2JAM COLLAB`
+    </td></tr></table>
+
+!!! warning "注意"
+
+    该组曲的独占 `7K BASIC` 模式强制使用 **++s++ ++d++ ++f++ ++spc++ ++j++ ++k++ ++l++** 演奏，且演奏面板、音符、判定及连击字体样式均强制使用 O2Jam 经典搭配。
+
+---
+
+## Trickster
+
+The hand is quicker than the eye
+
+> 出自《ENDLESS CIRCULATION》，经典变速组曲，~~对玩家智力的直接评估~~。
+
+=== "SP"
+
+    <table style="display: inline-block; vertical-align: middle"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Trickster](./assets/disc/tr.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           :material-crown-circle: AC 挑战
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               !?
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            You love the life you live (Remix)
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-b">    8B
+        </code></td><td>        <!-- 第二首 歌名 -->            Red Ocean
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
+        </code></td><td>        <!-- 第三首 歌名 -->            Mystic Dream 9903 (Horror Mix)
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 /
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 2524
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
+        </code></td><td>        <!-- 第四首 歌名 -->            Be Mine
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 X-seq.TraX
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               /
     </td></tr></table>
 
 ---
