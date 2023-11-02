@@ -59,7 +59,7 @@
     + 演奏音符：`|/10[_37`
     + 判定字体：`CV`
     + 连击字体：`CV`
-    + 课题组曲：`Violet`
+    + 课题组曲：`Violet`、`AUTUMNAL EQUINOX 2023 SPECIAL (5K)`
 
 ---
 
@@ -83,7 +83,7 @@
     + 演奏音符：`DOOMS`、`PRESTIGE INGOT`、`PRESTIGE CHIP`、`Scarlet`、`BEANS`
     + 判定字体：`Kings`、`NIGHTFALL`、`FiND A WAY`、`Varvious Ways`
     + 连击字体：`Kings`、`NIGHTFALL`、`FiND A WAY`、`Varvious Ways`
-    + 课题组曲：`PP Maglev Central Line`、`PP Maglev Central Line -RH-`
+    + 课题组曲：`PP Maglev Central Line`、`PP Maglev Central Line -RH-`、`AUTUMNAL EQUINOX 2023 SPECIAL (4K, 6K, 8K, SP)`
 
 ---
 
@@ -107,7 +107,7 @@
     + 演奏音符：`O2Jam`、`NX`、`M250`
     + 判定字体：`Cricket`、`Aqua`、`M250`
     + 连击字体：`Cricket`、`AquaWhale`、`M250`
-    + 课题组曲：`O2Planet`、`Brain Stretch`
+    + 课题组曲：`O2Planet`、`Brain Stretch`、`AUTUMNAL EQUINOX 2023 SPECIAL (4K)`
 
 ---
 
@@ -137,13 +137,13 @@
 
 ![ENDLESS CIRCULATION](./assets/dlc/ec.jpg)
 
-> 街机歌曲扩充包，收录街机 EZ2AC : ENDLESS CIRCULATION 中的歌曲，初定共收录 38 首歌，现推出 Chapter 1 共 20 首歌，下半年将会继续推出 Chapter 2 共 18 首歌。
+> 街机歌曲扩充包，收录街机 EZ2AC : ENDLESS CIRCULATION 中的歌曲，初定共收录 38 首歌，现推出 29 首歌，2023 年 11 月底将更新剩余 9 首。
 
 - 购买链接：[https://store.steampowered.com/app/2325460 :octicons-link-external-16:](https://store.steampowered.com/app/2325460)
 - 推荐程度：⭐⭐⭐⭐⭐
 - 国区原价：**¥ 118.00**
 - 历史最低：**¥ 106.20** (10% Off)
-- 歌曲数量：**38** (现已推出 20 首，2023 年下半年将推出另外 18 首)
+- 歌曲数量：**38** (现已推出 29 首，2023 年 11 月底将更新剩余 9 首)
 - 曲风偏向：**迷幻舞曲**
 - 难度趋向：**中等偏难**
 - 捆绑内容：
@@ -153,6 +153,7 @@
     + 演奏音符：`ENDLESS LUNE`
     + 判定字体：`EC2304 Mk.II`、`EC1304`
     + 连击字体：`ENDLESS`
+    + 课题组曲：`Ouroboros ~Challenge~`
 
 ---
 
@@ -198,7 +199,7 @@
     + 演奏音符：`DJMAX`、`AQUA`、`TECHNIKA`
     + 判定字体：`DJMAX`、`TECHNIKA`
     + 连击字体：`DJMAX`、`EMOTIONAL SENSE`、`TECHNIKA`
-
+    + 课题组曲：`AUTUMNAL EQUINOX 2023 SPECIAL (6K)`
 ---
 
 
