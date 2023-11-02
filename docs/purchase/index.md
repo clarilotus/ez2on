@@ -83,7 +83,7 @@
     + 演奏音符：`DOOMS`、`PRESTIGE INGOT`、`PRESTIGE CHIP`、`Scarlet`、`BEANS`
     + 判定字体：`Kings`、`NIGHTFALL`、`FiND A WAY`、`Varvious Ways`
     + 连击字体：`Kings`、`NIGHTFALL`、`FiND A WAY`、`Varvious Ways`
-    + 课题组曲：`PP Maglev Central Line`、`PP Maglev Central Line -RH-`、`AUTUMNAL EQUINOX 2023 SPECIAL (4K, 6K, 8K, SP)`
+    + 课题组曲：`PP Maglev Central Line`、`PP Maglev Central Line -RH-`、`AUTUMNAL EQUINOX 2023 SPECIAL (4K, 6K, 8K, SP)`、`代号 ppbg (未上线)`
 
 ---
 
