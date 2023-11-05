@@ -1895,6 +1895,142 @@ Resolve the contradiction
 
 ---
 
+## Ouroboros (暂未上线)
+
+Serpent of Destruction
+
+> 街机《ENDLESS CIRCULATION》 同款 BOSS 试炼，暂未推出。
+
+=== "4K"
+
+    <table style="display: inline-block; vertical-align: middle"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           :material-skull-scan: Clear 挑战
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ∞
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-s">    4K?
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Dream Walker
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4K?
+        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4K?
+        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 ???????
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 ????
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4K?
+        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 CLOCKWALK & Jackalope
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+    </td></tr></table>
+
+=== "5K"
+
+    <table style="display: inline-block; vertical-align: middle"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           :material-skull-scan: Clear 挑战
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ∞
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5K?
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Dream Walker
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5K?
+        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5K?
+        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 ???????
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 ????
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5K?
+        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWALK
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+    </td></tr></table>
+
+=== "6K"
+
+    <table style="display: inline-block; vertical-align: middle"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           :material-skull-scan: Clear 挑战
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ∞
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6K?
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Dream Walker
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6K?
+        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6K?
+        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 ???????
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 ????
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6K?
+        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 YUKINARI! MELON 
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+    </td></tr></table>
+
+=== "8K"
+
+    <table style="display: inline-block; vertical-align: middle"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           :material-skull-scan: Clear 挑战
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ∞
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8K?
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Dream Walker
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8K?
+        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8K?
+        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 ???????
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 ????
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8K?
+        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 Jackalope & YUKINARI! MELON 
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+    </td></tr></table>
+
+---
+
 ## Ouroboros \~Challenge\~
 
 Serpent of Destruction
