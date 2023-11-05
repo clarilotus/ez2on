@@ -1909,7 +1909,7 @@ Serpent of Destruction
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           :material-skull-scan: Clear 挑战
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
-                                <!-- 组曲等级 -->               :bootstrap-oroboros:
+                                <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
         <!-- 第一首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td class="ez-course-songname-td">
@@ -1941,7 +1941,7 @@ Serpent of Destruction
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           :material-skull-scan: Clear 挑战
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
-                                <!-- 组曲等级 -->               :bootstrap-oroboros:
+                                <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
         <!-- 第一首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td class="ez-course-songname-td">
@@ -1973,7 +1973,7 @@ Serpent of Destruction
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           :material-skull-scan: Clear 挑战
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
-                                <!-- 组曲等级 -->               :bootstrap-oroboros:
+                                <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
         <!-- 第一首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td class="ez-course-songname-td">
@@ -2005,7 +2005,7 @@ Serpent of Destruction
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           :material-skull-scan: Clear 挑战
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
-                                <!-- 组曲等级 -->               :bootstrap-oroboros:
+                                <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
         <!-- 第一首 模式 --><code class="ez-course-judge-x">    8X
         </code></td><td class="ez-course-songname-td">

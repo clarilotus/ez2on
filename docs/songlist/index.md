@@ -49,7 +49,7 @@ hide:
                     <el-table-column prop="title" label="名称" min-width="300pt" :resizable=false sortable>
                         <template slot-scope="scope">
                             <div style="display:inline-block;vertical-align: middle">
-                                <el-image :src="'./minidisc/' + scope.row.name + '.png'"
+                                <el-image :src="'./minidisc/' + scope.row.name + '.webp'"
                                     style="width: 38px; height: 38px;vertical-align: middle" :lazy="false" />
                             </div>
                             <div style="display:inline-block;vertical-align: middle">
@@ -108,7 +108,7 @@ hide:
                     <el-table-column prop="title" label="名称" min-width="300pt" :resizable=false sortable>
                         <template slot-scope="scope">
                             <div style="display:inline-block;vertical-align: middle">
-                                <el-image :src="'./minidisc/' + scope.row.name + '.png'"
+                                <el-image :src="'./minidisc/' + scope.row.name + '.webp'"
                                     style="width: 38px; height: 38px;vertical-align: middle" :lazy="false" />
                             </div>
                             <div style="display:inline-block;vertical-align: middle">
@@ -167,7 +167,7 @@ hide:
                     <el-table-column prop="title" label="名称" min-width="300pt" :resizable=false sortable>
                         <template slot-scope="scope">
                             <div style="display:inline-block;vertical-align: middle">
-                                <el-image :src="'./minidisc/' + scope.row.name + '.png'"
+                                <el-image :src="'./minidisc/' + scope.row.name + '.webp'"
                                     style="width: 38px; height: 38px;vertical-align: middle" :lazy="false" />
                             </div>
                             <div style="display:inline-block;vertical-align: middle">
@@ -226,7 +226,7 @@ hide:
                     <el-table-column prop="title" label="名称" min-width="300pt" :resizable=false sortable>
                         <template slot-scope="scope">
                             <div style="display:inline-block;vertical-align: middle">
-                                <el-image :src="'./minidisc/' + scope.row.name + '.png'"
+                                <el-image :src="'./minidisc/' + scope.row.name + '.webp'"
                                     style="width: 38px; height: 38px;vertical-align: middle" :lazy="false" />
                             </div>
                             <div style="display:inline-block;vertical-align: middle">
@@ -285,7 +285,7 @@ hide:
                     <el-table-column prop="title" label="名称" min-width="300pt" :resizable=false sortable>
                         <template slot-scope="scope">
                             <div style="display:inline-block;vertical-align: middle">
-                                <el-image :src="'./minidisc/' + scope.row.name + '.png'"
+                                <el-image :src="'./minidisc/' + scope.row.name + '.webp'"
                                     style="width: 38px; height: 38px;vertical-align: middle" :lazy="false" />
                             </div>
                             <div style="display:inline-block;vertical-align: middle">
@@ -344,7 +344,7 @@ hide:
                     <el-table-column prop="title" label="名称" min-width="300pt" :resizable=false sortable>
                         <template slot-scope="scope">
                             <div style="display:inline-block;vertical-align: middle">
-                                <el-image :src="'./minidisc/' + scope.row.name + '.png'"
+                                <el-image :src="'./minidisc/' + scope.row.name + '.webp'"
                                     style="width: 38px; height: 38px;vertical-align: middle" :lazy="false" />
                             </div>
                             <div style="display:inline-block;vertical-align: middle">
@@ -403,7 +403,7 @@ hide:
                     <el-table-column prop="title" label="名称" min-width="300pt" :resizable=false sortable>
                         <template slot-scope="scope">
                             <div style="display:inline-block;vertical-align: middle">
-                                <el-image :src="'./minidisc/' + scope.row.name + '.png'"
+                                <el-image :src="'./minidisc/' + scope.row.name + '.webp'"
                                     style="width: 38px; height: 38px;vertical-align: middle" :lazy="false" />
                             </div>
                             <div style="display:inline-block;vertical-align: middle">
@@ -462,7 +462,7 @@ hide:
                     <el-table-column prop="title" label="名称" min-width="300pt" :resizable=false sortable>
                         <template slot-scope="scope">
                             <div style="display:inline-block;vertical-align: middle">
-                                <el-image :src="'./minidisc/' + scope.row.name + '.png'"
+                                <el-image :src="'./minidisc/' + scope.row.name + '.webp'"
                                     style="width: 38px; height: 38px;vertical-align: middle" :lazy="false" />
                             </div>
                             <div style="display:inline-block;vertical-align: middle">
