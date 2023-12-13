@@ -47,6 +47,11 @@
 
 </style>
 
+<link rel="stylesheet" href="../stylesheets/element-ui.css">
+<script type="text/javascript" charset="utf8" src="../javascripts/jquery.js"></script>
+<script type="text/javascript" charset="utf8" src="../javascripts/vue2.js"></script>
+<script type="text/javascript" charset="utf8" src="../javascripts/element-ui.js"></script>
+
 
 
 # 课题组曲 (COURSE)
@@ -111,9 +116,10 @@ A new chapter begins
 
 > 出自《NIGHT TRAVELER》，入门级组曲。
 
+
 === "4K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -145,7 +151,7 @@ A new chapter begins
 
 === "5K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -177,7 +183,7 @@ A new chapter begins
 
 === "6K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -209,7 +215,7 @@ A new chapter begins
 
 === "8K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -249,7 +255,7 @@ The most genuine K-pop station on the planet
 
 === "4K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -281,7 +287,7 @@ The most genuine K-pop station on the planet
 
 === "5K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -313,7 +319,7 @@ The most genuine K-pop station on the planet
 
 === "6K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -345,7 +351,7 @@ The most genuine K-pop station on the planet
 
 === "8K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -385,7 +391,7 @@ Partying tonight? We got you covered
 
 === "5K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![DBC 91.4MHz](./assets/disc/dbc.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -417,7 +423,7 @@ Partying tonight? We got you covered
 
 === "6K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![DBC 91.4MHz](./assets/disc/dbc.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -449,7 +455,7 @@ Partying tonight? We got you covered
 
 === "8K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![DBC 91.4MHz](./assets/disc/dbc.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -489,7 +495,7 @@ Retrospective Remix Channel
 
 === "4K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![RRC 39.7KHz](./assets/disc/kienrm.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -521,7 +527,7 @@ Retrospective Remix Channel
 
 === "6K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![RRC 39.7KHz](./assets/disc/kienrm.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -554,7 +560,7 @@ Retrospective Remix Channel
 
 === "8K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![RRC 39.7KHz](./assets/disc/kienrm.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -594,7 +600,7 @@ Underground spirit carries on
 
 === "4K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Hard Beat Underground](./assets/disc/hbu.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -626,7 +632,7 @@ Underground spirit carries on
 
 === "8K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Hard Beat Underground](./assets/disc/hbu.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -666,7 +672,7 @@ OVER STAGE from a memory
 
 === "5K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Hard Beat Stage](./assets/disc/hbs.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -698,7 +704,7 @@ OVER STAGE from a memory
     
 === "6K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Hard Beat Stage](./assets/disc/hbs.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -738,7 +744,7 @@ The forbidden answer , unleashed.
 
 === "4K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -770,7 +776,7 @@ The forbidden answer , unleashed.
 
 === "5K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -802,7 +808,7 @@ The forbidden answer , unleashed.
   
 === "6K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -834,7 +840,7 @@ The forbidden answer , unleashed.
   
 === "8K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -872,7 +878,7 @@ The forbidden answer , unleashed.
 
 === "4K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![03's ICON](./assets/disc/03s.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -904,7 +910,7 @@ The forbidden answer , unleashed.
 
 === "5K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![03's ICON](./assets/disc/03s.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -936,7 +942,7 @@ The forbidden answer , unleashed.
 
 === "8K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![03's ICON](./assets/disc/03s.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -974,7 +980,7 @@ Hearty spice mix with some extra kick
 
 === "4K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![GARAM MASALA](./assets/disc/mas.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1006,7 +1012,7 @@ Hearty spice mix with some extra kick
 
 === "5K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![GARAM MASALA](./assets/disc/mas.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1038,7 +1044,7 @@ Hearty spice mix with some extra kick
     
 === "6K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![GARAM MASALA](./assets/disc/mas.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1078,7 +1084,7 @@ There is no stop sign
 
 === "4K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1110,7 +1116,7 @@ There is no stop sign
 
 === "5K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1142,7 +1148,7 @@ There is no stop sign
 
 === "6K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1174,7 +1180,7 @@ There is no stop sign
 
 === "8K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1214,7 +1220,7 @@ The night that you will never forget
 
 === "4K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1246,7 +1252,7 @@ The night that you will never forget
 
 === "5K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1278,7 +1284,7 @@ The night that you will never forget
 
 === "6K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1310,7 +1316,7 @@ The night that you will never forget
 
 === "8K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1351,7 +1357,7 @@ The commander of class R
 
 === "4K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1383,7 +1389,7 @@ The commander of class R
 
 === "5K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1415,7 +1421,7 @@ The commander of class R
 
 === "6K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1447,7 +1453,7 @@ The commander of class R
 
 === "8K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1487,7 +1493,7 @@ EXTRA RAPID SERVICE
 
 === "4K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1519,7 +1525,7 @@ EXTRA RAPID SERVICE
 
 === "5K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1551,7 +1557,7 @@ EXTRA RAPID SERVICE
 
 === "6K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1583,7 +1589,7 @@ EXTRA RAPID SERVICE
 
 === "8K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1627,7 +1633,7 @@ EXTRA RAPID SERVICE
 
 === "4K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1659,7 +1665,7 @@ EXTRA RAPID SERVICE
 
 === "5K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1691,7 +1697,7 @@ EXTRA RAPID SERVICE
 
 === "6K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1723,7 +1729,7 @@ EXTRA RAPID SERVICE
 
 === "8K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1767,7 +1773,7 @@ Resolve the contradiction
 
 === "4K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1799,7 +1805,7 @@ Resolve the contradiction
 
 === "5K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1831,7 +1837,7 @@ Resolve the contradiction
 
 === "6K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1863,7 +1869,7 @@ Resolve the contradiction
 
 === "8K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -1895,142 +1901,6 @@ Resolve the contradiction
 
 ---
 
-## Ouroboros (暂未上线)
-
-Serpent of Destruction
-
-> 街机《ENDLESS CIRCULATION》 同款 BOSS 试炼，暂未推出。
-
-=== "4K"
-
-    <table style="display: inline-block; vertical-align: middle"><tr>
-        <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
-        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           :material-skull-scan: Clear 挑战
-        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
-                                <!-- 组曲等级 -->               ∞
-        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    4K?
-        </code></td><td class="ez-course-songname-td">
-                                <!-- 第一首 歌名 -->            Dream Walker
-        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4K?
-        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
-        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4K?
-        </code></td><td>        <!-- 第三首 歌名 -->            Legend
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
-                                <!-- 总得分 -->                 ???????
-        </td><td>**总物量**</td><td>
-                                <!-- 总物量 -->                 ????
-        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4K?
-        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
-                                <!-- 谱师名 -->                 CLOCKWALK & Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
-                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
-    </td></tr></table>
-
-=== "5K"
-
-    <table style="display: inline-block; vertical-align: middle"><tr>
-        <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
-        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           :material-skull-scan: Clear 挑战
-        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
-                                <!-- 组曲等级 -->               ∞
-        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5K?
-        </code></td><td class="ez-course-songname-td">
-                                <!-- 第一首 歌名 -->            Dream Walker
-        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5K?
-        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
-        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5K?
-        </code></td><td>        <!-- 第三首 歌名 -->            Legend
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
-                                <!-- 总得分 -->                 ???????
-        </td><td>**总物量**</td><td>
-                                <!-- 总物量 -->                 ????
-        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5K?
-        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
-                                <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWALK
-        </td><td>**所需 DLC**</td><td colspan = "2">
-                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
-    </td></tr></table>
-
-=== "6K"
-
-    <table style="display: inline-block; vertical-align: middle"><tr>
-        <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
-        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           :material-skull-scan: Clear 挑战
-        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
-                                <!-- 组曲等级 -->               ∞
-        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6K?
-        </code></td><td class="ez-course-songname-td">
-                                <!-- 第一首 歌名 -->            Dream Walker
-        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6K?
-        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
-        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6K?
-        </code></td><td>        <!-- 第三首 歌名 -->            Legend
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
-                                <!-- 总得分 -->                 ???????
-        </td><td>**总物量**</td><td>
-                                <!-- 总物量 -->                 ????
-        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6K?
-        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
-                                <!-- 谱师名 -->                 YUKINARI! MELON 
-        </td><td>**所需 DLC**</td><td colspan = "2">
-                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
-    </td></tr></table>
-
-=== "8K"
-
-    <table style="display: inline-block; vertical-align: middle"><tr>
-        <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
-        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           :material-skull-scan: Clear 挑战
-        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
-                                <!-- 组曲等级 -->               ∞
-        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8K?
-        </code></td><td class="ez-course-songname-td">
-                                <!-- 第一首 歌名 -->            Dream Walker
-        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8K?
-        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
-        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8K?
-        </code></td><td>        <!-- 第三首 歌名 -->            Legend
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
-                                <!-- 总得分 -->                 ???????
-        </td><td>**总物量**</td><td>
-                                <!-- 总物量 -->                 ????
-        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8K?
-        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
-                                <!-- 谱师名 -->                 Jackalope & YUKINARI! MELON 
-        </td><td>**所需 DLC**</td><td colspan = "2">
-                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
-    </td></tr></table>
-
----
-
 ## Ouroboros \~Challenge\~
 
 Serpent of Destruction
@@ -2039,7 +1909,7 @@ Serpent of Destruction
 
 === "4K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -2059,19 +1929,19 @@ Serpent of Destruction
         </td></tr><tr><td width="80">**总得分**</td><td width="120">
                                 <!-- 总得分 -->                 ???????
         </td><td>**总物量**</td><td>
-                                <!-- 总物量 -->                 ????
+                                <!-- 总物量 -->                 7578
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
         </td></tr><tr><td>**谱师**</td><td colspan = "3">
-                                <!-- 谱师名 -->                 CLOCKWALK & Jackalope
+                                <!-- 谱师名 -->                 CLOCKWORK & Jackalope
         </td><td>**所需 DLC**</td><td colspan = "2">
                                 <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
     </td></tr></table>
 
 === "5K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -2091,19 +1961,19 @@ Serpent of Destruction
         </td></tr><tr><td width="80">**总得分**</td><td width="120">
                                 <!-- 总得分 -->                 ???????
         </td><td>**总物量**</td><td>
-                                <!-- 总物量 -->                 ????
+                                <!-- 总物量 -->                 9017
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
         </td></tr><tr><td>**谱师**</td><td colspan = "3">
-                                <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWALK
+                                <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
         </td><td>**所需 DLC**</td><td colspan = "2">
                                 <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
     </td></tr></table>
 
 === "6K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -2123,7 +1993,7 @@ Serpent of Destruction
         </td></tr><tr><td width="80">**总得分**</td><td width="120">
                                 <!-- 总得分 -->                 ???????
         </td><td>**总物量**</td><td>
-                                <!-- 总物量 -->                 ????
+                                <!-- 总物量 -->                 10384
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
@@ -2135,7 +2005,7 @@ Serpent of Destruction
 
 === "8K"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -2155,7 +2025,143 @@ Serpent of Destruction
         </td></tr><tr><td width="80">**总得分**</td><td width="120">
                                 <!-- 总得分 -->                 ???????
         </td><td>**总物量**</td><td>
-                                <!-- 总物量 -->                 ????
+                                <!-- 总物量 -->                 9999
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-x">    8X
+        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 Jackalope & YUKINARI! MELON 
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+    </td></tr></table>
+
+---
+
+## Ouroboros
+
+Serpent of Destruction
+
+> 街机《ENDLESS CIRCULATION》 同款 BOSS 试炼。
+
+=== "4K"
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           :material-crown: AC 挑战
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ∞
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-x">    4X
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Dream Walker
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-x">    4X
+        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-x">    4X
+        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 /
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 7578
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
+        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 CLOCKWORK & Jackalope
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+    </td></tr></table>
+
+=== "5K"
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           :material-crown: AC 挑战
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ∞
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-x">    5X
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Dream Walker
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-x">    5X
+        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-x">    5X
+        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 /
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 9017
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
+        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+    </td></tr></table>
+
+=== "6K"
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           :material-crown: AC 挑战
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ∞
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-x">    6X
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Dream Walker
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-x">    6X
+        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-x">    6X
+        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 /
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 10384
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
+        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 YUKINARI! MELON 
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+    </td></tr></table>
+
+=== "8K"
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           :material-crown: AC 挑战
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ∞
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-x">    8X
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Dream Walker
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-x">    8X
+        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-x">    8X
+        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 /
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 9999
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    8X
         </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
@@ -2175,7 +2181,7 @@ The deserted planet waits
 
 === "SP"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![O2PLANET](./assets/disc/o2.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -2219,7 +2225,7 @@ A set of perceptual-cognitive traning exercises
 
 === "SP"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Brain Stretch](./assets/disc/o2b.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -2263,7 +2269,7 @@ The hand is quicker than the eye
 
 === "SP"
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![Trickster](./assets/disc/tr.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -2295,6 +2301,182 @@ The hand is quicker than the eye
 
 ---
 
+## FROST'S DESCENT 2023 SPECIAL
+
+> 2023 冬季特别组曲。
+
+=== "4K"
+
+    Moonflower blooms in the dark
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               18
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-b">    4B
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            kthnox
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
+        </code></td><td>        <!-- 第二首 歌名 -->            Glacial Alice
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
+        </code></td><td>        <!-- 第三首 歌名 -->            Round 3
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 2350500
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 7835
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
+        </code></td><td>        <!-- 第四首 歌名 -->            End Of Fight
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 CLOCKWORK & Jackalope 
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `PRESTIGE PASS`、`O2JAM COLLAB`
+    </td></tr></table>
+
+=== "5K"
+
+    with recollections graven inside
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               20
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Welcome To Skull's Hell (yusi. Remix)
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5S
+        </code></td><td>        <!-- 第二首 歌名 -->            Unison System
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
+        </code></td><td>        <!-- 第三首 歌名 -->            Panzer Schock (Culture Shock - ATAS Remix)
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 2875500
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 9585
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
+        </code></td><td>        <!-- 第四首 歌名 -->            Black Dragon
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 EZ2ON Pattern Team 
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `O2JAM COLLAB`、`FORTRESS`
+    </td></tr></table>
+    
+=== "6K"
+
+    and recreate its memories into something anew
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               20
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6S
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Miyang Fortress -VIA GUPO REMIX-
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6S
+        </code></td><td>        <!-- 第二首 歌名 -->            End Of Fight
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
+        </code></td><td>        <!-- 第三首 歌名 -->            Fortress 2 Blue GM05 (NieN Metal Remix)
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 4084800
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 13616
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
+        </code></td><td>        <!-- 第四首 歌名 -->            Identity part 2
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 EZ2ON Pattern Team 
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `O2JAM COLLAB`、`FORTRESS`
+    </td></tr></table>    
+
+=== "8K"
+
+    In the harmonious tune of warmth and coldness
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               18
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8S
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Absolute Death
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8S
+        </code></td><td>        <!-- 第二首 歌名 -->            METATRON
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
+        </code></td><td>        <!-- 第三首 歌名 -->            Unison System
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 263820
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 8794
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
+        </code></td><td>        <!-- 第四首 歌名 -->            TRPNO
+        </td></tr><tr><td>**谱师**</td><td colspan = "3" style = "font-size:85% !important">
+                                <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK & Quinta
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `PRESTIGE PASS`、`O2JAM COLLAB`
+    </td></tr></table>    
+
+=== "SP"
+
+    the Universe becomes vibrant with life
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           :material-crown-circle: AC 挑战
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               !?
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Blood Castle (Remix)
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
+        </code></td><td>        <!-- 第二首 歌名 -->            Iron Cloud
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
+        </code></td><td>        <!-- 第三首 歌名 -->            個人的なメモ (KENPO SAITO)
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 /
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 5220
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-b">    8B
+        </code></td><td>        <!-- 第四首 歌名 -->            Digital Labyrinth
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 Jackalope
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `CODENAME VIOLET`、`PRESTIGE PASS`
+    </td></tr></table>    
+
+---
+
 ## AUTUMNAL EQUINOX 2023 SPECIAL
 
 > 2023 秋分节日特别庆祝组曲。
@@ -2303,7 +2485,7 @@ The hand is quicker than the eye
 
     The holidays are time for connection
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -2337,7 +2519,7 @@ The hand is quicker than the eye
 
     in EZ2 folklore, the flow was something like this
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -2371,7 +2553,7 @@ The hand is quicker than the eye
 
     The Ethnic Cuisine ~ Controller Friendly
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -2405,7 +2587,7 @@ The hand is quicker than the eye
 
     Tips for Eating Local Food When You Travel: Equip TYPE E
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
@@ -2439,7 +2621,7 @@ The hand is quicker than the eye
 
     Curiosity is key to success
 
-    <table style="display: inline-block; vertical-align: middle"><tr>
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
                                 <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="200" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
