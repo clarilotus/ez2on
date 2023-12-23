@@ -24,7 +24,7 @@
 
 - 购买链接：[https://store.steampowered.com/app/1758560 :octicons-link-external-16:](https://store.steampowered.com/app/1758560)
 - 推荐程度：⭐⭐⭐⭐⭐
-- 国区原价：**¥ 78.00** (永久涨过价)
+- 国区原价：**¥ 78.00** (已确认不再打折)
 - 历史最低：**¥ 36.55** (涨价前首发折扣)
 - 歌曲数量：**17**
 - 曲风偏向：**科幻电子**
@@ -50,7 +50,7 @@
 - 推荐程度：⭐⭐⭐⭐
 - 国区原价：**¥ 37.00** (Early Access 内测期间购买了游戏本体的玩家已免费赠送该 DLC)
 - 历史最低：**¥ 25.90** (30% Off)
-- 歌曲数量：**10** (未来有可能追加额外曲目)
+- 歌曲数量：**10**
 - 曲风偏向：**复古、电子、钢琴曲**
 - 难度趋向：**中等偏难**
 - 捆绑内容：
@@ -59,7 +59,7 @@
     + 演奏音符：`|/10[_37`
     + 判定字体：`CV`
     + 连击字体：`CV`
-    + 课题组曲：`Violet`、`AUTUMNAL EQUINOX 2023 SPECIAL (5K)`
+    + 课题组曲：`Violet`、`AUTUMNAL EQUINOX 2023 SPECIAL (5K)`、`FROST'S DESCENT 2023 SPECIAL (SP)`
 
 ---
 
@@ -83,7 +83,7 @@
     + 演奏音符：`DOOMS`、`PRESTIGE INGOT`、`PRESTIGE CHIP`、`Scarlet`、`BEANS`
     + 判定字体：`Kings`、`NIGHTFALL`、`FiND A WAY`、`Varvious Ways`
     + 连击字体：`Kings`、`NIGHTFALL`、`FiND A WAY`、`Varvious Ways`
-    + 课题组曲：`PP Maglev Central Line`、`PP Maglev Central Line -RH-`、`AUTUMNAL EQUINOX 2023 SPECIAL (4K, 6K, 8K, SP)`、`代号 ppbg (未上线)`
+    + 课题组曲：`PP Maglev Central Line`、`PP Maglev Central Line -RH-`、`AUTUMNAL EQUINOX 2023 SPECIAL (4K, 6K, 8K, SP)`、`FROST'S DESCENT 2023 SPECIAL (4K, 8K, SP)`
 
 ---
 
@@ -107,7 +107,7 @@
     + 演奏音符：`O2Jam`、`NX`、`M250`
     + 判定字体：`Cricket`、`Aqua`、`M250`
     + 连击字体：`Cricket`、`AquaWhale`、`M250`
-    + 课题组曲：`O2Planet`、`Brain Stretch`、`AUTUMNAL EQUINOX 2023 SPECIAL (4K)`
+    + 课题组曲：`O2Planet`、`Brain Stretch`、`AUTUMNAL EQUINOX 2023 SPECIAL (4K)`、`FROST'S DESCENT 2023 SPECIAL`
 
 ---
 
@@ -137,13 +137,13 @@
 
 ![ENDLESS CIRCULATION](./assets/dlc/ec.jpg)
 
-> 街机歌曲扩充包，收录街机 EZ2AC : ENDLESS CIRCULATION 中的歌曲，初定共收录 38 首歌，现推出 29 首歌，2023 年 11 月底将更新剩余 9 首。
+> 街机歌曲扩充包，收录街机 EZ2AC : ENDLESS CIRCULATION 中的歌曲，共收录 39 首歌。
 
 - 购买链接：[https://store.steampowered.com/app/2325460 :octicons-link-external-16:](https://store.steampowered.com/app/2325460)
 - 推荐程度：⭐⭐⭐⭐⭐
-- 国区原价：**¥ 118.00**
+- 国区原价：**¥ 118.00** (已确认未来会涨价)
 - 历史最低：**¥ 106.20** (10% Off)
-- 歌曲数量：**38** (现已推出 29 首，2023 年 11 月底将更新剩余 9 首)
+- 歌曲数量：**39** 
 - 曲风偏向：**迷幻舞曲**
 - 难度趋向：**中等偏难**
 - 捆绑内容：
@@ -153,7 +153,7 @@
     + 演奏音符：`ENDLESS LUNE`
     + 判定字体：`EC2304 Mk.II`、`EC1304`
     + 连击字体：`ENDLESS`
-    + 课题组曲：`Ouroboros ~Challenge~`
+    + 课题组曲：`Ouroboros ~Challenge~`、`Ouroboros`
 
 ---
 
@@ -177,6 +177,7 @@
     + 演奏音符：`FORTRESS 2 Cannon`、`FORTRESS 2 Laser`
     + 判定字体：`FORTRESS 2`
     + 连击字体：`FORTRESS 2`
+    + 课题组曲：`FROST'S DESCENT 2023 SPECIAL (5K, 6K)`
 
 ---
 
