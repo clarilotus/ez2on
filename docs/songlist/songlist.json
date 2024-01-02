@@ -1315,6 +1315,47 @@
         {
             "id": 33,
             "dir": "SE",
+            "name": "LetItGoRemixRemaster",
+            "title": "Let It Go (Remix) (Remaster)",
+            "artist": "Ruby Tuesday",
+            "bpm": 109,
+            "bpmrng": null,
+            "B4EZ": 3,
+            "B4NM": 9,
+            "B4HD": 13,
+            "B4SHD": 16,
+            "B5EZ": 4,
+            "B5NM": 8,
+            "B5HD": 12,
+            "B5SHD": 15,
+            "B6EZ": 4,
+            "B6NM": 8,
+            "B6HD": 12,
+            "B6SHD": 15,
+            "B8EZ": 4,
+            "B8NM": 9,
+            "B8HD": 12,
+            "B8SHD": 15,
+            "S4EZ": 3,
+            "S4NM": 9,
+            "S4HD": 13,
+            "S4SHD": 16,
+            "S5EZ": 4,
+            "S5NM": 8,
+            "S5HD": 12,
+            "S5SHD": 15,
+            "S6EZ": 4,
+            "S6NM": 8,
+            "S6HD": 12,
+            "S6SHD": 15,
+            "S8EZ": 4,
+            "S8NM": 9,
+            "S8HD": 12,
+            "S8SHD": 15
+        },
+        {
+            "id": 34,
+            "dir": "SE",
             "name": "LoveExtasy",
             "title": "Love & Extasy",
             "artist": "Baby V.O.X",
@@ -1354,7 +1395,7 @@
             "S8SHD": 17
         },
         {
-            "id": 34,
+            "id": 35,
             "dir": "SE",
             "name": "MyHoney",
             "title": "My Honey",
@@ -1395,7 +1436,7 @@
             "S8SHD": 15
         },
         {
-            "id": 35,
+            "id": 36,
             "dir": "SE",
             "name": "MysticDream9903Remix",
             "title": "Mystic Dream 9903 (Horror Mix)",
@@ -1436,7 +1477,7 @@
             "S8SHD": 15
         },
         {
-            "id": 36,
+            "id": 37,
             "dir": "SE",
             "name": "QuakeInKyotoRemix",
             "title": "Quake in Kyoto (Mega Mix)",
@@ -1477,7 +1518,7 @@
             "S8SHD": 15
         },
         {
-            "id": 37,
+            "id": 38,
             "dir": "SE",
             "name": "RDM",
             "title": "R.D.M.",
@@ -1518,7 +1559,7 @@
             "S8SHD": 12
         },
         {
-            "id": 38,
+            "id": 39,
             "dir": "SE",
             "name": "RedHot",
             "title": "Red Hot",
@@ -1559,7 +1600,7 @@
             "S8SHD": 15
         },
         {
-            "id": 39,
+            "id": 40,
             "dir": "SE",
             "name": "TheRhythmRemix",
             "title": "The Rhythm (Remix)",
@@ -1600,7 +1641,7 @@
             "S8SHD": 17
         },
         {
-            "id": 40,
+            "id": 41,
             "dir": "SE",
             "name": "SpecialK",
             "title": "Special K",
@@ -1641,7 +1682,7 @@
             "S8SHD": 13
         },
         {
-            "id": 41,
+            "id": 42,
             "dir": "SE",
             "name": "StayRemix",
             "title": "Stay (Radio Edit)",
@@ -1682,7 +1723,7 @@
             "S8SHD": 11
         },
         {
-            "id": 42,
+            "id": 43,
             "dir": "SE",
             "name": "ReggaeRemix",
             "title": "You love the life you live (Remix)",
@@ -1723,7 +1764,7 @@
             "S8SHD": 9
         },
         {
-            "id": 43,
+            "id": 44,
             "dir": "SE",
             "name": "ZtarWarzRemix",
             "title": "Ztar warZ (Remix)",
@@ -1764,7 +1805,7 @@
             "S8SHD": 14
         },
         {
-            "id": 44,
+            "id": 45,
             "dir": "2ND",
             "name": "Anytime",
             "title": "Anytime",
@@ -1805,7 +1846,7 @@
             "S8SHD": 15
         },
         {
-            "id": 45,
+            "id": 46,
             "dir": "2ND",
             "name": "Appeal",
             "title": "Appeal",
@@ -1846,7 +1887,7 @@
             "S8SHD": 13
         },
         {
-            "id": 46,
+            "id": 47,
             "dir": "2ND",
             "name": "BackForMoreRemaster",
             "title": "Back For More (Remaster)",
@@ -1887,7 +1928,7 @@
             "S8SHD": 16
         },
         {
-            "id": 47,
+            "id": 48,
             "dir": "2ND",
             "name": "BackToBed",
             "title": "Back to Bed",
@@ -1928,7 +1969,7 @@
             "S8SHD": 14
         },
         {
-            "id": 48,
+            "id": 49,
             "dir": "2ND",
             "name": "BeMyBaby",
             "title": "Be My Baby",
@@ -1969,7 +2010,7 @@
             "S8SHD": 10
         },
         {
-            "id": 49,
+            "id": 50,
             "dir": "2ND",
             "name": "TheBoy",
             "title": "The Boy ",
@@ -2010,7 +2051,7 @@
             "S8SHD": 10
         },
         {
-            "id": 50,
+            "id": 51,
             "dir": "2ND",
             "name": "ChangaRemaster",
             "title": "Changa (Remaster)",
@@ -2051,7 +2092,7 @@
             "S8SHD": 14
         },
         {
-            "id": 51,
+            "id": 52,
             "dir": "2ND",
             "name": "Damnation",
             "title": "Damnation",
@@ -2092,7 +2133,7 @@
             "S8SHD": 14
         },
         {
-            "id": 52,
+            "id": 53,
             "dir": "2ND",
             "name": "Departure",
             "title": "Departure",
@@ -2133,7 +2174,7 @@
             "S8SHD": 13
         },
         {
-            "id": 53,
+            "id": 54,
             "dir": "2ND",
             "name": "Exist",
             "title": "Exist",
@@ -2174,7 +2215,7 @@
             "S8SHD": 12
         },
         {
-            "id": 54,
+            "id": 55,
             "dir": "2ND",
             "name": "Funky5",
             "title": "Funky 5",
@@ -2215,7 +2256,7 @@
             "S8SHD": 10
         },
         {
-            "id": 55,
+            "id": 56,
             "dir": "2ND",
             "name": "GetItUp",
             "title": "Get It Up",
@@ -2256,7 +2297,7 @@
             "S8SHD": 10
         },
         {
-            "id": 56,
+            "id": 57,
             "dir": "2ND",
             "name": "Hypnotize",
             "title": "Hypnotize",
@@ -2297,7 +2338,7 @@
             "S8SHD": 14
         },
         {
-            "id": 57,
+            "id": 58,
             "dir": "2ND",
             "name": "ItsMySecret",
             "title": "It's My Secret",
@@ -2338,7 +2379,7 @@
             "S8SHD": 12
         },
         {
-            "id": 58,
+            "id": 59,
             "dir": "2ND",
             "name": "IveGotThisFeeling",
             "title": "I've got this feeling",
@@ -2379,7 +2420,7 @@
             "S8SHD": 9
         },
         {
-            "id": 59,
+            "id": 60,
             "dir": "2ND",
             "name": "Jam",
             "title": "JAM",
@@ -2420,7 +2461,7 @@
             "S8SHD": 11
         },
         {
-            "id": 60,
+            "id": 61,
             "dir": "2ND",
             "name": "Minus1Remix",
             "title": "Minus 1 (Space Mix)",
@@ -2461,7 +2502,7 @@
             "S8SHD": 17
         },
         {
-            "id": 61,
+            "id": 62,
             "dir": "2ND",
             "name": "MovingOn",
             "title": "Moving On",
@@ -2502,7 +2543,7 @@
             "S8SHD": 11
         },
         {
-            "id": 62,
+            "id": 63,
             "dir": "2ND",
             "name": "RedOcean",
             "title": "Red Ocean",
@@ -2543,7 +2584,7 @@
             "S8SHD": 12
         },
         {
-            "id": 63,
+            "id": 64,
             "dir": "2ND",
             "name": "SayThatYou",
             "title": "Say That U",
@@ -2584,7 +2625,7 @@
             "S8SHD": 13
         },
         {
-            "id": 64,
+            "id": 65,
             "dir": "2ND",
             "name": "SeizeTheDay",
             "title": "Seize The Day",
@@ -2625,7 +2666,7 @@
             "S8SHD": 13
         },
         {
-            "id": 65,
+            "id": 66,
             "dir": "2ND",
             "name": "SentimentalNoNo",
             "title": "Sentimental No! No!",
@@ -2666,7 +2707,7 @@
             "S8SHD": 10
         },
         {
-            "id": 66,
+            "id": 67,
             "dir": "2ND",
             "name": "ShowDown",
             "title": "Showdown",
@@ -2707,7 +2748,7 @@
             "S8SHD": 15
         },
         {
-            "id": 67,
+            "id": 68,
             "dir": "2ND",
             "name": "WeLuvMusic",
             "title": "We Luv Music",
@@ -2748,7 +2789,7 @@
             "S8SHD": 14
         },
         {
-            "id": 68,
+            "id": 69,
             "dir": "2ND",
             "name": "WheresMyGirl",
             "title": "Where's My Girl",
@@ -2789,7 +2830,7 @@
             "S8SHD": 11
         },
         {
-            "id": 69,
+            "id": 70,
             "dir": "2ND",
             "name": "WithYouGirl",
             "title": "With U Girl",
@@ -2830,7 +2871,7 @@
             "S8SHD": 9
         },
         {
-            "id": 70,
+            "id": 71,
             "dir": "2ND",
             "name": "YouAreTheOneForMeRemaster",
             "title": "You Are The One For Me",
@@ -2871,7 +2912,7 @@
             "S8SHD": 14
         },
         {
-            "id": 71,
+            "id": 72,
             "dir": "3RD",
             "name": "214",
             "title": "2.14",
@@ -2912,7 +2953,7 @@
             "S8SHD": 12
         },
         {
-            "id": 72,
+            "id": 73,
             "dir": "3RD",
             "name": "20000000000",
             "title": "20000000000",
@@ -2953,7 +2994,7 @@
             "S8SHD": 18
         },
         {
-            "id": 73,
+            "id": 74,
             "dir": "3RD",
             "name": "2ndJewel",
             "title": "2nd Jewel",
@@ -2994,7 +3035,7 @@
             "S8SHD": 14
         },
         {
-            "id": 74,
+            "id": 75,
             "dir": "3RD",
             "name": "Anemia",
             "title": "Anemia",
@@ -3035,7 +3076,7 @@
             "S8SHD": 10
         },
         {
-            "id": 75,
+            "id": 76,
             "dir": "3RD",
             "name": "BlackMarket",
             "title": "Black Market",
@@ -3076,7 +3117,7 @@
             "S8SHD": 15
         },
         {
-            "id": 76,
+            "id": 77,
             "dir": "3RD",
             "name": "CosmicBird",
             "title": "Cosmic Bird",
@@ -3117,7 +3158,7 @@
             "S8SHD": 17
         },
         {
-            "id": 77,
+            "id": 78,
             "dir": "3RD",
             "name": "GiveIt2Me",
             "title": "Give it 2 me",
@@ -3158,7 +3199,7 @@
             "S8SHD": 16
         },
         {
-            "id": 78,
+            "id": 79,
             "dir": "3RD",
             "name": "InANutshell",
             "title": "In a Nutshell",
@@ -3199,7 +3240,7 @@
             "S8SHD": 14
         },
         {
-            "id": 79,
+            "id": 80,
             "dir": "3RD",
             "name": "LieLie",
             "title": "Lie Lie",
@@ -3240,7 +3281,7 @@
             "S8SHD": 15
         },
         {
-            "id": 80,
+            "id": 81,
             "dir": "3RD",
             "name": "Minus2",
             "title": "Minus 2",
@@ -3281,7 +3322,7 @@
             "S8SHD": 18
         },
         {
-            "id": 81,
+            "id": 82,
             "dir": "3RD",
             "name": "MPolice",
             "title": "M-Police",
@@ -3322,7 +3363,7 @@
             "S8SHD": 14
         },
         {
-            "id": 82,
+            "id": 83,
             "dir": "3RD",
             "name": "NightWatcher",
             "title": "Night Watcher",
@@ -3363,7 +3404,7 @@
             "S8SHD": 14
         },
         {
-            "id": 83,
+            "id": 84,
             "dir": "3RD",
             "name": "RFC",
             "title": "R.F.C.",
@@ -3404,7 +3445,7 @@
             "S8SHD": 17
         },
         {
-            "id": 84,
+            "id": 85,
             "dir": "3RD",
             "name": "SandStorm",
             "title": "Sand Storm",
@@ -3445,7 +3486,7 @@
             "S8SHD": 16
         },
         {
-            "id": 85,
+            "id": 86,
             "dir": "3RD",
             "name": "Shake",
             "title": "Shake",
@@ -3486,7 +3527,7 @@
             "S8SHD": 15
         },
         {
-            "id": 86,
+            "id": 87,
             "dir": "3RD",
             "name": "Smash",
             "title": "Smash",
@@ -3527,7 +3568,7 @@
             "S8SHD": 15
         },
         {
-            "id": 87,
+            "id": 88,
             "dir": "3RD",
             "name": "Sparrow",
             "title": "Sparrow",
@@ -3568,7 +3609,7 @@
             "S8SHD": 17
         },
         {
-            "id": 88,
+            "id": 89,
             "dir": "3RD",
             "name": "Substance",
             "title": "Substance",
@@ -3609,7 +3650,7 @@
             "S8SHD": 14
         },
         {
-            "id": 89,
+            "id": 90,
             "dir": "3RD",
             "name": "The3rdPlace",
             "title": "The 3rd Place",
@@ -3650,7 +3691,7 @@
             "S8SHD": 15
         },
         {
-            "id": 90,
+            "id": 91,
             "dir": "3RD",
             "name": "YGate",
             "title": "Y-Gate",
@@ -3691,7 +3732,7 @@
             "S8SHD": 17
         },
         {
-            "id": 91,
+            "id": 92,
             "dir": "4TH",
             "name": "Aquaris",
             "title": "Aquaris",
@@ -3732,7 +3773,7 @@
             "S8SHD": 14
         },
         {
-            "id": 92,
+            "id": 93,
             "dir": "4TH",
             "name": "BOW",
             "title": "B.O.W.",
@@ -3773,7 +3814,7 @@
             "S8SHD": 17
         },
         {
-            "id": 93,
+            "id": 94,
             "dir": "4TH",
             "name": "Blue",
             "title": "Blue",
@@ -3814,7 +3855,7 @@
             "S8SHD": 16
         },
         {
-            "id": 94,
+            "id": 95,
             "dir": "4TH",
             "name": "CallingMeNow",
             "title": "Calling me Now",
@@ -3855,7 +3896,7 @@
             "S8SHD": 15
         },
         {
-            "id": 95,
+            "id": 96,
             "dir": "4TH",
             "name": "Climax",
             "title": "Climax",
@@ -3896,7 +3937,7 @@
             "S8SHD": 17
         },
         {
-            "id": 96,
+            "id": 97,
             "dir": "4TH",
             "name": "Complex",
             "title": "Complex",
@@ -3937,7 +3978,7 @@
             "S8SHD": 17
         },
         {
-            "id": 97,
+            "id": 98,
             "dir": "4TH",
             "name": "Delight",
             "title": "Delight",
@@ -3978,7 +4019,7 @@
             "S8SHD": 15
         },
         {
-            "id": 98,
+            "id": 99,
             "dir": "4TH",
             "name": "EyeOfBeholder",
             "title": "Eye of Beholder",
@@ -4019,7 +4060,7 @@
             "S8SHD": 16
         },
         {
-            "id": 99,
+            "id": 100,
             "dir": "4TH",
             "name": "FeelSoSad",
             "title": "Feel So Sad",
@@ -4060,7 +4101,7 @@
             "S8SHD": 17
         },
         {
-            "id": 100,
+            "id": 101,
             "dir": "4TH",
             "name": "FireStorm",
             "title": "Fire Storm",
@@ -4101,7 +4142,7 @@
             "S8SHD": 19
         },
         {
-            "id": 101,
+            "id": 102,
             "dir": "4TH",
             "name": "FuturistRemaster",
             "title": "Futurist",
@@ -4142,7 +4183,7 @@
             "S8SHD": 16
         },
         {
-            "id": 102,
+            "id": 103,
             "dir": "4TH",
             "name": "Go",
             "title": "Go!",
@@ -4183,7 +4224,7 @@
             "S8SHD": 15
         },
         {
-            "id": 103,
+            "id": 104,
             "dir": "4TH",
             "name": "JMJ",
             "title": "J.M.J",
@@ -4224,7 +4265,7 @@
             "S8SHD": 16
         },
         {
-            "id": 104,
+            "id": 105,
             "dir": "4TH",
             "name": "Judgment",
             "title": "Judgement",
@@ -4265,7 +4306,7 @@
             "S8SHD": 14
         },
         {
-            "id": 105,
+            "id": 106,
             "dir": "4TH",
             "name": "LovelyDayRemaster",
             "title": "Lovely Day",
@@ -4306,7 +4347,7 @@
             "S8SHD": 15
         },
         {
-            "id": 106,
+            "id": 107,
             "dir": "4TH",
             "name": "MadRobot",
             "title": "Mad Robot",
@@ -4347,7 +4388,7 @@
             "S8SHD": 15
         },
         {
-            "id": 107,
+            "id": 108,
             "dir": "4TH",
             "name": "Metagalactic",
             "title": "Metagalactic",
@@ -4388,7 +4429,7 @@
             "S8SHD": 17
         },
         {
-            "id": 108,
+            "id": 109,
             "dir": "4TH",
             "name": "ReadyToYah",
             "title": "Ready to Yah",
@@ -4429,7 +4470,7 @@
             "S8SHD": 14
         },
         {
-            "id": 109,
+            "id": 110,
             "dir": "4TH",
             "name": "Shout",
             "title": "Shout",
@@ -4470,7 +4511,7 @@
             "S8SHD": 15
         },
         {
-            "id": 110,
+            "id": 111,
             "dir": "4TH",
             "name": "Tokyo9PM",
             "title": "Tokyo 9 P.M.",
@@ -4511,7 +4552,7 @@
             "S8SHD": 15
         },
         {
-            "id": 111,
+            "id": 112,
             "dir": "PT",
             "name": "AnyWayYouWantIt",
             "title": "Any way you want it",
@@ -4552,7 +4593,7 @@
             "S8SHD": 14
         },
         {
-            "id": 112,
+            "id": 113,
             "dir": "PT",
             "name": "AquarisRemix",
             "title": "Aquaris (Physical Inspiration Hyper Blue Mix)",
@@ -4593,7 +4634,7 @@
             "S8SHD": 16
         },
         {
-            "id": 113,
+            "id": 114,
             "dir": "PT",
             "name": "Cellavue",
             "title": "Cellavue",
@@ -4634,7 +4675,7 @@
             "S8SHD": 13
         },
         {
-            "id": 114,
+            "id": 115,
             "dir": "PT",
             "name": "Feel",
             "title": "Feel",
@@ -4675,7 +4716,7 @@
             "S8SHD": 13
         },
         {
-            "id": 115,
+            "id": 116,
             "dir": "PT",
             "name": "IveFallenRemix",
             "title": "I've Fallen (Hot Dog Boogie Groove Mix)",
@@ -4716,7 +4757,7 @@
             "S8SHD": 15
         },
         {
-            "id": 116,
+            "id": 117,
             "dir": "PT",
             "name": "IveGotThisFeelingRemix",
             "title": "I've got this feeling (Dj.FE Restless Acid Soul Mix)",
@@ -4757,7 +4798,7 @@
             "S8SHD": 14
         },
         {
-            "id": 117,
+            "id": 118,
             "dir": "PT",
             "name": "JMJRemix",
             "title": "J.M.J (DFC Space Gear Re-formation)",
@@ -4798,7 +4839,7 @@
             "S8SHD": 15
         },
         {
-            "id": 118,
+            "id": 119,
             "dir": "PT",
             "name": "Memories",
             "title": "Memories",
@@ -4839,7 +4880,7 @@
             "S8SHD": 15
         },
         {
-            "id": 119,
+            "id": 120,
             "dir": "PT",
             "name": "NightMadness",
             "title": "Night Madness",
@@ -4880,7 +4921,7 @@
             "S8SHD": 15
         },
         {
-            "id": 120,
+            "id": 121,
             "dir": "PT",
             "name": "PanicStrike",
             "title": "Panic Strike",
@@ -4921,7 +4962,7 @@
             "S8SHD": 17
         },
         {
-            "id": 121,
+            "id": 122,
             "dir": "PT",
             "name": "QFactor",
             "title": "Q Factor",
@@ -4962,7 +5003,7 @@
             "S8SHD": 16
         },
         {
-            "id": 122,
+            "id": 123,
             "dir": "PT",
             "name": "RiffGuy",
             "title": "Riff Guy",
@@ -5003,7 +5044,7 @@
             "S8SHD": 17
         },
         {
-            "id": 123,
+            "id": 124,
             "dir": "PT",
             "name": "Spotlight",
             "title": "Spotlight",
@@ -5044,7 +5085,7 @@
             "S8SHD": 14
         },
         {
-            "id": 124,
+            "id": 125,
             "dir": "PT",
             "name": "UnknownH2",
             "title": "Unknown H2",
@@ -5085,7 +5126,7 @@
             "S8SHD": 14
         },
         {
-            "id": 125,
+            "id": 126,
             "dir": "PT",
             "name": "WeirdWave",
             "title": "Weird Wave",
@@ -5126,7 +5167,7 @@
             "S8SHD": 18
         },
         {
-            "id": 126,
+            "id": 127,
             "dir": "PT",
             "name": "Zeroize",
             "title": "Zeroize",
@@ -5167,7 +5208,7 @@
             "S8SHD": 19
         },
         {
-            "id": 127,
+            "id": 128,
             "dir": "6TH",
             "name": "BabyDanceRemixRemaster",
             "title": "Baby Dance (Club Ver.)",
@@ -5208,7 +5249,7 @@
             "S8SHD": 16
         },
         {
-            "id": 128,
+            "id": 129,
             "dir": "6TH",
             "name": "BacardiOnTheBeach",
             "title": "Bacardi on the Beach",
@@ -5249,7 +5290,7 @@
             "S8SHD": 15
         },
         {
-            "id": 129,
+            "id": 130,
             "dir": "6TH",
             "name": "Bemine",
             "title": "Be mine",
@@ -5290,7 +5331,7 @@
             "S8SHD": 14
         },
         {
-            "id": 130,
+            "id": 131,
             "dir": "6TH",
             "name": "BeMyBabyRemix",
             "title": "Be My Baby (Funky Ver.)",
@@ -5331,7 +5372,7 @@
             "S8SHD": 12
         },
         {
-            "id": 131,
+            "id": 132,
             "dir": "6TH",
             "name": "BeAtFeedback",
             "title": "Be-at Feedback",
@@ -5372,7 +5413,7 @@
             "S8SHD": 17
         },
         {
-            "id": 132,
+            "id": 133,
             "dir": "6TH",
             "name": "Changa2",
             "title": "Changa 2",
@@ -5413,7 +5454,7 @@
             "S8SHD": 12
         },
         {
-            "id": 133,
+            "id": 134,
             "dir": "6TH",
             "name": "CurseIt",
             "title": "Curse It!",
@@ -5454,7 +5495,7 @@
             "S8SHD": 15
         },
         {
-            "id": 134,
+            "id": 135,
             "dir": "6TH",
             "name": "DanceMachine",
             "title": "Dance Machine",
@@ -5495,7 +5536,7 @@
             "S8SHD": 14
         },
         {
-            "id": 135,
+            "id": 136,
             "dir": "6TH",
             "name": "DanceWithMe",
             "title": "Dance With Me",
@@ -5536,7 +5577,7 @@
             "S8SHD": 14
         },
         {
-            "id": 136,
+            "id": 137,
             "dir": "6TH",
             "name": "FeelRemix",
             "title": "Feel (Sonic A.P.E Ver)",
@@ -5577,7 +5618,7 @@
             "S8SHD": 13
         },
         {
-            "id": 137,
+            "id": 138,
             "dir": "6TH",
             "name": "Frantic",
             "title": "Frantic",
@@ -5618,7 +5659,7 @@
             "S8SHD": 16
         },
         {
-            "id": 138,
+            "id": 139,
             "dir": "6TH",
             "name": "IveGotThisFeelingRemix2",
             "title": "I've got this feeling (Extended Ver.)",
@@ -5659,7 +5700,7 @@
             "S8SHD": 14
         },
         {
-            "id": 139,
+            "id": 140,
             "dir": "6TH",
             "name": "JamRemix",
             "title": "Jam (A.C Ver.)",
@@ -5700,7 +5741,7 @@
             "S8SHD": 14
         },
         {
-            "id": 140,
+            "id": 141,
             "dir": "6TH",
             "name": "LieLieRemix",
             "title": "Lie Lie (Ceave Beat Ver.)",
@@ -5741,7 +5782,7 @@
             "S8SHD": 13
         },
         {
-            "id": 141,
+            "id": 142,
             "dir": "6TH",
             "name": "MoveYourBody",
             "title": "Move Your Body",
@@ -5782,7 +5823,7 @@
             "S8SHD": 15
         },
         {
-            "id": 142,
+            "id": 143,
             "dir": "6TH",
             "name": "OneTwoThreeFour",
             "title": "One Two Three Four",
@@ -5823,7 +5864,7 @@
             "S8SHD": 14
         },
         {
-            "id": 143,
+            "id": 144,
             "dir": "6TH",
             "name": "Refresh",
             "title": "Refresh",
@@ -5864,7 +5905,7 @@
             "S8SHD": 15
         },
         {
-            "id": 144,
+            "id": 145,
             "dir": "6TH",
             "name": "StayWithMe",
             "title": "Stay with me",
@@ -5905,7 +5946,7 @@
             "S8SHD": 14
         },
         {
-            "id": 145,
+            "id": 146,
             "dir": "6TH",
             "name": "TheBoyRemix",
             "title": "The Boy (EK2-Beat Ver.)",
@@ -5946,7 +5987,7 @@
             "S8SHD": 15
         },
         {
-            "id": 146,
+            "id": 147,
             "dir": "6TH",
             "name": "UpAndDown",
             "title": "Up and down",
@@ -5987,7 +6028,48 @@
             "S8SHD": 13
         },
         {
-            "id": 147,
+            "id": 148,
+            "dir": "6TH",
+            "name": "UpAndDownRemaster",
+            "title": "Up and down (Remaster)",
+            "artist": "Soulzean",
+            "bpm": 96,
+            "bpmrng": null,
+            "B4EZ": 3,
+            "B4NM": 6,
+            "B4HD": 12,
+            "B4SHD": 15,
+            "B5EZ": 3,
+            "B5NM": 7,
+            "B5HD": 12,
+            "B5SHD": 15,
+            "B6EZ": 3,
+            "B6NM": 8,
+            "B6HD": 13,
+            "B6SHD": 15,
+            "B8EZ": 4,
+            "B8NM": 8,
+            "B8HD": 12,
+            "B8SHD": 15,
+            "S4EZ": 3,
+            "S4NM": 6,
+            "S4HD": 12,
+            "S4SHD": 15,
+            "S5EZ": 3,
+            "S5NM": 7,
+            "S5HD": 12,
+            "S5SHD": 15,
+            "S6EZ": 3,
+            "S6NM": 8,
+            "S6HD": 13,
+            "S6SHD": 15,
+            "S8EZ": 4,
+            "S8NM": 8,
+            "S8HD": 12,
+            "S8SHD": 15
+        },
+        {
+            "id": 149,
             "dir": "6TH",
             "name": "WithYouGirlRemix",
             "title": "With U Girl (Beach Ver.)",
@@ -6028,7 +6110,7 @@
             "S8SHD": 13
         },
         {
-            "id": 148,
+            "id": 150,
             "dir": "6TH",
             "name": "YouWereTheOne",
             "title": "You were the one",
@@ -6069,7 +6151,7 @@
             "S8SHD": 14
         },
         {
-            "id": 149,
+            "id": 151,
             "dir": "6TH",
             "name": "YourStyle",
             "title": "Your Style",
@@ -6110,7 +6192,7 @@
             "S8SHD": 14
         },
         {
-            "id": 150,
+            "id": 152,
             "dir": "7TH",
             "name": "AnOldStory",
             "title": "An Old Story",
@@ -6151,7 +6233,7 @@
             "S8SHD": 12
         },
         {
-            "id": 151,
+            "id": 153,
             "dir": "7TH",
             "name": "BlackBird",
             "title": "Black Bird",
@@ -6192,7 +6274,7 @@
             "S8SHD": 16
         },
         {
-            "id": 152,
+            "id": 154,
             "dir": "7TH",
             "name": "BlackFlame",
             "title": "Black Flame",
@@ -6233,7 +6315,7 @@
             "S8SHD": 17
         },
         {
-            "id": 153,
+            "id": 155,
             "dir": "7TH",
             "name": "CheonJi",
             "title": "Cheonjigaebyeok天地開闢",
@@ -6274,7 +6356,7 @@
             "S8SHD": 16
         },
         {
-            "id": 154,
+            "id": 156,
             "dir": "7TH",
             "name": "DreamyFlight",
             "title": "Dreamy Flight",
@@ -6315,7 +6397,7 @@
             "S8SHD": 17
         },
         {
-            "id": 155,
+            "id": 157,
             "dir": "7TH",
             "name": "EndOfSummer",
             "title": "End of Summer",
@@ -6356,7 +6438,7 @@
             "S8SHD": 13
         },
         {
-            "id": 156,
+            "id": 158,
             "dir": "7TH",
             "name": "EnergyFlowerOriginalAC",
             "title": "Energy Flower（Original Mix）",
@@ -6397,7 +6479,7 @@
             "S8SHD": 15
         },
         {
-            "id": 157,
+            "id": 159,
             "dir": "7TH",
             "name": "ExplodeEngine",
             "title": "Explode Engine",
@@ -6438,7 +6520,7 @@
             "S8SHD": 16
         },
         {
-            "id": 158,
+            "id": 160,
             "dir": "7TH",
             "name": "FadedSpirit",
             "title": "Faded Spirit",
@@ -6479,7 +6561,7 @@
             "S8SHD": 15
         },
         {
-            "id": 159,
+            "id": 161,
             "dir": "7TH",
             "name": "FallenAngel",
             "title": "Fallen Angel",
@@ -6520,7 +6602,7 @@
             "S8SHD": 13
         },
         {
-            "id": 160,
+            "id": 162,
             "dir": "7TH",
             "name": "FellHound3",
             "title": "Fell Hound 3",
@@ -6561,7 +6643,7 @@
             "S8SHD": 16
         },
         {
-            "id": 161,
+            "id": 163,
             "dir": "7TH",
             "name": "Forget",
             "title": "Forget",
@@ -6602,7 +6684,7 @@
             "S8SHD": 16
         },
         {
-            "id": 162,
+            "id": 164,
             "dir": "7TH",
             "name": "GOA",
             "title": "G.O.A",
@@ -6643,7 +6725,7 @@
             "S8SHD": 15
         },
         {
-            "id": 163,
+            "id": 165,
             "dir": "7TH",
             "name": "GrayHunter",
             "title": "Gray Hunter",
@@ -6684,7 +6766,7 @@
             "S8SHD": 16
         },
         {
-            "id": 164,
+            "id": 166,
             "dir": "7TH",
             "name": "GrayStreet",
             "title": "Gray Street",
@@ -6725,7 +6807,7 @@
             "S8SHD": 15
         },
         {
-            "id": 165,
+            "id": 167,
             "dir": "7TH",
             "name": "Holic",
             "title": "Holic",
@@ -6766,7 +6848,7 @@
             "S8SHD": 15
         },
         {
-            "id": 166,
+            "id": 168,
             "dir": "7TH",
             "name": "HyperMagic",
             "title": "Hyper Magic",
@@ -6807,7 +6889,7 @@
             "S8SHD": 19
         },
         {
-            "id": 167,
+            "id": 169,
             "dir": "7TH",
             "name": "KAFAT",
             "title": "KAFAT",
@@ -6848,7 +6930,7 @@
             "S8SHD": 15
         },
         {
-            "id": 168,
+            "id": 170,
             "dir": "7TH",
             "name": "LegacyOfHatred",
             "title": "Legacy of Hatred (live)",
@@ -6889,7 +6971,7 @@
             "S8SHD": 18
         },
         {
-            "id": 169,
+            "id": 171,
             "dir": "7TH",
             "name": "LegendOfMoonlight",
             "title": "Legend of Moonlight",
@@ -6930,7 +7012,7 @@
             "S8SHD": 18
         },
         {
-            "id": 170,
+            "id": 172,
             "dir": "7TH",
             "name": "LetMeHearYourVoice",
             "title": "Let me hear your voice",
@@ -6971,7 +7053,7 @@
             "S8SHD": 14
         },
         {
-            "id": 171,
+            "id": 173,
             "dir": "7TH",
             "name": "MageGirlStory",
             "title": "Mage Girl Story",
@@ -7012,7 +7094,7 @@
             "S8SHD": 16
         },
         {
-            "id": 172,
+            "id": 174,
             "dir": "7TH",
             "name": "OnesTrash",
             "title": "One's Trash",
@@ -7053,7 +7135,7 @@
             "S8SHD": 15
         },
         {
-            "id": 173,
+            "id": 175,
             "dir": "7TH",
             "name": "Paradise",
             "title": "Paradise",
@@ -7094,7 +7176,7 @@
             "S8SHD": 14
         },
         {
-            "id": 174,
+            "id": 176,
             "dir": "7TH",
             "name": "RED",
             "title": "R.E.D.~Red Evil of Death~",
@@ -7135,7 +7217,7 @@
             "S8SHD": 16
         },
         {
-            "id": 175,
+            "id": 177,
             "dir": "7TH",
             "name": "Return",
             "title": "Return",
@@ -7176,7 +7258,7 @@
             "S8SHD": 16
         },
         {
-            "id": 176,
+            "id": 178,
             "dir": "7TH",
             "name": "Revelation",
             "title": "Revelation",
@@ -7217,7 +7299,7 @@
             "S8SHD": 18
         },
         {
-            "id": 177,
+            "id": 179,
             "dir": "7TH",
             "name": "Round3",
             "title": "Round 3",
@@ -7258,7 +7340,7 @@
             "S8SHD": 18
         },
         {
-            "id": 178,
+            "id": 180,
             "dir": "7TH",
             "name": "ShotTime",
             "title": "Shot Time",
@@ -7299,7 +7381,7 @@
             "S8SHD": 15
         },
         {
-            "id": 179,
+            "id": 181,
             "dir": "7TH",
             "name": "SilverOcean",
             "title": "Silver Ocean",
@@ -7340,7 +7422,7 @@
             "S8SHD": 16
         },
         {
-            "id": 180,
+            "id": 182,
             "dir": "7TH",
             "name": "SoulDestructor",
             "title": "Soul Destructor",
@@ -7381,7 +7463,7 @@
             "S8SHD": 19
         },
         {
-            "id": 181,
+            "id": 183,
             "dir": "7TH",
             "name": "SoulEater",
             "title": "Soul Eater",
@@ -7422,7 +7504,7 @@
             "S8SHD": 17
         },
         {
-            "id": 182,
+            "id": 184,
             "dir": "7TH",
             "name": "SpaceDestiny",
             "title": "Space Destiny",
@@ -7463,7 +7545,7 @@
             "S8SHD": 16
         },
         {
-            "id": 183,
+            "id": 185,
             "dir": "7TH",
             "name": "Sunlight",
             "title": "Sunlight",
@@ -7504,7 +7586,7 @@
             "S8SHD": 16
         },
         {
-            "id": 184,
+            "id": 186,
             "dir": "7TH",
             "name": "SweetHeart",
             "title": "Sweet Heart",
@@ -7545,7 +7627,7 @@
             "S8SHD": 16
         },
         {
-            "id": 185,
+            "id": 187,
             "dir": "7TH",
             "name": "BackOfBeyond",
             "title": "The Back of Beyond",
@@ -7586,7 +7668,7 @@
             "S8SHD": 13
         },
         {
-            "id": 186,
+            "id": 188,
             "dir": "7TH",
             "name": "PrinceOfDarkness",
             "title": "The Prince of Darkness",
@@ -7627,7 +7709,7 @@
             "S8SHD": 18
         },
         {
-            "id": 187,
+            "id": 189,
             "dir": "7TH",
             "name": "TheWorld",
             "title": "The World",
@@ -7668,7 +7750,7 @@
             "S8SHD": 14
         },
         {
-            "id": 188,
+            "id": 190,
             "dir": "7TH",
             "name": "ToMyLove",
             "title": "To My Love",
@@ -7709,7 +7791,7 @@
             "S8SHD": 14
         },
         {
-            "id": 189,
+            "id": 191,
             "dir": "7TH",
             "name": "ToyWar",
             "title": "Toy War",
@@ -7750,7 +7832,7 @@
             "S8SHD": 16
         },
         {
-            "id": 190,
+            "id": 192,
             "dir": "7TH",
             "name": "UnrequitedLove2",
             "title": "Unrequited Love 2",
@@ -7791,7 +7873,7 @@
             "S8SHD": 17
         },
         {
-            "id": 191,
+            "id": 193,
             "dir": "7TH",
             "name": "WhiteRose",
             "title": "White Rose",
@@ -7832,7 +7914,7 @@
             "S8SHD": 16
         },
         {
-            "id": 192,
+            "id": 194,
             "dir": 2008,
             "name": "BlackIndustry",
             "title": "Black Industry",
@@ -7873,7 +7955,7 @@
             "S8SHD": 16
         },
         {
-            "id": 193,
+            "id": 195,
             "dir": 2008,
             "name": "BlackIndustryRemix",
             "title": "Black Industry (And More Rock Version)",
@@ -7914,7 +7996,7 @@
             "S8SHD": 16
         },
         {
-            "id": 194,
+            "id": 196,
             "dir": 2008,
             "name": "BlackKey",
             "title": "Black Key (黑鍵)",
@@ -7955,7 +8037,7 @@
             "S8SHD": 19
         },
         {
-            "id": 195,
+            "id": 197,
             "dir": 2008,
             "name": "TheBoyRemix2",
             "title": "The Boy (Indigo Blue Mix)",
@@ -7996,7 +8078,7 @@
             "S8SHD": 14
         },
         {
-            "id": 196,
+            "id": 198,
             "dir": 2008,
             "name": "AfterRain",
             "title": "Clear After Rain",
@@ -8037,7 +8119,7 @@
             "S8SHD": 16
         },
         {
-            "id": 197,
+            "id": 199,
             "dir": 2008,
             "name": "EnergyFlower3007",
             "title": "Energy Flower 3007",
@@ -8078,7 +8160,7 @@
             "S8SHD": 16
         },
         {
-            "id": 198,
+            "id": 200,
             "dir": 2008,
             "name": "FirstChoice",
             "title": "First Choice",
@@ -8119,7 +8201,7 @@
             "S8SHD": 16
         },
         {
-            "id": 199,
+            "id": 201,
             "dir": 2008,
             "name": "The1stMoonlight",
             "title": "The First Movement of Moonlight",
@@ -8160,7 +8242,7 @@
             "S8SHD": 16
         },
         {
-            "id": 200,
+            "id": 202,
             "dir": 2008,
             "name": "RefreshWinterRemix",
             "title": "Refresh Winter Remix",
@@ -8201,7 +8283,7 @@
             "S8SHD": 13
         },
         {
-            "id": 201,
+            "id": 203,
             "dir": 2008,
             "name": "Round3Remix",
             "title": "Round 3 (The First Noel X-mas Edit)",
@@ -8242,7 +8324,7 @@
             "S8SHD": 16
         },
         {
-            "id": 202,
+            "id": 204,
             "dir": 2008,
             "name": "SecondChoice",
             "title": "Second Choice",
@@ -8283,7 +8365,7 @@
             "S8SHD": 18
         },
         {
-            "id": 203,
+            "id": 205,
             "dir": 2008,
             "name": "SuddenDeath",
             "title": "Sudden Death",
@@ -8324,7 +8406,7 @@
             "S8SHD": 20
         },
         {
-            "id": 204,
+            "id": 206,
             "dir": 2008,
             "name": "SweetLand",
             "title": "Sweet Land",
@@ -8365,7 +8447,7 @@
             "S8SHD": 16
         },
         {
-            "id": 205,
+            "id": 207,
             "dir": 2008,
             "name": "TeMotion",
             "title": "T-eMotion",
@@ -8406,7 +8488,7 @@
             "S8SHD": 14
         },
         {
-            "id": 206,
+            "id": 208,
             "dir": 2008,
             "name": "OnesTrash",
             "title": "The World is One's Oyster",
@@ -8447,7 +8529,7 @@
             "S8SHD": 15
         },
         {
-            "id": 207,
+            "id": 209,
             "dir": 2008,
             "name": "YouKeepMeWaiting",
             "title": "You Keep Me Waiting",
@@ -8488,7 +8570,7 @@
             "S8SHD": 15
         },
         {
-            "id": 208,
+            "id": 210,
             "dir": 2013,
             "name": "TheAshtray",
             "title": "The Ashtray",
@@ -8529,7 +8611,7 @@
             "S8SHD": 19
         },
         {
-            "id": 209,
+            "id": 211,
             "dir": 2013,
             "name": "AURA",
             "title": "Aura",
@@ -8570,7 +8652,7 @@
             "S8SHD": 16
         },
         {
-            "id": 210,
+            "id": 212,
             "dir": 2013,
             "name": "CommonStory",
             "title": "Common Story",
@@ -8611,7 +8693,7 @@
             "S8SHD": 14
         },
         {
-            "id": 211,
+            "id": 213,
             "dir": 2013,
             "name": "DigitalLabyrinth",
             "title": "Digital Labyrinth",
@@ -8652,7 +8734,7 @@
             "S8SHD": 16
         },
         {
-            "id": 212,
+            "id": 214,
             "dir": 2013,
             "name": "FrozenEyes",
             "title": "Frozen Eyes",
@@ -8693,7 +8775,7 @@
             "S8SHD": 16
         },
         {
-            "id": 213,
+            "id": 215,
             "dir": 2013,
             "name": "INFINITY",
             "title": "INFINITY",
@@ -8734,7 +8816,7 @@
             "S8SHD": 19
         },
         {
-            "id": 214,
+            "id": 216,
             "dir": 2013,
             "name": "Kamui",
             "title": "Kamui (神威)",
@@ -8775,7 +8857,7 @@
             "S8SHD": 20
         },
         {
-            "id": 215,
+            "id": 217,
             "dir": 2013,
             "name": "Lucid",
             "title": "Lucid",
@@ -8816,7 +8898,7 @@
             "S8SHD": 20
         },
         {
-            "id": 216,
+            "id": 218,
             "dir": 2013,
             "name": "Monochrome",
             "title": "Monochrome",
@@ -8857,7 +8939,7 @@
             "S8SHD": 14
         },
         {
-            "id": 217,
+            "id": 219,
             "dir": 2013,
             "name": "Nihilism",
             "title": "Nihilism",
@@ -8898,10 +8980,10 @@
             "S8SHD": 18
         },
         {
-            "id": 218,
+            "id": 220,
             "dir": 2013,
-            "name": "Sigma",
-            "title": "SIGMA",
+            "name": "SIGMA",
+            "title": "Sigma",
             "artist": "fromsmk",
             "bpm": 160,
             "bpmrng": " ",
@@ -8939,7 +9021,7 @@
             "S8SHD": 17
         },
         {
-            "id": 219,
+            "id": 221,
             "dir": 2013,
             "name": "SnowDream",
             "title": "Snow Dream",
@@ -8980,7 +9062,7 @@
             "S8SHD": 10
         },
         {
-            "id": 220,
+            "id": 222,
             "dir": 2013,
             "name": "SnowDreamRemaster",
             "title": "Snow Dream (Ramaster)",
@@ -8988,40 +9070,40 @@
             "bpm": 133,
             "bpmrng": null,
             "B4EZ": 4,
-        "B4NM": 9,
-        "B4HD": 13,
-        "B4SHD": 15,
-        "B5EZ": 3,
-        "B5NM": 7,
-        "B5HD": 12,
-        "B5SHD": 15,
-        "B6EZ": 4,
-        "B6NM": 9,
-        "B6HD": 13,
-        "B6SHD": 15,
-        "B8EZ": 4,
-        "B8NM": 8,
-        "B8HD": 13,
-        "B8SHD": 16,
-        "S4EZ": 4,
-        "S4NM": 9,
-        "S4HD": 13,
-        "S4SHD": 15,
-        "S5EZ": 3,
-        "S5NM": 7,
-        "S5HD": 12,
-        "S5SHD": 15,
-        "S6EZ": 4,
-        "S6NM": 9,
-        "S6HD": 13,
-        "S6SHD": 15,
-        "S8EZ": 4,
-        "S8NM": 8,
-        "S8HD": 13,
-        "S8SHD": 16
+            "B4NM": 9,
+            "B4HD": 13,
+            "B4SHD": 15,
+            "B5EZ": 3,
+            "B5NM": 7,
+            "B5HD": 12,
+            "B5SHD": 15,
+            "B6EZ": 4,
+            "B6NM": 9,
+            "B6HD": 13,
+            "B6SHD": 15,
+            "B8EZ": 4,
+            "B8NM": 8,
+            "B8HD": 13,
+            "B8SHD": 16,
+            "S4EZ": 4,
+            "S4NM": 9,
+            "S4HD": 13,
+            "S4SHD": 15,
+            "S5EZ": 3,
+            "S5NM": 7,
+            "S5HD": 12,
+            "S5SHD": 15,
+            "S6EZ": 4,
+            "S6NM": 9,
+            "S6HD": 13,
+            "S6SHD": 15,
+            "S8EZ": 4,
+            "S8NM": 8,
+            "S8HD": 13,
+            "S8SHD": 16
         },
         {
-            "id": 221,
+            "id": 223,
             "dir": 2013,
             "name": "SpecialKRemix",
             "title": "Special K (ALTiTUNE Mix)",
@@ -9062,7 +9144,7 @@
             "S8SHD": 13
         },
         {
-            "id": 222,
+            "id": 224,
             "dir": 2013,
             "name": "StoryOfBird",
             "title": "The Story of Birds",
@@ -9103,7 +9185,7 @@
             "S8SHD": 15
         },
         {
-            "id": 223,
+            "id": 225,
             "dir": 2021,
             "name": "2ndLife",
             "title": "2nd Life",
@@ -9144,7 +9226,7 @@
             "S8SHD": 15
         },
         {
-            "id": 224,
+            "id": 226,
             "dir": 2021,
             "name": "AbsoluteDeath",
             "title": "Absolute Death",
@@ -9185,7 +9267,7 @@
             "S8SHD": 17
         },
         {
-            "id": 225,
+            "id": 227,
             "dir": 2021,
             "name": "AIR",
             "title": "Air (EZ2ON Ver.)",
@@ -9226,7 +9308,7 @@
             "S8SHD": 20
         },
         {
-            "id": 226,
+            "id": 228,
             "dir": 2021,
             "name": "AlteredEgo",
             "title": "Altered Ego",
@@ -9267,7 +9349,7 @@
             "S8SHD": 18
         },
         {
-            "id": 227,
+            "id": 229,
             "dir": 2021,
             "name": "AquaFlow",
             "title": "Aqua Flow",
@@ -9308,7 +9390,7 @@
             "S8SHD": 16
         },
         {
-            "id": 228,
+            "id": 230,
             "dir": 2021,
             "name": "BrainPower",
             "title": "Brain Power",
@@ -9349,7 +9431,7 @@
             "S8SHD": 18
         },
         {
-            "id": 229,
+            "id": 231,
             "dir": 2021,
             "name": "CallMeUpNow",
             "title": "Call me up now",
@@ -9390,7 +9472,7 @@
             "S8SHD": 16
         },
         {
-            "id": 230,
+            "id": 232,
             "dir": 2021,
             "name": "Comet",
             "title": "comet",
@@ -9431,7 +9513,7 @@
             "S8SHD": 18
         },
         {
-            "id": 231,
+            "id": 233,
             "dir": 2021,
             "name": "Conflict",
             "title": "conflict",
@@ -9472,7 +9554,7 @@
             "S8SHD": 19
         },
         {
-            "id": 232,
+            "id": 234,
             "dir": 2021,
             "name": "Dataerr0r",
             "title": "DataErr0r",
@@ -9513,7 +9595,7 @@
             "S8SHD": 18
         },
         {
-            "id": 233,
+            "id": 235,
             "dir": 2021,
             "name": "Daydream",
             "title": "Daydream",
@@ -9554,7 +9636,48 @@
             "S8SHD": 17
         },
         {
-            "id": 234,
+            "id": 236,
+            "dir": 2021,
+            "name": "Destr0yer",
+            "title": "Destr0yer",
+            "artist": "Sakuzyo feat. Nikki Simmons",
+            "bpm": 90,
+            "bpmrng": null,
+            "B4EZ": 3,
+            "B4NM": 8,
+            "B4HD": 15,
+            "B4SHD": 17,
+            "B5EZ": 4,
+            "B5NM": 10,
+            "B5HD": 15,
+            "B5SHD": 18,
+            "B6EZ": 4,
+            "B6NM": 10,
+            "B6HD": 14,
+            "B6SHD": 18,
+            "B8EZ": 4,
+            "B8NM": 9,
+            "B8HD": 15,
+            "B8SHD": 18,
+            "S4EZ": 3,
+            "S4NM": 8,
+            "S4HD": 15,
+            "S4SHD": 17,
+            "S5EZ": 4,
+            "S5NM": 10,
+            "S5HD": 15,
+            "S5SHD": 18,
+            "S6EZ": 4,
+            "S6NM": 10,
+            "S6HD": 14,
+            "S6SHD": 18,
+            "S8EZ": 4,
+            "S8NM": 9,
+            "S8HD": 15,
+            "S8SHD": 18
+        },
+        {
+            "id": 237,
             "dir": 2021,
             "name": "DontSayAnything",
             "title": "Don't Say Anything",
@@ -9595,7 +9718,48 @@
             "S8SHD": 16
         },
         {
-            "id": 235,
+            "id": 238,
+            "dir": 2021,
+            "name": "Eliminator",
+            "title": "ELIMINATOR",
+            "artist": "Cosmograph",
+            "bpm": 210,
+            "bpmrng": null,
+            "B4EZ": 5,
+            "B4NM": 13,
+            "B4HD": 16,
+            "B4SHD": 19,
+            "B5EZ": 5,
+            "B5NM": 13,
+            "B5HD": 16,
+            "B5SHD": 19,
+            "B6EZ": 6,
+            "B6NM": 13,
+            "B6HD": 16,
+            "B6SHD": 19,
+            "B8EZ": 6,
+            "B8NM": 13,
+            "B8HD": 16,
+            "B8SHD": 19,
+            "S4EZ": 7,
+            "S4NM": 13,
+            "S4HD": 16,
+            "S4SHD": 19,
+            "S5EZ": 5,
+            "S5NM": 13,
+            "S5HD": 16,
+            "S5SHD": 19,
+            "S6EZ": 6,
+            "S6NM": 13,
+            "S6HD": 16,
+            "S6SHD": 19,
+            "S8EZ": 6,
+            "S8NM": 13,
+            "S8HD": 16,
+            "S8SHD": 19
+        },
+        {
+            "id": 239,
             "dir": 2021,
             "name": "Engine",
             "title": "Engine",
@@ -9636,7 +9800,7 @@
             "S8SHD": 18
         },
         {
-            "id": 236,
+            "id": 240,
             "dir": 2021,
             "name": "EnterTheBeginning",
             "title": "Enter the Beginning",
@@ -9677,7 +9841,7 @@
             "S8SHD": 17
         },
         {
-            "id": 237,
+            "id": 241,
             "dir": 2021,
             "name": "Ez2onchanga",
             "title": "EZ2ON Changa",
@@ -9718,7 +9882,7 @@
             "S8SHD": 16
         },
         {
-            "id": 238,
+            "id": 242,
             "dir": 2021,
             "name": "Finite",
             "title": "Finite",
@@ -9759,7 +9923,7 @@
             "S8SHD": 17
         },
         {
-            "id": 239,
+            "id": 243,
             "dir": 2021,
             "name": "TheFormula",
             "title": "The Formula",
@@ -9800,7 +9964,7 @@
             "S8SHD": 18
         },
         {
-            "id": 240,
+            "id": 244,
             "dir": 2021,
             "name": "Freefloat",
             "title": "Freefloat",
@@ -9841,7 +10005,7 @@
             "S8SHD": 15
         },
         {
-            "id": 241,
+            "id": 245,
             "dir": 2021,
             "name": "Goodtek",
             "title": "GOODTEK",
@@ -9882,7 +10046,7 @@
             "S8SHD": 20
         },
         {
-            "id": 242,
+            "id": 246,
             "dir": 2021,
             "name": "TheLastPage",
             "title": "The Last Page",
@@ -9923,7 +10087,7 @@
             "S8SHD": 19
         },
         {
-            "id": 243,
+            "id": 247,
             "dir": 2021,
             "name": "LoveLie",
             "title": "LOVE X LIE",
@@ -9964,7 +10128,7 @@
             "S8SHD": 13
         },
         {
-            "id": 244,
+            "id": 248,
             "dir": 2021,
             "name": "Messier333",
             "title": "Messier 333",
@@ -10005,7 +10169,7 @@
             "S8SHD": 19
         },
         {
-            "id": 245,
+            "id": 249,
             "dir": 2021,
             "name": "Metatron",
             "title": "METATRON",
@@ -10046,7 +10210,7 @@
             "S8SHD": 19
         },
         {
-            "id": 246,
+            "id": 250,
             "dir": 2021,
             "name": "Milk",
             "title": "MilK",
@@ -10087,7 +10251,7 @@
             "S8SHD": 16
         },
         {
-            "id": 247,
+            "id": 251,
             "dir": 2021,
             "name": "NeverFeelThisWay",
             "title": "Never Feel This Way",
@@ -10128,7 +10292,7 @@
             "S8SHD": 17
         },
         {
-            "id": 248,
+            "id": 252,
             "dir": 2021,
             "name": "OnlySeeMeNow",
             "title": "Only See Me Now",
@@ -10169,7 +10333,7 @@
             "S8SHD": 16
         },
         {
-            "id": 249,
+            "id": 253,
             "dir": 2021,
             "name": "Picking",
             "title": "picking",
@@ -10210,7 +10374,7 @@
             "S8SHD": 19
         },
         {
-            "id": 250,
+            "id": 254,
             "dir": 2021,
             "name": "PUPA",
             "title": "PUPA",
@@ -10251,7 +10415,7 @@
             "S8SHD": 20
         },
         {
-            "id": 251,
+            "id": 255,
             "dir": 2021,
             "name": "Rdecision",
             "title": "R-decision",
@@ -10292,7 +10456,7 @@
             "S8SHD": 15
         },
         {
-            "id": 252,
+            "id": 256,
             "dir": 2021,
             "name": "SingularPoint",
             "title": "SINGULAR POINT",
@@ -10333,7 +10497,7 @@
             "S8SHD": 19
         },
         {
-            "id": 253,
+            "id": 257,
             "dir": 2021,
             "name": "Sinus",
             "title": "SINUS",
@@ -10374,7 +10538,7 @@
             "S8SHD": 18
         },
         {
-            "id": 254,
+            "id": 258,
             "dir": 2021,
             "name": "Starflyer",
             "title": "starflyer",
@@ -10415,7 +10579,7 @@
             "S8SHD": 17
         },
         {
-            "id": 255,
+            "id": 259,
             "dir": 2021,
             "name": "TYR",
             "title": "TYR",
@@ -10456,7 +10620,7 @@
             "S8SHD": 19
         },
         {
-            "id": 256,
+            "id": 260,
             "dir": 2021,
             "name": "Ultimatum",
             "title": "ULTIMATUM",
@@ -10497,7 +10661,7 @@
             "S8SHD": 20
         },
         {
-            "id": 257,
+            "id": 261,
             "dir": 2021,
             "name": "WeAlive",
             "title": "WE ALIVE",
@@ -10538,7 +10702,7 @@
             "S8SHD": 15
         },
         {
-            "id": 258,
+            "id": 262,
             "dir": "TT",
             "name": "8thPlanetRemix",
             "title": "8th Planet (Progressive House Remix)",
@@ -10579,7 +10743,7 @@
             "S8SHD": 16
         },
         {
-            "id": 259,
+            "id": 263,
             "dir": "TT",
             "name": "Beyond",
             "title": "#BEYOND",
@@ -10620,7 +10784,7 @@
             "S8SHD": 16
         },
         {
-            "id": 260,
+            "id": 264,
             "dir": "TT",
             "name": "BlackSourRuby",
             "title": "Black sour Ruby",
@@ -10661,7 +10825,7 @@
             "S8SHD": 18
         },
         {
-            "id": 261,
+            "id": 265,
             "dir": "TT",
             "name": "CtrlAltDel",
             "title": "Ctrl + Alt + Del",
@@ -10702,7 +10866,7 @@
             "S8SHD": 15
         },
         {
-            "id": 262,
+            "id": 266,
             "dir": "TT",
             "name": "DarkerThanBlack",
             "title": "Darker than Black",
@@ -10743,7 +10907,7 @@
             "S8SHD": 15
         },
         {
-            "id": 263,
+            "id": 267,
             "dir": "TT",
             "name": "Destruction",
             "title": "Destruction",
@@ -10784,7 +10948,7 @@
             "S8SHD": 19
         },
         {
-            "id": 264,
+            "id": 268,
             "dir": "TT",
             "name": "EncounterOnOrbit",
             "title": "Encounter on orbit",
@@ -10825,7 +10989,7 @@
             "S8SHD": 20
         },
         {
-            "id": 265,
+            "id": 269,
             "dir": "TT",
             "name": "Footprints",
             "title": "Footprints",
@@ -10866,7 +11030,7 @@
             "S8SHD": 16
         },
         {
-            "id": 266,
+            "id": 270,
             "dir": "TT",
             "name": "Guardian",
             "title": "Guardian",
@@ -10907,7 +11071,7 @@
             "S8SHD": 20
         },
         {
-            "id": 267,
+            "id": 271,
             "dir": "TT",
             "name": "HitechSodaMachine",
             "title": "Hi-TECH Soda Machine",
@@ -10948,7 +11112,7 @@
             "S8SHD": 18
         },
         {
-            "id": 268,
+            "id": 272,
             "dir": "TT",
             "name": "LastFlight",
             "title": "Last Flight",
@@ -10989,7 +11153,7 @@
             "S8SHD": 20
         },
         {
-            "id": 269,
+            "id": 273,
             "dir": "TT",
             "name": "LastKnot",
             "title": "Last Knot",
@@ -11030,7 +11194,7 @@
             "S8SHD": 19
         },
         {
-            "id": 270,
+            "id": 274,
             "dir": "TT",
             "name": "PrecisionStrike",
             "title": "Precision Strike",
@@ -11071,7 +11235,7 @@
             "S8SHD": 17
         },
         {
-            "id": 271,
+            "id": 275,
             "dir": "TT",
             "name": "Regeneraxion",
             "title": "Regeneraxion",
@@ -11112,7 +11276,7 @@
             "S8SHD": 17
         },
         {
-            "id": 272,
+            "id": 276,
             "dir": "TT",
             "name": "Skyline",
             "title": "Skyline",
@@ -11153,7 +11317,7 @@
             "S8SHD": 16
         },
         {
-            "id": 273,
+            "id": 277,
             "dir": "TT",
             "name": "StarSeeker",
             "title": "Starseeker",
@@ -11194,7 +11358,7 @@
             "S8SHD": 17
         },
         {
-            "id": 274,
+            "id": 278,
             "dir": "TT",
             "name": "SweetStar",
             "title": "sweet★star",
@@ -11235,7 +11399,7 @@
             "S8SHD": 16
         },
         {
-            "id": 275,
+            "id": 279,
             "dir": "CV",
             "name": "Apollon",
             "title": "ApolloN",
@@ -11276,7 +11440,7 @@
             "S8SHD": 18
         },
         {
-            "id": 276,
+            "id": 280,
             "dir": "CV",
             "name": "Atomizer",
             "title": "Atomizer",
@@ -11317,7 +11481,7 @@
             "S8SHD": 16
         },
         {
-            "id": 277,
+            "id": 281,
             "dir": "CV",
             "name": "BloodCastleRemix",
             "title": "Blood Castle -Remix-",
@@ -11358,7 +11522,7 @@
             "S8SHD": 17
         },
         {
-            "id": 278,
+            "id": 282,
             "dir": "CV",
             "name": "DollsGarden",
             "title": "Doll's Garden",
@@ -11399,7 +11563,7 @@
             "S8SHD": 17
         },
         {
-            "id": 279,
+            "id": 283,
             "dir": "CV",
             "name": "EraserRainForGaia",
             "title": "Eraser Rain for GAIA",
@@ -11440,7 +11604,7 @@
             "S8SHD": 18
         },
         {
-            "id": 280,
+            "id": 284,
             "dir": "CV",
             "name": "LeGrandBleu",
             "title": "Le Grand Bleu",
@@ -11481,7 +11645,7 @@
             "S8SHD": 17
         },
         {
-            "id": 281,
+            "id": 285,
             "dir": "CV",
             "name": "Loki",
             "title": "LOKI",
@@ -11522,7 +11686,7 @@
             "S8SHD": 17
         },
         {
-            "id": 282,
+            "id": 286,
             "dir": "CV",
             "name": "StayTAKRemix",
             "title": "Stay (TAK Remix)",
@@ -11563,7 +11727,7 @@
             "S8SHD": 16
         },
         {
-            "id": 283,
+            "id": 287,
             "dir": "CV",
             "name": "TempusPraeterita",
             "title": "Tempus Praeterita",
@@ -11604,7 +11768,7 @@
             "S8SHD": 17
         },
         {
-            "id": 284,
+            "id": 288,
             "dir": "CV",
             "name": "WarsOfTheRoses",
             "title": "Wars of the Roses, 1455",
@@ -11645,7 +11809,7 @@
             "S8SHD": 16
         },
         {
-            "id": 285,
+            "id": 289,
             "dir": "PP",
             "name": "2038",
             "title": "2038 (2022 Version)",
@@ -11686,7 +11850,7 @@
             "S8SHD": 17
         },
         {
-            "id": 286,
+            "id": 290,
             "dir": "PP",
             "name": "AShowdown",
             "title": "A Showdown Between Two Prideful Geniuses",
@@ -11727,7 +11891,7 @@
             "S8SHD": 17
         },
         {
-            "id": 287,
+            "id": 291,
             "dir": "PP",
             "name": "AlmostThere",
             "title": "Almost There",
@@ -11768,7 +11932,7 @@
             "S8SHD": 16
         },
         {
-            "id": 288,
+            "id": 292,
             "dir": "PP",
             "name": "Atopy",
             "title": "ATOPY",
@@ -11809,7 +11973,7 @@
             "S8SHD": 20
         },
         {
-            "id": 289,
+            "id": 293,
             "dir": "PP",
             "name": "Backfire",
             "title": "Backfire",
@@ -11850,7 +12014,7 @@
             "S8SHD": 19
         },
         {
-            "id": 290,
+            "id": 294,
             "dir": "PP",
             "name": "BelongToYou",
             "title": "Belong To You",
@@ -11891,7 +12055,7 @@
             "S8SHD": 16
         },
         {
-            "id": 291,
+            "id": 295,
             "dir": "PP",
             "name": "Coastline",
             "title": "coastline",
@@ -11932,7 +12096,7 @@
             "S8SHD": 16
         },
         {
-            "id": 292,
+            "id": 296,
             "dir": "PP",
             "name": "CyberneticGeist",
             "title": "Cybernetic Geist",
@@ -11973,7 +12137,7 @@
             "S8SHD": 18
         },
         {
-            "id": 293,
+            "id": 297,
             "dir": "PP",
             "name": "DecisionAltitude",
             "title": "Decision Altitude",
@@ -12014,7 +12178,7 @@
             "S8SHD": 18
         },
         {
-            "id": 294,
+            "id": 298,
             "dir": "PP",
             "name": "DiabolicSwing",
             "title": "Diabolic Swing",
@@ -12055,7 +12219,7 @@
             "S8SHD": 19
         },
         {
-            "id": 295,
+            "id": 299,
             "dir": "PP",
             "name": "Faker",
             "title": "Faker",
@@ -12096,7 +12260,7 @@
             "S8SHD": 17
         },
         {
-            "id": 296,
+            "id": 300,
             "dir": "PP",
             "name": "Felys",
             "title": "felys -final remix-",
@@ -12137,7 +12301,7 @@
             "S8SHD": 18
         },
         {
-            "id": 297,
+            "id": 301,
             "dir": "PP",
             "name": "FindAWay",
             "title": "FiND A WAY",
@@ -12178,7 +12342,7 @@
             "S8SHD": 19
         },
         {
-            "id": 298,
+            "id": 302,
             "dir": "PP",
             "name": "GlacialAlice",
             "title": "Glacial Alice",
@@ -12219,7 +12383,7 @@
             "S8SHD": 17
         },
         {
-            "id": 299,
+            "id": 303,
             "dir": "PP",
             "name": "Glimmering",
             "title": "Glimmering",
@@ -12260,7 +12424,7 @@
             "S8SHD": 19
         },
         {
-            "id": 300,
+            "id": 304,
             "dir": "PP",
             "name": "GoBack",
             "title": "Go Back",
@@ -12301,7 +12465,7 @@
             "S8SHD": 15
         },
         {
-            "id": 301,
+            "id": 305,
             "dir": "PP",
             "name": "Higher",
             "title": "Higher",
@@ -12342,7 +12506,7 @@
             "S8SHD": 16
         },
         {
-            "id": 302,
+            "id": 306,
             "dir": "PP",
             "name": "IronCloud",
             "title": "Iron Cloud",
@@ -12383,7 +12547,7 @@
             "S8SHD": 18
         },
         {
-            "id": 303,
+            "id": 307,
             "dir": "PP",
             "name": "Justitia",
             "title": "JUSTITIA",
@@ -12424,7 +12588,7 @@
             "S8SHD": 20
         },
         {
-            "id": 304,
+            "id": 308,
             "dir": "PP",
             "name": "Kings",
             "title": "Kings",
@@ -12465,7 +12629,7 @@
             "S8SHD": 17
         },
         {
-            "id": 305,
+            "id": 309,
             "dir": "PP",
             "name": "Kthnox",
             "title": "kthnox",
@@ -12506,7 +12670,7 @@
             "S8SHD": 18
         },
         {
-            "id": 306,
+            "id": 310,
             "dir": "PP",
             "name": "Lightyear",
             "title": "LIGHTYEAR",
@@ -12547,7 +12711,7 @@
             "S8SHD": 19
         },
         {
-            "id": 307,
+            "id": 311,
             "dir": "PP",
             "name": "Limbo",
             "title": "LIMBO",
@@ -12588,7 +12752,7 @@
             "S8SHD": 20
         },
         {
-            "id": 308,
+            "id": 312,
             "dir": "PP",
             "name": "MAX301",
             "title": "MAX301",
@@ -12629,7 +12793,7 @@
             "S8SHD": 18
         },
         {
-            "id": 309,
+            "id": 313,
             "dir": "PP",
             "name": "NextEndeavour",
             "title": "Next Endeavour",
@@ -12670,7 +12834,7 @@
             "S8SHD": 16
         },
         {
-            "id": 310,
+            "id": 314,
             "dir": "PP",
             "name": "NobodyFaceLove",
             "title": "Nobody Face Love",
@@ -12711,7 +12875,7 @@
             "S8SHD": 16
         },
         {
-            "id": 311,
+            "id": 315,
             "dir": "PP",
             "name": "One",
             "title": "ONE",
@@ -12752,7 +12916,7 @@
             "S8SHD": 15
         },
         {
-            "id": 312,
+            "id": 316,
             "dir": "PP",
             "name": "OverDrying",
             "title": "Over Drying",
@@ -12793,7 +12957,7 @@
             "S8SHD": 16
         },
         {
-            "id": 313,
+            "id": 317,
             "dir": "PP",
             "name": "Ozma",
             "title": "ozma",
@@ -12834,7 +12998,7 @@
             "S8SHD": 20
         },
         {
-            "id": 314,
+            "id": 318,
             "dir": "PP",
             "name": "RFC2",
             "title": "R.F.C. II",
@@ -12875,7 +13039,7 @@
             "S8SHD": 20
         },
         {
-            "id": 315,
+            "id": 319,
             "dir": "PP",
             "name": "ROD7",
             "title": "ROD7 -Regions Of Desolation-",
@@ -12916,7 +13080,7 @@
             "S8SHD": 20
         },
         {
-            "id": 316,
+            "id": 320,
             "dir": "PP",
             "name": "SakuraGarden",
             "title": "Sakura Garden",
@@ -12957,7 +13121,7 @@
             "S8SHD": 16
         },
         {
-            "id": 317,
+            "id": 321,
             "dir": "PP",
             "name": "StartMeUp",
             "title": "Start Me Up",
@@ -12998,7 +13162,7 @@
             "S8SHD": 18
         },
         {
-            "id": 318,
+            "id": 322,
             "dir": "PP",
             "name": "Stay2022",
             "title": "Stay 2022",
@@ -13039,7 +13203,7 @@
             "S8SHD": 15
         },
         {
-            "id": 319,
+            "id": 323,
             "dir": "PP",
             "name": "Stella",
             "title": "Stella",
@@ -13080,7 +13244,7 @@
             "S8SHD": 16
         },
         {
-            "id": 320,
+            "id": 324,
             "dir": "PP",
             "name": "Takeoff",
             "title": "TakeOFF",
@@ -13121,7 +13285,7 @@
             "S8SHD": 18
         },
         {
-            "id": 321,
+            "id": 325,
             "dir": "PP",
             "name": "Troma",
             "title": "TROMA",
@@ -13162,7 +13326,7 @@
             "S8SHD": 16
         },
         {
-            "id": 322,
+            "id": 326,
             "dir": "PP",
             "name": "Trpno",
             "title": "TRPNO",
@@ -13203,7 +13367,7 @@
             "S8SHD": 18
         },
         {
-            "id": 323,
+            "id": 327,
             "dir": "PP",
             "name": "UnleashedEmotions",
             "title": "Unleashed Emotions",
@@ -13244,7 +13408,7 @@
             "S8SHD": 18
         },
         {
-            "id": 324,
+            "id": 328,
             "dir": "PP",
             "name": "VariousWays",
             "title": "Various Ways",
@@ -13285,7 +13449,7 @@
             "S8SHD": 17
         },
         {
-            "id": 325,
+            "id": 329,
             "dir": "PP",
             "name": "KenpoSaito",
             "title": "個人的なメモ (KENPO SAITO)",
@@ -13326,7 +13490,7 @@
             "S8SHD": 15
         },
         {
-            "id": 326,
+            "id": 330,
             "dir": "PP",
             "name": "Gaehwa",
             "title": "開花",
@@ -13367,7 +13531,7 @@
             "S8SHD": 20
         },
         {
-            "id": 327,
+            "id": 331,
             "dir": "O2",
             "name": "O2_Beautifulday",
             "title": "Beautiful Day",
@@ -13408,7 +13572,7 @@
             "S8SHD": 16
         },
         {
-            "id": 328,
+            "id": 332,
             "dir": "O2",
             "name": "O2_Blackdragon",
             "title": "Black Dragon",
@@ -13449,7 +13613,7 @@
             "S8SHD": 20
         },
         {
-            "id": 329,
+            "id": 333,
             "dir": "O2",
             "name": "O2_Bluemoon",
             "title": "Blue Moon",
@@ -13490,7 +13654,7 @@
             "S8SHD": 17
         },
         {
-            "id": 330,
+            "id": 334,
             "dir": "O2",
             "name": "O2_Brideindream",
             "title": "Bride in Dream",
@@ -13531,7 +13695,7 @@
             "S8SHD": 17
         },
         {
-            "id": 331,
+            "id": 335,
             "dir": "O2",
             "name": "O2_Canyoufeel",
             "title": "Can You Feel !!!",
@@ -13572,7 +13736,7 @@
             "S8SHD": 16
         },
         {
-            "id": 332,
+            "id": 336,
             "dir": "O2",
             "name": "O2_Christmasmemory",
             "title": "Christmas Memories",
@@ -13613,7 +13777,7 @@
             "S8SHD": 15
         },
         {
-            "id": 333,
+            "id": 337,
             "dir": "O2",
             "name": "O2_Crosstime",
             "title": "Cross Time !!",
@@ -13654,7 +13818,7 @@
             "S8SHD": 17
         },
         {
-            "id": 334,
+            "id": 338,
             "dir": "O2",
             "name": "O2_Asinayo",
             "title": "Do You Know?",
@@ -13695,7 +13859,7 @@
             "S8SHD": 16
         },
         {
-            "id": 335,
+            "id": 339,
             "dir": "O2",
             "name": "O2_Endoffight",
             "title": "End of Fight",
@@ -13736,7 +13900,7 @@
             "S8SHD": 19
         },
         {
-            "id": 336,
+            "id": 340,
             "dir": "O2",
             "name": "O2_Feeltheo2jam",
             "title": "Feel the O2Jam",
@@ -13777,7 +13941,7 @@
             "S8SHD": 17
         },
         {
-            "id": 337,
+            "id": 341,
             "dir": "O2",
             "name": "O2_Festivalofghost",
             "title": "The Festival of Ghost",
@@ -13818,7 +13982,7 @@
             "S8SHD": 12
         },
         {
-            "id": 338,
+            "id": 342,
             "dir": "O2",
             "name": "O2_Gohell",
             "title": "Go Hell",
@@ -13859,7 +14023,7 @@
             "S8SHD": 17
         },
         {
-            "id": 339,
+            "id": 343,
             "dir": "O2",
             "name": "O2_Headlesschicken",
             "title": "Headless Chicken",
@@ -13900,7 +14064,7 @@
             "S8SHD": 18
         },
         {
-            "id": 340,
+            "id": 344,
             "dir": "O2",
             "name": "O2_Identitypart2",
             "title": "Identity Part II",
@@ -13941,7 +14105,7 @@
             "S8SHD": 20
         },
         {
-            "id": 341,
+            "id": 345,
             "dir": "O2",
             "name": "O2_Likethis",
             "title": "Like This",
@@ -13982,7 +14146,7 @@
             "S8SHD": 14
         },
         {
-            "id": 342,
+            "id": 346,
             "dir": "O2",
             "name": "O2_Moveitondjhdmix",
             "title": "Move it on (DJ HD Mix)",
@@ -14023,7 +14187,7 @@
             "S8SHD": 17
         },
         {
-            "id": 343,
+            "id": 347,
             "dir": "O2",
             "name": "O2_Startonred",
             "title": "Start On <Red>",
@@ -14064,7 +14228,7 @@
             "S8SHD": 18
         },
         {
-            "id": 344,
+            "id": 348,
             "dir": "O2",
             "name": "O2_Pol",
             "title": "The Power of Light",
@@ -14105,7 +14269,7 @@
             "S8SHD": 18
         },
         {
-            "id": 345,
+            "id": 349,
             "dir": "O2",
             "name": "O2_Thequeen",
             "title": "The Queen",
@@ -14146,7 +14310,7 @@
             "S8SHD": 17
         },
         {
-            "id": 346,
+            "id": 350,
             "dir": "O2",
             "name": "O2_Unisonsystem",
             "title": "Unison System",
@@ -14187,7 +14351,7 @@
             "S8SHD": 19
         },
         {
-            "id": 347,
+            "id": 351,
             "dir": "O2",
             "name": "O2_Visualdream",
             "title": "Visual Dream !!",
@@ -14228,7 +14392,7 @@
             "S8SHD": 16
         },
         {
-            "id": 348,
+            "id": 352,
             "dir": "O2",
             "name": "O2_Baram",
             "title": "Wings of Wind",
@@ -14269,7 +14433,7 @@
             "S8SHD": 16
         },
         {
-            "id": 349,
+            "id": 353,
             "dir": "GC",
             "name": "GC_10pt8ion",
             "title": "10pt8ion",
@@ -14310,7 +14474,7 @@
             "S8SHD": 19
         },
         {
-            "id": 350,
+            "id": 354,
             "dir": "GC",
             "name": "GC_Cosmicexpress",
             "title": "Cosmic Express",
@@ -14351,7 +14515,7 @@
             "S8SHD": 17
         },
         {
-            "id": 351,
+            "id": 355,
             "dir": "GC",
             "name": "GC_Dotted8th",
             "title": "DOTTED 8TH",
@@ -14392,7 +14556,7 @@
             "S8SHD": 16
         },
         {
-            "id": 352,
+            "id": 356,
             "dir": "GC",
             "name": "GC_Fujinrumble",
             "title": "FUJIN Rumble",
@@ -14433,7 +14597,7 @@
             "S8SHD": 19
         },
         {
-            "id": 353,
+            "id": 357,
             "dir": "GC",
             "name": "GC_Merlin",
             "title": "MERLIN",
@@ -14474,7 +14638,7 @@
             "S8SHD": 18
         },
         {
-            "id": 354,
+            "id": 358,
             "dir": "GC",
             "name": "GC_Nowayout",
             "title": "No Way Out",
@@ -14515,7 +14679,7 @@
             "S8SHD": 17
         },
         {
-            "id": 355,
+            "id": 359,
             "dir": "GC",
             "name": "GC_Omegaax",
             "title": "Omega Ax",
@@ -14556,7 +14720,7 @@
             "S8SHD": 20
         },
         {
-            "id": 356,
+            "id": 360,
             "dir": "GC",
             "name": "GC_Ouroboros",
             "title": "ouroboros -twin stroke of the end-",
@@ -14597,7 +14761,7 @@
             "S8SHD": 20
         },
         {
-            "id": 357,
+            "id": 361,
             "dir": "GC",
             "name": "GC_Perasperaadastra",
             "title": "Per Aspera Ad Astra",
@@ -14638,7 +14802,7 @@
             "S8SHD": 20
         },
         {
-            "id": 358,
+            "id": 362,
             "dir": "GC",
             "name": "GC_Volt",
             "title": "VOLT",
@@ -14679,7 +14843,7 @@
             "S8SHD": 18
         },
         {
-            "id": 359,
+            "id": 363,
             "dir": "EC",
             "name": "EC_Aglimmer",
             "title": "A Glimmer",
@@ -14720,7 +14884,7 @@
             "S8SHD": 16
         },
         {
-            "id": 360,
+            "id": 364,
             "dir": "EC",
             "name": "EC_Asitedelarue",
             "title": "A Site De La Rue",
@@ -14761,7 +14925,7 @@
             "S8SHD": 20
         },
         {
-            "id": 361,
+            "id": 365,
             "dir": "EC",
             "name": "EC_Actiasartemis",
             "title": "actias artemis",
@@ -14802,7 +14966,7 @@
             "S8SHD": 16
         },
         {
-            "id": 362,
+            "id": 366,
             "dir": "EC",
             "name": "EC_Again",
             "title": "Again",
@@ -14843,7 +15007,7 @@
             "S8SHD": 16
         },
         {
-            "id": 363,
+            "id": 367,
             "dir": "EC",
             "name": "EC_Airwave",
             "title": "Airwave",
@@ -14884,7 +15048,7 @@
             "S8SHD": 16
         },
         {
-            "id": 364,
+            "id": 368,
             "dir": "EC",
             "name": "EC_Awakeninguniverse",
             "title": "Awaking Universe",
@@ -14925,7 +15089,7 @@
             "S8SHD": 20
         },
         {
-            "id": 365,
+            "id": 369,
             "dir": "EC",
             "name": "EC_Breakofdawn",
             "title": "Break of Dawn",
@@ -14966,7 +15130,7 @@
             "S8SHD": 17
         },
         {
-            "id": 366,
+            "id": 370,
             "dir": "EC",
             "name": "EC_Beatrice",
             "title": "BEATRICE",
@@ -15007,7 +15171,7 @@
             "S8SHD": 18
         },
         {
-            "id": 367,
+            "id": 371,
             "dir": "EC",
             "name": "EC_Blacktintedalley",
             "title": "Black tinted alley",
@@ -15048,7 +15212,7 @@
             "S8SHD": 15
         },
         {
-            "id": 368,
+            "id": 372,
             "dir": "EC",
             "name": "EC_Chaoticneutral",
             "title": "Chaotic Neutral",
@@ -15089,7 +15253,7 @@
             "S8SHD": 19
         },
         {
-            "id": 369,
+            "id": 373,
             "dir": "EC",
             "name": "EC_Dancinglight",
             "title": "Dancing Light",
@@ -15130,7 +15294,7 @@
             "S8SHD": 17
         },
         {
-            "id": 370,
+            "id": 374,
             "dir": "EC",
             "name": "EC_Distopia",
             "title": "DISTOPIA",
@@ -15171,7 +15335,7 @@
             "S8SHD": 16
         },
         {
-            "id": 371,
+            "id": 375,
             "dir": "EC",
             "name": "EC_Dreamwalker",
             "title": "Dream Walker",
@@ -15212,7 +15376,7 @@
             "S8SHD": 19
         },
         {
-            "id": 372,
+            "id": 376,
             "dir": "EC",
             "name": "EC_Entire",
             "title": "Entire",
@@ -15253,7 +15417,7 @@
             "S8SHD": 17
         },
         {
-            "id": 373,
+            "id": 377,
             "dir": "EC",
             "name": "EC_Fallback",
             "title": "Fallback",
@@ -15294,7 +15458,7 @@
             "S8SHD": 16
         },
         {
-            "id": 374,
+            "id": 378,
             "dir": "EC",
             "name": "EC_Futurenight",
             "title": "FUTURE NIGHT",
@@ -15335,7 +15499,7 @@
             "S8SHD": 17
         },
         {
-            "id": 375,
+            "id": 379,
             "dir": "EC",
             "name": "EC_Instantvampire",
             "title": "INSTANT Vampire✝StartKit™",
@@ -15376,7 +15540,7 @@
             "S8SHD": 18
         },
         {
-            "id": 376,
+            "id": 380,
             "dir": "EC",
             "name": "EC_Legend",
             "title": "Legend",
@@ -15417,7 +15581,7 @@
             "S8SHD": 20
         },
         {
-            "id": 377,
+            "id": 381,
             "dir": "EC",
             "name": "EC_Magicsquare",
             "title": "Magic Square",
@@ -15458,7 +15622,7 @@
             "S8SHD": 16
         },
         {
-            "id": 378,
+            "id": 382,
             "dir": "EC",
             "name": "EC_Northpole",
             "title": "northpole",
@@ -15499,7 +15663,7 @@
             "S8SHD": 17
         },
         {
-            "id": 379,
+            "id": 383,
             "dir": "EC",
             "name": "EC_Nothingelse",
             "title": "Nothing Else",
@@ -15540,7 +15704,7 @@
             "S8SHD": 16
         },
         {
-            "id": 380,
+            "id": 384,
             "dir": "EC",
             "name": "EC_Orphanchildren",
             "title": "Orphan Children",
@@ -15581,7 +15745,7 @@
             "S8SHD": 19
         },
         {
-            "id": 381,
+            "id": 385,
             "dir": "EC",
             "name": "EC_Planetx",
             "title": "Planet X",
@@ -15622,7 +15786,7 @@
             "S8SHD": 17
         },
         {
-            "id": 382,
+            "id": 386,
             "dir": "EC",
             "name": "EC_Pushmeagain",
             "title": "Push me again",
@@ -15663,7 +15827,7 @@
             "S8SHD": 19
         },
         {
-            "id": 383,
+            "id": 387,
             "dir": "EC",
             "name": "EC_Rendezvouscoast",
             "title": "Rendezvous Coast",
@@ -15704,7 +15868,7 @@
             "S8SHD": 17
         },
         {
-            "id": 384,
+            "id": 388,
             "dir": "EC",
             "name": "EC_Shinethrough",
             "title": "Shine Through",
@@ -15745,7 +15909,7 @@
             "S8SHD": 17
         },
         {
-            "id": 385,
+            "id": 389,
             "dir": "EC",
             "name": "EC_ShoveitRemix",
             "title": "Shove it (yusi. Remix)",
@@ -15786,7 +15950,7 @@
             "S8SHD": 18
         },
         {
-            "id": 386,
+            "id": 390,
             "dir": "EC",
             "name": "EC_Starlightfactory",
             "title": "Starlight Factory",
@@ -15827,7 +15991,7 @@
             "S8SHD": 18
         },
         {
-            "id": 387,
+            "id": 391,
             "dir": "EC",
             "name": "EC_Stranger",
             "title": "Stranger",
@@ -15868,7 +16032,7 @@
             "S8SHD": 16
         },
         {
-            "id": 388,
+            "id": 392,
             "dir": "EC",
             "name": "EC_Tension",
             "title": "Tension",
@@ -15909,7 +16073,7 @@
             "S8SHD": 17
         },
         {
-            "id": 389,
+            "id": 393,
             "dir": "EC",
             "name": "EC_Todoslosdias",
             "title": "Todos Los Dias",
@@ -15950,7 +16114,7 @@
             "S8SHD": 17
         },
         {
-            "id": 390,
+            "id": 394,
             "dir": "EC",
             "name": "EC_Totaleclipse",
             "title": "Total Eclipse",
@@ -15991,7 +16155,7 @@
             "S8SHD": 19
         },
         {
-            "id": 391,
+            "id": 395,
             "dir": "EC",
             "name": "EC_Tron",
             "title": "TRON",
@@ -16032,7 +16196,7 @@
             "S8SHD": 15
         },
         {
-            "id": 392,
+            "id": 396,
             "dir": "EC",
             "name": "EC_True",
             "title": "True",
@@ -16073,7 +16237,7 @@
             "S8SHD": 16
         },
         {
-            "id": 393,
+            "id": 397,
             "dir": "EC",
             "name": "EC_Unit",
             "title": "UniT",
@@ -16114,7 +16278,7 @@
             "S8SHD": 18
         },
         {
-            "id": 394,
+            "id": 398,
             "dir": "EC",
             "name": "EC_Wheeloffire",
             "title": "WHEEL OF FIRE",
@@ -16155,7 +16319,7 @@
             "S8SHD": 18
         },
         {
-            "id": 395,
+            "id": 399,
             "dir": "EC",
             "name": "EC_Thewhitehorizon",
             "title": "The White Horizon",
@@ -16196,7 +16360,7 @@
             "S8SHD": 17
         },
         {
-            "id": 396,
+            "id": 400,
             "dir": "EC",
             "name": "EC_Wingsonmyback",
             "title": "Wing of my Back",
@@ -16237,7 +16401,7 @@
             "S8SHD": 19
         },
         {
-            "id": 397,
+            "id": 401,
             "dir": "EC",
             "name": "EC_Witheredheights",
             "title": "Withered Heights",
@@ -16278,7 +16442,7 @@
             "S8SHD": 14
         },
         {
-            "id": 398,
+            "id": 402,
             "dir": "FT",
             "name": "FT_BehigherRemix",
             "title": "Be Higher (Nauts REMIX)",
@@ -16319,7 +16483,7 @@
             "S8SHD": 17
         },
         {
-            "id": 399,
+            "id": 403,
             "dir": "FT",
             "name": "FT_EgyptianruleRemix",
             "title": "Egyptian Rule (Roy Mikelate Remix)",
@@ -16360,7 +16524,7 @@
             "S8SHD": 19
         },
         {
-            "id": 400,
+            "id": 404,
             "dir": "FT",
             "name": "FT_Gm05Remix2",
             "title": "Fortress 2 Blue GM05 (NieN Metal Remix)",
@@ -16401,7 +16565,7 @@
             "S8SHD": 20
         },
         {
-            "id": 401,
+            "id": 405,
             "dir": "FT",
             "name": "FT_Gm05Remix",
             "title": "Fortress 2 Blue GM05 (RiraN Hardstyle Remix)",
@@ -16442,7 +16606,7 @@
             "S8SHD": 19
         },
         {
-            "id": 402,
+            "id": 406,
             "dir": "FT",
             "name": "FT_Laststage",
             "title": "I know what you did last stage (DoubleTO Ver.)",
@@ -16483,7 +16647,7 @@
             "S8SHD": 18
         },
         {
-            "id": 403,
+            "id": 407,
             "dir": "FT",
             "name": "FT_TheinvincibleRemix",
             "title": "The Invincible (A1NVERSE Remix)",
@@ -16524,7 +16688,7 @@
             "S8SHD": 17
         },
         {
-            "id": 404,
+            "id": 408,
             "dir": "FT",
             "name": "FT_Lifeissobeautiful",
             "title": "Life Is So Beautiful (Nauts Ver.)",
@@ -16565,7 +16729,7 @@
             "S8SHD": 16
         },
         {
-            "id": 405,
+            "id": 409,
             "dir": "FT",
             "name": "FT_MilyangfortressRemix",
             "title": "Milyang Fortress ~VIA GUPO REMIX~",
@@ -16606,7 +16770,7 @@
             "S8SHD": 20
         },
         {
-            "id": 406,
+            "id": 410,
             "dir": "FT",
             "name": "FT_Onceinalifetime",
             "title": "Onece in a Lifetime (Nauts Ver.)",
@@ -16647,7 +16811,7 @@
             "S8SHD": 15
         },
         {
-            "id": 407,
+            "id": 411,
             "dir": "FT",
             "name": "FT_CultureshockRemix",
             "title": "Panzer Schock (Culture Shock - ATAS Remix)",
@@ -16688,7 +16852,7 @@
             "S8SHD": 18
         },
         {
-            "id": 408,
+            "id": 412,
             "dir": "FT",
             "name": "FT_PrivateskullRemix",
             "title": "Saving Private Skull (KIEN Remix)",
@@ -16729,7 +16893,7 @@
             "S8SHD": 19
         },
         {
-            "id": 409,
+            "id": 413,
             "dir": "FT",
             "name": "FT_TankslayerRemix",
             "title": "Tank Slayer (DoubleTO Remix)",
@@ -16770,7 +16934,7 @@
             "S8SHD": 18
         },
         {
-            "id": 410,
+            "id": 414,
             "dir": "FT",
             "name": "FT_Temptime",
             "title": "TeMP Time (DoubleTO Ver.)",
@@ -16811,7 +16975,7 @@
             "S8SHD": 16
         },
         {
-            "id": 411,
+            "id": 415,
             "dir": "FT",
             "name": "FT_SkullshellRemix",
             "title": "Welcome To Skull's Hell (yusi. Remix)",
@@ -16852,7 +17016,7 @@
             "S8SHD": 17
         },
         {
-            "id": 412,
+            "id": 416,
             "dir": "NW",
             "name": "NW_Airwave",
             "title": "Airwave",
@@ -16893,7 +17057,7 @@
             "S8SHD": 18
         },
         {
-            "id": 413,
+            "id": 417,
             "dir": "NW",
             "name": "NW_Alice",
             "title": "ALiCE",
@@ -16934,7 +17098,7 @@
             "S8SHD": 19
         },
         {
-            "id": 414,
+            "id": 418,
             "dir": "NW",
             "name": "NW_Baram",
             "title": "Ask to Wind",
@@ -16975,7 +17139,7 @@
             "S8SHD": 15
         },
         {
-            "id": 415,
+            "id": 419,
             "dir": "NW",
             "name": "NW_BlackGold",
             "title": "BLACK GOLD",
@@ -17016,7 +17180,7 @@
             "S8SHD": 20
         },
         {
-            "id": 416,
+            "id": 420,
             "dir": "NW",
             "name": "NW_CypherGate",
             "title": "Cypher Gate",
@@ -17057,7 +17221,7 @@
             "S8SHD": 19
         },
         {
-            "id": 417,
+            "id": 421,
             "dir": "NW",
             "name": "NW_DontDie",
             "title": "Don't Die",
@@ -17098,7 +17262,7 @@
             "S8SHD": 19
         },
         {
-            "id": 418,
+            "id": 422,
             "dir": "NW",
             "name": "NW_Fermion",
             "title": "Fermion",
@@ -17139,7 +17303,7 @@
             "S8SHD": 20
         },
         {
-            "id": 419,
+            "id": 423,
             "dir": "NW",
             "name": "NW_GoodBye",
             "title": "Good Bye",
@@ -17180,7 +17344,7 @@
             "S8SHD": 18
         },
         {
-            "id": 420,
+            "id": 424,
             "dir": "NW",
             "name": "NW_Hellopinky",
             "title": "Hello Pinky",
@@ -17221,7 +17385,7 @@
             "S8SHD": 17
         },
         {
-            "id": 421,
+            "id": 425,
             "dir": "NW",
             "name": "NW_Lisrim",
             "title": "Lisrim",
@@ -17262,7 +17426,7 @@
             "S8SHD": 19
         },
         {
-            "id": 422,
+            "id": 426,
             "dir": "NW",
             "name": "NW_OnlyForYou",
             "title": "Only For You",
@@ -17303,7 +17467,7 @@
             "S8SHD": 15
         },
         {
-            "id": 423,
+            "id": 427,
             "dir": "NW",
             "name": "NW_Raisemeup",
             "title": "Raise me up",
@@ -17344,7 +17508,7 @@
             "S8SHD": 16
         },
         {
-            "id": 424,
+            "id": 428,
             "dir": "NW",
             "name": "NW_RayOfIlluminati",
             "title": "Ray of Illuminati",
@@ -17385,7 +17549,7 @@
             "S8SHD": 18
         },
         {
-            "id": 425,
+            "id": 429,
             "dir": "NW",
             "name": "NW_Someday",
             "title": "Someday",
@@ -17426,7 +17590,7 @@
             "S8SHD": 16
         },
         {
-            "id": 426,
+            "id": 430,
             "dir": "NW",
             "name": "NW_SonOfSun",
             "title": "SON OF SUN",
@@ -17467,7 +17631,7 @@
             "S8SHD": 20
         },
         {
-            "id": 427,
+            "id": 431,
             "dir": "NW",
             "name": "NW_UAD",
             "title": "U.A.D",
@@ -17508,7 +17672,7 @@
             "S8SHD": 18
         },
         {
-            "id": 428,
+            "id": 432,
             "dir": "NW",
             "name": "NW_WhiteBlue",
             "title": "WhiteBlue",
@@ -17549,7 +17713,7 @@
             "S8SHD": 19
         },
         {
-            "id": 429,
+            "id": 433,
             "dir": "NW",
             "name": "NW_Xeus",
             "title": "Xeus",
