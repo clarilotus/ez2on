@@ -315,6 +315,11 @@
   
 	镜像对称后再左右两边各自随机，即 MIRROR + FLIP-RANDOM。
 
+- `P-RANDOM`
+  
+	每个小节都会重新刷新一轮轨道随机。
+
+
     !!! tip "提示"
 
         **MIRROR**、**FLIP-RANDOM**、**MIRROR-FLIP-RANDOM** 用于 5键 模式时，中间的轨道不会发生变化。
@@ -349,17 +354,25 @@
 
 #### EARLY · LATE
 
-是否显示打击偏移 EARLY / LATE 的指示。
+更改显示打击偏移 EARLY / LATE 的指示类型。
 
-![EARLY · LATE](./assets/gslite_el.png)
-
-- `Enabled`
-
-	显示打击偏移 EARLY / LATE 的指示。
+![EARLY · LATE](./assets/gslite_el.jpg)
 
 - `Disabled`
 
 	不显示打击偏移 EARLY / LATE 的指示。
+
+- `TEXT ONLY`
+
+	仅以文字形式显示打击偏移 EARLY / LATE 的指示。
+
+- `INDICATOR ONLY`
+
+	仅显示打击偏移 EARLY / LATE 的偏移标尺。
+
+- `ALL`
+
+	文字形式显示打击偏移 EARLY / LATE 的指示以及偏移标尺皆显示。
 
 #### BGA BRIGHTNESS
 
@@ -407,23 +420,31 @@
   
 	判定线位置靠下。
 
-#### EARLY | LATE
+#### EARLY | LATE TYPE
 
-判定偏移显示开关。(与 [上文](#early-%C2%B7-late) 一致)
+更改显示打击偏移 EARLY / LATE 的指示类型。(与 [上文](#early-late) 一致)
 
 ![EARLY | LATE](./assets/gsplay_el.png)
 
-- `ON`
-
-	显示打击偏移 EARLY / LATE 的指示。
-
-- `OFF`
+- `Disabled`
 
 	不显示打击偏移 EARLY / LATE 的指示。
 
+- `TEXT ONLY`
+
+	仅以文字形式显示打击偏移 EARLY / LATE 的指示。
+
+- `INDICATOR ONLY`
+
+	仅显示打击偏移 EARLY / LATE 的偏移标尺。
+
+- `ALL`
+
+	文字形式显示打击偏移 EARLY / LATE 的指示以及偏移标尺皆显示。
+
 #### NOTE SPEED
 
-调节音符下落速度。(与 [上文](#note-speed-1) 一致)
+调节音符下落速度。(与 [上文](#note-speed_1) 一致)
 
 ![NOTE SPEED](./assets/gsplay_speed.png)
 
@@ -446,6 +467,12 @@
 校正显示延迟偏差。(与 [上文](#display-delay-correction) 一致)
 
 ![DISPLAY DELAY CORRECTION](./assets/gsplay_delay.png)
+
+#### AUDIO DELAY CORRECTION
+
+调整演奏时背景音的时间偏移。
+
+![AUDIO DELAY CORRECTION](./assets/gsplay_adc.png)
 
 #### RANDOM EFFECT
 

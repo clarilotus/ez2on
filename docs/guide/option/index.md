@@ -165,6 +165,38 @@
   
     游戏切换到后台时会自动静音。
 
+### KEY SOUND ASSISTAND
+
+是否自动演奏按键音。
+
+![KEY SOUND ASSISTAND](./assets/audio_ksa.jpg)
+
+- `Enable`
+  
+    自动演奏按键音。
+
+- `Disable`
+  
+    不自动演奏按键音。
+
+!!! tip "提示"
+    
+    改功能不会应用于 COURSE 模式。
+
+### KEY SOUND BALANCE
+
+按键音音量平衡性。
+
+![KEY SOUND BALANCE](./assets/audio_ksb.jpg)
+
+- `Standard`
+  
+    按键音量与背景音量均衡。
+
+- `Keysound Priority`
+  
+    提高按键音的着重感。
+
 ---
 
 ## 3. GAMEPLAY 游戏表现设置
@@ -175,25 +207,60 @@
 
 ![KEY SETTING](./assets/gameplay_ks.jpg)
 
+### KEY INPUT METHOD    
+
+按键输入适配方案设置。
+
+![KEY SETTING](./assets/gameplay_kim.jpg)
+
+- `Compatibility Mode`
+  
+    兼容模式，默认方案。
+
+- `Input Priority Mode`
+  
+    提高输入响应时间，但是可能会与某些后台程序出现兼容性冲突问题，且数字键盘的按键输入会受到 NumLock 开关影响。
+
 ### ASSIST KEY
 
-辅助按键设置，对于 *5键* 和 *8键* 模式，部分轨道是否开启辅助按键设置。
+辅助按键设置，对于 **5键** 、 **8键** 以及 **7键 (SP 组曲)** ，部分轨道是否开启辅助按键设置。
 
 ![ASSIST KEY](./assets/gameplay_ak.jpg)
 
 - `Enable`
   
-    开启后，KEY SETTING 选项中 5键 和 8键 会出现辅助按键的设置项。
+    开启后，KEY SETTING 选项中 **5键**、**8键**、**7键 (SP 组曲)** 会出现辅助按键的设置项。
 
 - `Disable`
   
     不使用辅助按键。
+
+### DISABLE WINDOWS KEY   
+
+是否在演奏时禁用 Windows 标徽按键。
+
+![KEY SETTING](./assets/gameplay_dwk.jpg)
+
+- `Enable`
+  
+    演奏时禁用 Windows 标徽按键。
+
+- `Disable`
+  
+    演奏时不禁用 Windows 标徽按键。
+
+!!! tip "提示"
+
+    当上文选项 [**KEY INPUT METHOD**](#key-input-method) 设置为 **Compatibility Mode** 时才生效。
+
 
 ### SYSTEM THEME
 
 系统主题，更改系统 UI 主题风格。
 
 ![SYSTEM THEME](./assets/gameplay_st.jpg)
+
+![SYSTEM THEME](./assets/gameplay_st2.jpg)
 
 !!! tip "提示"
 
@@ -241,13 +308,13 @@
 
 ### 演奏按键设置
 
-KEY MODE 选择 4 KEYS、5 KEYS、6 KEYS、8 KEYS 时的选项。
+KEY MODE 选择 **4 KEYS**、**5 KEYS**、**6 KEYS**、**8 KEYS**、**7 KEYS (SP COURSE)** 时的选项。
 
 ![按键设置](./assets/key.png)
 
 - `KEY MODE`
   
-    切换 **4键~8键** 各个模式以及 **COMMAND KEY (命令操作)** 的按键设置。
+    切换 **4键~8键** 各个模式、**7键 (SP 组曲)** 以及 **COMMAND KEY (命令操作)** 的按键设置。
 
 - `KEYBOARD`
 
@@ -263,7 +330,7 @@ KEY MODE 选择 4 KEYS、5 KEYS、6 KEYS、8 KEYS 时的选项。
     
 - `ASSIST KEY`
   
-    对于 5键 和 8键 模式，可分别设置特定轨道的辅助按键。
+    对于 **5键**、**8键** 和 **7键 (SP 组曲)**，可分别设置特定轨道的辅助按键。
 
     !!! tip "提示"
         
@@ -271,7 +338,9 @@ KEY MODE 选择 4 KEYS、5 KEYS、6 KEYS、8 KEYS 时的选项。
 
         **8键** : 可设置 **1号轨道** (**最左**) 和 **8号轨道** (**最右**) 的辅助按键；
 
-        此外，需要开启上文的 ["**ASSIST KEY**"](#assist-key) 选项才生效！
+        **7键 (SP 组曲)** : 可设置 **4号轨道** (**中间**) 的辅助按键；
+
+        此外，需要开启上文的 [**ASSIST KEY**](#assist-key) 选项才生效！
 
 ### COMMAND KEY
 
