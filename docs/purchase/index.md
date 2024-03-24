@@ -20,13 +20,13 @@
 
 ![TIME TRAVELER](./assets/dlc/tt.jpg)
 
-> 街机歌曲扩充包，收录街机 EZ2AC : TIME TRAVELER 当作及附加曲目共计 17 首歌，歌曲风格比较偏科幻的电子风，整体难度较难，捆绑目前全游戏最难的课题组曲。
+> 街机歌曲扩充包，收录街机 EZ2AC : TIME TRAVELER 当作及附加曲目共计 15 首歌，歌曲风格比较偏科幻的电子风，整体难度较难，捆绑目前全游戏最难的课题组曲。(由于某些原因，该曲包未来将会额外追加至少 2 首歌曲)
 
 - 购买链接：[https://store.steampowered.com/app/1758560 :octicons-link-external-16:](https://store.steampowered.com/app/1758560)
 - 推荐程度：⭐⭐⭐⭐⭐
-- 国区原价：**¥ 78.00** (已确认不再打折)
+- 国区原价：**¥ 78.00**
 - 历史最低：**¥ 36.55** (涨价前首发折扣)
-- 歌曲数量：**17**
+- 歌曲数量：**15** (未来会再额外追加至少 2 首)
 - 曲风偏向：**科幻电子**
 - 难度趋向：**较难**
 - 捆绑内容：
@@ -49,7 +49,7 @@
 - 购买链接：[https://store.steampowered.com/app/1926200 :octicons-link-external-16:](https://store.steampowered.com/app/1926200)
 - 推荐程度：⭐⭐⭐⭐
 - 国区原价：**¥ 37.00** (Early Access 内测期间购买了游戏本体的玩家已免费赠送该 DLC)
-- 历史最低：**¥ 25.90** (30% Off)
+- 历史最低：**¥ 24.05** (35% Off)
 - 歌曲数量：**10**
 - 曲风偏向：**复古、电子、钢琴曲**
 - 难度趋向：**中等偏难**
@@ -59,7 +59,7 @@
     + 演奏音符：`|/10[_37`
     + 判定字体：`CV`
     + 连击字体：`CV`
-    + 课题组曲：`Violet`、`AUTUMNAL EQUINOX 2023 SPECIAL (5K)`、`FROST'S DESCENT 2023 SPECIAL (SP)`
+    + 课题组曲：`Violet`、`AUTUMNAL EQUINOX 2023 SPECIAL (5K)`、`FROST'S DESCENT 2023 SPECIAL (SP)`、`BLUE DRAGON'S BLESSINGS 2024 SPECIAL (4K、6K)`
 
 ---
 
@@ -83,7 +83,7 @@
     + 演奏音符：`DOOMS`、`PRESTIGE INGOT`、`PRESTIGE CHIP`、`Scarlet`、`BEANS`
     + 判定字体：`Kings`、`NIGHTFALL`、`FiND A WAY`、`Varvious Ways`
     + 连击字体：`Kings`、`NIGHTFALL`、`FiND A WAY`、`Varvious Ways`
-    + 课题组曲：`PP Maglev Central Line`、`PP Maglev Central Line -RH-`、`AUTUMNAL EQUINOX 2023 SPECIAL (4K, 6K, 8K, SP)`、`FROST'S DESCENT 2023 SPECIAL (4K, 8K, SP)`
+    + 课题组曲：`AM 3:34 - Daily Dairy Store`、`PM 7:41 - MarinaFort 1F Patio`、`PP Maglev Central Line`、`PP Maglev Central Line -RH-`、`AUTUMNAL EQUINOX 2023 SPECIAL (4K, 6K, 8K, SP)`、`FROST'S DESCENT 2023 SPECIAL (4K, 8K, SP)`、`BLUE DRAGON'S BLESSINGS 2024 SPECIAL`
 
 ---
 
@@ -96,7 +96,7 @@
 - 购买链接：[https://store.steampowered.com/app/2052630 :octicons-link-external-16:](https://store.steampowered.com/app/2052630)
 - 推荐程度：⭐⭐⭐⭐
 - 国区原价：**¥ 88.00**
-- 历史最低：**¥ 70.40** (20% Off)
+- 历史最低：**¥ 66.00** (25% Off)
 - 歌曲数量：**22**
 - 曲风偏向：**多样化、经典**
 - 难度趋向：**中等**
@@ -120,7 +120,7 @@
 - 购买链接：[https://store.steampowered.com/app/2130530 :octicons-link-external-16:](https://store.steampowered.com/app/2130530)
 - 推荐程度：⭐⭐⭐
 - 国区原价：**¥ 78.00**
-- 历史最低：**¥ 62.40** (20% Off)
+- 历史最低：**¥ 58.50** (25% Off)
 - 歌曲数量：**10**
 - 难度趋向：**较难**
 - 捆绑内容：
@@ -130,6 +130,7 @@
     + 演奏音符：`GROOVE COASTER`
     + 判定字体：`GC-TYPE1`、`GC-TYPE2`
     + 连击字体：`GC-TYPE1`、`GC-TYPE2`
+    + 课题组曲：`Groove Park Extreme4 Pass`
 
 ---
 
@@ -153,7 +154,7 @@
     + 演奏音符：`ENDLESS LUNE`
     + 判定字体：`EC2304 Mk.II`、`EC1304`
     + 连击字体：`ENDLESS`
-    + 课题组曲：`Ouroboros ~Challenge~`、`Ouroboros`
+    + 课题组曲：`Ouroboros ~Challenge~`、`Ouroboros`、`BLUE DRAGON'S BLESSINGS 2024 SPECIAL (5K、6K、8K)`
 
 ---
 
@@ -161,22 +162,22 @@
 
 ![FORTRESS](./assets/dlc/ft.jpg)
 
-> 联动经典网游《疯狂坦克 (FORTRESS)》，全为自家曲师参与混音制作的 Remix 曲目，初定共收录 22 首歌，现已推出 14 首，年末将会继续追加 8 首以及《疯狂坦克 3》主题套装。
+> 联动经典网游《疯狂坦克 (FORTRESS)》，全为自家曲师参与混音制作的 Remix 曲目，共收录 23 首歌。
 
 - 购买链接：[https://store.steampowered.com/app/2459810 :octicons-link-external-16:](https://store.steampowered.com/app/2459810)
 - 推荐程度：⭐⭐⭐⭐
 - 国区原价：**¥ 98.00**
 - 历史最低：**¥ 88.20** (10% Off)
-- 歌曲数量：**22** (现已推出 14 首，2023 年末将推出另外 8 首)
+- 歌曲数量：**23**
 - 曲风偏向：**电子混音、轻音乐、摇滚、电核**
 - 难度趋向：**偏简单**
 - 捆绑内容：
-    + 系统主题：`FORTRESS`、`FORTRESS 3 (未推出)`
-    + 演奏面板：`FORTRESS 2`
-    + 面板背景：`FORTRESS 2`
-    + 演奏音符：`FORTRESS 2 Cannon`、`FORTRESS 2 Laser`
-    + 判定字体：`FORTRESS 2`
-    + 连击字体：`FORTRESS 2`
+    + 系统主题：`FORTRESS`、`FORTRESS 3 PAEWANG`
+    + 演奏面板：`FORTRESS 2`、`F3-ANCIENT`、`F3-MODERN`、`F3-CONTEMP`、`F3-FUTURE`
+    + 面板背景：`FORTRESS 2`、`F3-ANCIENT`、`F3-MODERN`、`F3-CONTEMP`、`F3-FUTURE`
+    + 演奏音符：`FORTRESS 2 Cannon`、`FORTRESS 2 Laser`、`FOTRESS 3 Cannon`
+    + 判定字体：`FORTRESS 2`、`F3-ANCIENT`、`F3-MODERN`、`F3-CONTEMP`、`F3-FUTURE`
+    + 连击字体：`FORTRESS 2`、`F3-ANCIENT`、`F3-MODERN`、`F3-CONTEMP`、`F3-FUTURE`
     + 课题组曲：`FROST'S DESCENT 2023 SPECIAL (5K, 6K)`
 
 ---
@@ -190,7 +191,7 @@
 - 购买链接：[https://store.steampowered.com/app/2427370 :octicons-link-external-16:](https://store.steampowered.com/app/2427370)
 - 推荐程度：⭐⭐⭐⭐⭐⭐
 - 国区原价：**¥ 78.00**
-- 历史最低：**¥ 70.20** (10% Off)
+- 历史最低：**¥ 66.30** (15% Off)
 - 歌曲数量：**18**
 - 难度趋向：**较难**
 - 捆绑内容：
@@ -219,7 +220,7 @@
 - 购买链接：[https://store.steampowered.com/app/1926230 :octicons-link-external-16:](https://store.steampowered.com/app/1926230)
 - 推荐程度：⭐⭐⭐⭐⭐
 - 国区原价：**¥ 37.00** (Early Access 内测期间购买了游戏本体的玩家已免费赠送该 DLC)
-- 历史最低：**¥ 25.90** (30% Off)
+- 历史最低：**¥ 24.05** (35% Off)
 - 捆绑内容：
     + 系统主题：`Quantum Complex`
     + 演奏面板：`QTZ-01`、`QTZ-02`
@@ -237,7 +238,7 @@
 
 ### HARDCORE TANO*C Collaboration
 
-> 联动日本著名音乐团体，已宣布最快于 2023 年第四季度推出。
+> 联动日本著名音乐团体，已宣布最快于 2024 年第一季度推出。
 
 ![TANO*C](./assets/dlc/tanoc_demo.jpg){ width="512" }
 
@@ -247,7 +248,7 @@
 
 ![EVOLVE](./assets/dlc/ev_demo.jpg){ width="250" }
 
-> 街机歌曲扩充包，收录街机 EZ2AC : EVOLVE 中的歌曲，初定 2023 年底或 2024 年第一季度推出。
+> 街机歌曲扩充包，收录街机 EZ2AC : EVOLVE 中的歌曲，初定 2024 年第二季度推出。
 
 ---
 
