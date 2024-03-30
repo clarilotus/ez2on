@@ -40,7 +40,7 @@ hide:
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
@@ -99,7 +99,7 @@ hide:
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
@@ -158,7 +158,7 @@ hide:
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
@@ -217,7 +217,7 @@ hide:
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
@@ -276,7 +276,7 @@ hide:
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
@@ -335,7 +335,7 @@ hide:
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
@@ -394,7 +394,7 @@ hide:
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
@@ -453,7 +453,7 @@ hide:
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
