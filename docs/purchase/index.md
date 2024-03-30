@@ -122,7 +122,7 @@
 - 国区原价：**¥ 78.00**
 - 历史最低：**¥ 58.50** (25% Off)
 - 歌曲数量：**10**
-- 难度趋向：**较难**
+- 难度趋向：**极难**
 - 捆绑内容：
     + 系统主题：`GROOVE COASTER`
     + 演奏面板：`GROOVE COASTER`
@@ -170,7 +170,7 @@
 - 历史最低：**¥ 88.20** (10% Off)
 - 歌曲数量：**23**
 - 曲风偏向：**电子混音、轻音乐、摇滚、电核**
-- 难度趋向：**偏简单**
+- 难度趋向：**较简单**
 - 捆绑内容：
     + 系统主题：`FORTRESS`、`FORTRESS 3 PAEWANG`
     + 演奏面板：`FORTRESS 2`、`F3-ANCIENT`、`F3-MODERN`、`F3-CONTEMP`、`F3-FUTURE`
@@ -193,7 +193,7 @@
 - 国区原价：**¥ 78.00**
 - 历史最低：**¥ 66.30** (15% Off)
 - 歌曲数量：**18**
-- 难度趋向：**较难**
+- 难度趋向：**中等**
 - 捆绑内容：
     + 系统主题：`DJMAX RESPECT V`
     + 演奏面板：`PG-RESPECT`、`TECHNIKA`
@@ -202,6 +202,30 @@
     + 判定字体：`DJMAX`、`TECHNIKA`
     + 连击字体：`DJMAX`、`EMOTIONAL SENSE`、`TECHNIKA`
     + 课题组曲：`AUTUMNAL EQUINOX 2023 SPECIAL (6K)`
+---
+
+### HARDCORE TANO*C Music Pack Vol.1
+
+![DJMAX](./assets/dlc/tc.jpg)
+
+> 联动日本电音社团 HARDCORE TANO*C 第一部分，共 8 (+1) 首歌。
+
+> 其中第 9 首 "BATTLE NO.1" 为先行赠送，未来推出第二部分的时候，该歌曲设定为第一部分或第二部分购买了任一个皆可解锁。(虽然感觉没什么必要这样设定)
+
+- 购买链接：[https://store.steampowered.com/app/2688850 :octicons-link-external-16:](https://store.steampowered.com/app/2688850)
+- 推荐程度：⭐⭐⭐⭐
+- 国区原价：**¥ 58.00**
+- 历史最低：**¥ 49.30** (15% Off)
+- 歌曲数量：**8 (+1)**
+- 难度趋向：**极难**
+- 捆绑内容：
+    + 演奏面板：`TCEZ-001`
+    + 面板背景：`TCEZ-001`
+    + 演奏音符：`TCEZ-001`、`TCEZ-001C`
+    + 判定字体：`TCEZ-001`
+    + 连击字体：`TCEZ-001`
+
+
 ---
 
 
@@ -235,14 +259,6 @@
 !!! tip "提示"
     
     以下内容均已确定会推出，部分尚未公布详细信息与推出日期。
-
-### HARDCORE TANO*C Collaboration
-
-> 联动日本著名音乐团体，已宣布最快于 2024 年第一季度推出。
-
-![TANO*C](./assets/dlc/tanoc_demo.jpg){ width="512" }
-
----
 
 ### EVOLVE
 

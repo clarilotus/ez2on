@@ -82,7 +82,9 @@
     
     - COOL 50%
     
-    - GOOD、MISS 和 FAIL 均为 0%
+    - GOOD 20%
+    
+    - MISS 和 FAIL 均为 0%
 
     对于 **不包含 All Combo 挑战** 的课题组曲，算分规则如下：
 
