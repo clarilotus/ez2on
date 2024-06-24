@@ -3246,3 +3246,412 @@ The hand is quicker than the eye
 
     该组曲 SP 的独占 `7K STANDARD` 模式演奏面板、判定及连击字体样式均强制使用 3RD 搭配，音符强制使用 Classic。
     
+---
+    
+## APRIL SHOWER 2024 SPECIAL
+
+> 2024 谷雨特别组曲。
+
+=== "4K"
+
+    a breeze, blows away the clouds
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               16
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-s">    4S
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Ask to Wind
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
+        </code></td><td>        <!-- 第二首 歌名 -->            Clear After Rain
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
+        </code></td><td>        <!-- 第三首 歌名 -->            WE ALIVE
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 1623600
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 5412
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
+        </code></td><td>        <!-- 第四首 歌名 -->            sweet★star
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 CLOCKWORK
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `TIME TRAVELER`、`DJMAX`
+    </td></tr></table>
+
+
+=== "5K"
+
+    sunlight, but doesn't shine all the time
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               16
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Do You Know?
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5S
+        </code></td><td>        <!-- 第二首 歌名 -->            Go Back
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
+        </code></td><td>        <!-- 第三首 歌名 -->            Belong To You
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 2196300
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 8681
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
+        </code></td><td>        <!-- 第四首 歌名 -->            Bride In Dream
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 YUKINARI! MELON
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `PRESTIGE PASS`、`O2JAM COLLAB`
+    </td></tr></table>
+
+=== "6K"
+
+    a shower, as if that thing forgot about spring
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               17
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6S
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Doll's Garden
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6S
+        </code></td><td>        <!-- 第二首 歌名 -->            Tank Slayer (DoubleTO Remix)
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
+        </code></td><td>        <!-- 第三首 歌名 -->            Glimmering
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 2467500
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 9646
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
+        </code></td><td>        <!-- 第四首 歌名 -->            Nobody Face Love
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 Jackalope
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `CODENAME VIOLET`、`PRESTIGE PASS`、`FORTRESS`
+    </td></tr></table>
+
+=== "8K"
+
+    colors, the 7 passions that fill out lives
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               17
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8S
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Over the Rainbow
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8S
+        </code></td><td>        <!-- 第二首 歌名 -->            WE ALIVE
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
+        </code></td><td>        <!-- 第三首 歌名 -->            Life Is So Beautiful (Nauts Ver.)
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 2599200
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 8664
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
+        </code></td><td>        <!-- 第四首 歌名 -->            Raise me up
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               `FORTRESS`、`DJMAX`
+    </td></tr></table>
+    
+=== "SP"
+
+    That's the Innermind
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ?
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-s">    7S
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            J.M.J
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-s">    7S
+        </code></td><td>        <!-- 第二首 歌名 -->            Judgement
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-s">    7S
+        </code></td><td>        <!-- 第三首 歌名 -->            Aquaris
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 1406100
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 4687
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-s">    7S
+        </code></td><td>        <!-- 第四首 歌名 -->            Lovely Day (Remaster)
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 CLOCKWORK & YUKINARI! MELON
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               /
+    </td></tr></table>
+
+!!! warning "注意"
+
+    该组曲 SP 的独占 `7K STANDARD` 模式演奏面板、判定及连击字体样式均强制使用 4TH 搭配，音符强制使用 Classic。
+
+---
+
+## Daily Special
+
+=== "4K"
+
+    it just tastes good
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               16
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-b">    4B
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Night Madness
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-b">    4B
+        </code></td><td>        <!-- 第二首 歌名 -->            T-eMotion
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-b">    4B
+        </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 1350300
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 4501
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-b">    4B
+        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 CLOCKWORK
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               /
+    </td></tr></table>
+
+
+=== "5K"
+
+    it just tastes good
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               16
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-b">    5B
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Night Madness
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-b">    5B
+        </code></td><td>        <!-- 第二首 歌名 -->            T-eMotion
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-b">    5B
+        </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 1555500
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 5185
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-b">    5B
+        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 Jackalope
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               /
+    </td></tr></table>
+
+=== "6K"
+
+    it just tastes good
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               16
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-b">    6B
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Night Madness
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-b">    6B
+        </code></td><td>        <!-- 第二首 歌名 -->            T-eMotion
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-b">    6B
+        </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 1783200
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 5944
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-b">    6B
+        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 CLOCKWORK & YUKINARI! MELON
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               /
+    </td></tr></table>
+
+=== "8K"
+
+    it just tastes good
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               16
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-b">    8B
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Night Madness
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-b">    8B
+        </code></td><td>        <!-- 第二首 歌名 -->            T-eMotion
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-b">    8B
+        </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 1870500
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 6235
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-b">    8B
+        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 YUKINARI! MELON
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               /
+    </td></tr></table>
+    
+=== "SP"
+
+    it just tastes good
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ?
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Night Madness
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td>        <!-- 第二首 歌名 -->            T-eMotion
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 1495500
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 4985
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               /
+    </td></tr></table>
+
+!!! warning "注意"
+
+    该组曲 SP 的独占 `7K BASIC` 模式演奏面板、音符、判定及连击字体样式均强制使用 Jiyu 皮肤套装。
+
+    第四首为：Rain Blossom by SHK
+
+    通过 4K、5K、6K、8K、SP 任意一组，即可解锁 Jiyu 皮肤套装。
+
+---
+
+## Daily Special [EZ]
+
+=== "SP"
+
+    it just tastes good
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="200" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ?
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Night Madness
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td>        <!-- 第二首 歌名 -->            T-eMotion
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
+        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+                                <!-- 总得分 -->                 433550
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 1445
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><code class="ez-course-judge-b">    7B
+        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+                                <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
+        </td><td>**所需 DLC**</td><td colspan = "2">
+                                <!-- 所需 DLC -->               /
+    </td></tr></table>
+
+!!! warning "注意"
+
+    该组曲为简单版，仅有 SP 的独占 `7K BASIC` 模式，演奏面板、音符、判定及连击字体样式均强制使用 Jiyu 皮肤套装。
+
+    第四首为：Rain Blossom by SHK
+
+    通过后，即可解锁 Jiyu 皮肤套装。

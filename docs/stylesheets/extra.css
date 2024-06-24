@@ -1,7 +1,7 @@
 :root,
 [data-md-color-scheme=default] {
-    --md-default-fg-color--light: #283e3e;
-    --md-default-fg-color: #283e3e;
+    --md-default-fg-color--light: #282e3e;
+    --md-default-fg-color: #282e3e;
     --md-typeset-kbd-color: #eeeeee;
     --md-text-font: "Microsoft Yahei UI", "Noto Sans Simplified Chinese";
     --md-code-font: "Microsoft Yahei UI","Roboto Mono";
@@ -11,18 +11,18 @@
 .md-typeset h2,
 .md-typeset h3 {
     font-weight: 600;
-    color: #283e3e;
+    color: #282e3e;
     /* letter-spacing: -.01em; */
 }
 
 
 [data-md-color-primary=white] {
-    --md-primary-bg-color: #283e3e;
-    --md-typeset-a-color: #006b75;
+    --md-primary-bg-color: #282e3e;
+    --md-typeset-a-color: #0d1369;
 }
 
 .md-typeset a {
-    color: #007474;
+    color: #002974;
 }
 
 .md-tabs__link--active,
@@ -32,7 +32,7 @@
 }
 
 [data-md-color-primary=white] .md-search__input+.md-search__icon {
-    color: #283e3e;
+    color: #282e3e;
 }
 
 .md-typeset code {

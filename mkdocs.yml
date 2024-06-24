@@ -1,7 +1,7 @@
 site_name: 'EZ2ON REBOOT : R 中文 Wiki'
 repo_name: clarilotus/ez2on
 repo_url: https://github.com/clarilotus/ez2on
-copyright: 版权所有 &copy; 2019-2023 Neonovice Co.,LTD. &copy; 2011-2023 SQUARE PIXELS Corp. &ensp;&ensp;由 Mkdocs 及 Material for MkDocs 驱动
+copyright: 版权所有 &copy; 2019-2024 Neonovice Co.,LTD. &copy; 2011-2024 SQUARE PIXELS Corp. &ensp;&ensp;由 Mkdocs 及 Material for MkDocs 驱动
 extra:
   generator: false
   social:
