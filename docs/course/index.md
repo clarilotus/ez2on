@@ -4,6 +4,7 @@
     vertical-align: middle
 }
 
+
 .ez2-course-levellable-tr{
     text-align: right !important;
     font-weight: 60em;
@@ -13,7 +14,7 @@
     width: 180px !important; 
     text-align: center !important;
     vertical-align: middle !important;
-    font-size:6em !important;
+    font-size:5.6em !important;
     padding-top: 0 !important;
     padding-bottom: 0 !important;
     padding-left: 0 !important;
@@ -72,7 +73,7 @@
 
 包含 `B判定 (BASIC)`、`S判定 (STANDARD)` 以及独占的 `X判定 (EXTREME)`，视不同的组曲而异。
 
-!!! tip "关于组曲模式的得分说明及 All Combo 挑战"
+!!! tip "关于组曲模式的得分说明及 **All Combo 挑战**"
 
     组曲模式的算分标准与 BASIC 和 STANDARD 模式下不一致。
 
@@ -86,7 +87,7 @@
     
     - MISS 和 FAIL 均为 0%
 
-    对于 **不包含 All Combo 挑战** 的课题组曲，算分规则如下：
+    对于 **不包含 **All Combo 挑战**** 的课题组曲，算分规则如下：
 
     - KOOL 每个得分为 300
 
@@ -96,7 +97,7 @@
 
     - MISS 和 FAIL 不得分
 
-    对于 **包含 All Combo 挑战** 的课题组曲，算分规则如下：
+    对于 **包含 **All Combo 挑战**** 的课题组曲，算分规则如下：
 
     - KOOL : 在当前连击数 < 1500 时，每个 KOOL 得分范围在 170 ~ 350 中随机决定，当前连击数 >= 1500 后，新打击的 KOOL 得分则统一按最大 350 分
 
@@ -110,7 +111,7 @@
 
     - 注意连击数影响的只是持有当前连击数状态下击中的下一个音符的得分，对已经获得的总得分不会有任何影响
 
-    - 由于当前连击数 < 1500 时每个音符的得分并非固定值，故无法评定 All Combo 挑战组曲的总得分值。
+    - 由于当前连击数 < 1500 时每个音符的得分并非固定值，故无法评定 **All Combo 挑战**组曲的总得分值。
 
 ---
 
@@ -125,7 +126,7 @@ A new chapter begins
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -140,16 +141,16 @@ A new chapter begins
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    4B
         </code></td><td>        <!-- 第三首 歌名 -->            Spotlight
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 368400
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 1228
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    4B
         </code></td><td>        <!-- 第四首 歌名 -->            The Boy
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -157,7 +158,7 @@ A new chapter begins
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -172,16 +173,16 @@ A new chapter begins
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    5B
         </code></td><td>        <!-- 第三首 歌名 -->            Spotlight
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 411000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 1370
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    5B
         </code></td><td>        <!-- 第四首 歌名 -->            The Boy
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Sparrow_A-Jae 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -189,7 +190,7 @@ A new chapter begins
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -204,16 +205,16 @@ A new chapter begins
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    6B
         </code></td><td>        <!-- 第三首 歌名 -->            Spotlight
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 416400
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 1388
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    6B
         </code></td><td>        <!-- 第四首 歌名 -->            The Boy
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Sparrow_A-Jae 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -221,7 +222,7 @@ A new chapter begins
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -236,16 +237,16 @@ A new chapter begins
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    8B
         </code></td><td>        <!-- 第三首 歌名 -->            Spotlight
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 419100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 1397
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    8B
         </code></td><td>        <!-- 第四首 歌名 -->            The Boy
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Sparrow_A-Jae 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -261,7 +262,7 @@ The most genuine K-pop station on the planet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="180" }
+                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -276,16 +277,16 @@ The most genuine K-pop station on the planet
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    4B
         </code></td><td>        <!-- 第三首 歌名 -->            Love & Extasy
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 711000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 2370
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    4B
         </code></td><td>        <!-- 第四首 歌名 -->            For 3 Weeks
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -293,7 +294,7 @@ The most genuine K-pop station on the planet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="180" }
+                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -308,16 +309,16 @@ The most genuine K-pop station on the planet
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    5B
         </code></td><td>        <!-- 第三首 歌名 -->            Love & Extasy
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 809100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 2697
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    5B
         </code></td><td>        <!-- 第四首 歌名 -->            For 3 Weeks
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Sparrow_A-Jae 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -325,7 +326,7 @@ The most genuine K-pop station on the planet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="180" }
+                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -340,16 +341,16 @@ The most genuine K-pop station on the planet
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    6B
         </code></td><td>        <!-- 第三首 歌名 -->            Love & Extasy
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 855000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 2850
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    6B
         </code></td><td>        <!-- 第四首 歌名 -->            For 3 Weeks
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Sparrow_A-Jae 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -357,7 +358,7 @@ The most genuine K-pop station on the planet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="180" }
+                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -372,16 +373,16 @@ The most genuine K-pop station on the planet
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    8B
         </code></td><td>        <!-- 第三首 歌名 -->            Love & Extasy
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 914700
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3049
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    8B
         </code></td><td>        <!-- 第四首 歌名 -->            For 3 Weeks
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Sparrow_A-Jae 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -397,7 +398,7 @@ Partying tonight? We got you covered
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![DBC 91.4MHz](./assets/disc/dbc.webp){ width="180" }
+                                <!-- 封面图 -->                 ![DBC 91.4MHz](./assets/disc/dbc.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -412,16 +413,16 @@ Partying tonight? We got you covered
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第三首 歌名 -->            The Rhythm (Remaster)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1221000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4070
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第四首 歌名 -->            Look Out (Remaster)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Aubergine Cookie
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -429,7 +430,7 @@ Partying tonight? We got you covered
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![DBC 91.4MHz](./assets/disc/dbc.webp){ width="180" }
+                                <!-- 封面图 -->                 ![DBC 91.4MHz](./assets/disc/dbc.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -444,16 +445,16 @@ Partying tonight? We got you covered
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第三首 歌名 -->            The Rhythm (Remaster)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1360200
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4534
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第四首 歌名 -->            Look Out (Remaster)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -461,7 +462,7 @@ Partying tonight? We got you covered
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![DBC 91.4MHz](./assets/disc/dbc.webp){ width="180" }
+                                <!-- 封面图 -->                 ![DBC 91.4MHz](./assets/disc/dbc.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -476,16 +477,16 @@ Partying tonight? We got you covered
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第三首 歌名 -->            The Rhythm (Remaster)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1472100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4907
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第四首 歌名 -->            Look Out (Remaster)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -501,7 +502,7 @@ Retrospective Remix Channel
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![RRC 39.7KHz](./assets/disc/kienrm.webp){ width="180" }
+                                <!-- 封面图 -->                 ![RRC 39.7KHz](./assets/disc/kienrm.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -516,16 +517,16 @@ Retrospective Remix Channel
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第三首 歌名 -->            Back to Bed (Crimson Red Remix)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1315800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4386
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第四首 歌名 -->            20000000000 (Hurt Bass Remix)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -533,7 +534,7 @@ Retrospective Remix Channel
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![RRC 39.7KHz](./assets/disc/kienrm.webp){ width="180" }
+                                <!-- 封面图 -->                 ![RRC 39.7KHz](./assets/disc/kienrm.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -548,16 +549,16 @@ Retrospective Remix Channel
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第三首 歌名 -->            Back to Bed (Crimson Red Remix)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1555200
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5184
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第四首 歌名 -->            20000000000 (Hurt Bass Remix)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -566,7 +567,7 @@ Retrospective Remix Channel
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![RRC 39.7KHz](./assets/disc/kienrm.webp){ width="180" }
+                                <!-- 封面图 -->                 ![RRC 39.7KHz](./assets/disc/kienrm.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -581,16 +582,16 @@ Retrospective Remix Channel
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第三首 歌名 -->            Back to Bed (Crimson Red Remix)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1685100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5617
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第四首 歌名 -->            20000000000 (Hurt Bass Remix)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -606,9 +607,9 @@ Underground spirit carries on
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Hard Beat Underground](./assets/disc/hbu.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Hard Beat Underground](./assets/disc/hbu.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -621,16 +622,16 @@ Underground spirit carries on
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第三首 歌名 -->            Q Factor
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4753
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第四首 歌名 -->            Climax
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -638,9 +639,9 @@ Underground spirit carries on
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Hard Beat Underground](./assets/disc/hbu.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Hard Beat Underground](./assets/disc/hbu.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -653,16 +654,16 @@ Underground spirit carries on
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第三首 歌名 -->            Q Factor
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6183
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第四首 歌名 -->            Climax
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
     
@@ -678,9 +679,9 @@ OVER STAGE from a memory
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Hard Beat Stage](./assets/disc/hbs.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Hard Beat Stage](./assets/disc/hbs.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -693,16 +694,16 @@ OVER STAGE from a memory
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第三首 歌名 -->            Climax
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5763
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第四首 歌名 -->            R.F.C.
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
     
@@ -710,9 +711,9 @@ OVER STAGE from a memory
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Hard Beat Stage](./assets/disc/hbs.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Hard Beat Stage](./assets/disc/hbs.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -725,16 +726,16 @@ OVER STAGE from a memory
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第三首 歌名 -->            Climax
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6561
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第四首 歌名 -->            R.F.C.
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -750,9 +751,9 @@ The forbidden answer , unleashed.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="180" }
+                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -765,16 +766,16 @@ The forbidden answer , unleashed.
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td>        <!-- 第三首 歌名 -->            Zeroize
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5347
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td>        <!-- 第四首 歌名 -->            Fire Storm
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -782,9 +783,9 @@ The forbidden answer , unleashed.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="180" }
+                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -797,16 +798,16 @@ The forbidden answer , unleashed.
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td>        <!-- 第三首 歌名 -->            Zeroize
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6173
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td>        <!-- 第四首 歌名 -->            Fire Storm
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
   
@@ -814,9 +815,9 @@ The forbidden answer , unleashed.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="180" }
+                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -829,16 +830,16 @@ The forbidden answer , unleashed.
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td>        <!-- 第三首 歌名 -->            Zeroize
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6448
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td>        <!-- 第四首 歌名 -->            Fire Storm
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
   
@@ -846,9 +847,9 @@ The forbidden answer , unleashed.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="180" }
+                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -861,16 +862,16 @@ The forbidden answer , unleashed.
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    8X
         </code></td><td>        <!-- 第三首 歌名 -->            Zeroize
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6373
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    8X
         </code></td><td>        <!-- 第四首 歌名 -->            Fire Storm
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
     
@@ -884,9 +885,9 @@ The forbidden answer , unleashed.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![03's ICON](./assets/disc/03s.webp){ width="180" }
+                                <!-- 封面图 -->                 ![03's ICON](./assets/disc/03s.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -899,16 +900,16 @@ The forbidden answer , unleashed.
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    4B
         </code></td><td>        <!-- 第三首 歌名 -->            R.F.C.
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3736
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    4B
         </code></td><td>        <!-- 第四首 歌名 -->            Sand Storm
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -916,9 +917,9 @@ The forbidden answer , unleashed.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![03's ICON](./assets/disc/03s.webp){ width="180" }
+                                <!-- 封面图 -->                 ![03's ICON](./assets/disc/03s.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -931,16 +932,16 @@ The forbidden answer , unleashed.
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    5B
         </code></td><td>        <!-- 第三首 歌名 -->            R.F.C.
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4014
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    5B
         </code></td><td>        <!-- 第四首 歌名 -->            Sand Storm
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -948,9 +949,9 @@ The forbidden answer , unleashed.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![03's ICON](./assets/disc/03s.webp){ width="180" }
+                                <!-- 封面图 -->                 ![03's ICON](./assets/disc/03s.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -963,16 +964,16 @@ The forbidden answer , unleashed.
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    8B
         </code></td><td>        <!-- 第三首 歌名 -->            R.F.C.
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4505
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    8B
         </code></td><td>        <!-- 第四首 歌名 -->            Sand Storm
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -986,7 +987,7 @@ Hearty spice mix with some extra kick
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![GARAM MASALA](./assets/disc/mas.webp){ width="180" }
+                                <!-- 封面图 -->                 ![GARAM MASALA](./assets/disc/mas.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1001,16 +1002,16 @@ Hearty spice mix with some extra kick
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td>        <!-- 第三首 歌名 -->            GOODTEK
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2004600
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6682
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td>        <!-- 第四首 歌名 -->            The Last Page
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 MIDGAP
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -1018,7 +1019,7 @@ Hearty spice mix with some extra kick
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![GARAM MASALA](./assets/disc/mas.webp){ width="180" }
+                                <!-- 封面图 -->                 ![GARAM MASALA](./assets/disc/mas.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1033,16 +1034,16 @@ Hearty spice mix with some extra kick
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td>        <!-- 第三首 歌名 -->            GOODTEK
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1900800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6336
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td>        <!-- 第四首 歌名 -->            The Last Page
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 MIDGAP
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
     
@@ -1050,7 +1051,7 @@ Hearty spice mix with some extra kick
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![GARAM MASALA](./assets/disc/mas.webp){ width="180" }
+                                <!-- 封面图 -->                 ![GARAM MASALA](./assets/disc/mas.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1065,16 +1066,16 @@ Hearty spice mix with some extra kick
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td>        <!-- 第三首 歌名 -->            GOODTEK
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2259000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7530
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td>        <!-- 第四首 歌名 -->            The Last Page
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 MIDGAP
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>    
 
@@ -1090,7 +1091,7 @@ There is no stop sign
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1105,16 +1106,16 @@ There is no stop sign
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第三首 歌名 -->            Nonstop Remix 003
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 949800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3166
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第四首 歌名 -->            Nonstop Remix 004
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Retro EZ2ON Crew
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>    
 
@@ -1122,7 +1123,7 @@ There is no stop sign
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1137,16 +1138,16 @@ There is no stop sign
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第三首 歌名 -->            Nonstop Remix 003
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1185900
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3953
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第四首 歌名 -->            Nonstop Remix 004
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Retro EZ2ON Crew
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -1154,7 +1155,7 @@ There is no stop sign
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1169,16 +1170,16 @@ There is no stop sign
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第三首 歌名 -->            Nonstop Remix 003
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1191600
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3972
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第四首 歌名 -->            Nonstop Remix 004
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Retro EZ2ON Crew
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -1186,7 +1187,7 @@ There is no stop sign
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1201,16 +1202,16 @@ There is no stop sign
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第三首 歌名 -->            Nonstop Remix 003
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1278900
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4263
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第四首 歌名 -->            Nonstop Remix 004
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Retro EZ2ON Crew
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -1226,7 +1227,7 @@ The night that you will never forget
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1241,16 +1242,16 @@ The night that you will never forget
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第三首 歌名 -->            I've Fallen (Hot Dog Boogie Groove Mix)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1005000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3350
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第四首 歌名 -->            J.M.J (DFC Space Gear Re-formation)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 ALTiTUNE
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -1258,7 +1259,7 @@ The night that you will never forget
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1273,16 +1274,16 @@ The night that you will never forget
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第三首 歌名 -->            I've Fallen (Hot Dog Boogie Groove Mix)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1087500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3625
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第四首 歌名 -->            J.M.J (DFC Space Gear Re-formation)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 ALTiTUNE
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -1290,7 +1291,7 @@ The night that you will never forget
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1305,16 +1306,16 @@ The night that you will never forget
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第三首 歌名 -->            I've Fallen (Hot Dog Boogie Groove Mix)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1139100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3797
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第四首 歌名 -->            J.M.J (DFC Space Gear Re-formation)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 ALTiTUNE
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -1322,7 +1323,7 @@ The night that you will never forget
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1337,16 +1338,16 @@ The night that you will never forget
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第三首 歌名 -->            I've Fallen (Hot Dog Boogie Groove Mix)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1172100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3907
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第四首 歌名 -->            J.M.J (DFC Space Gear Re-formation)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 ALTiTUNE
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -1362,9 +1363,9 @@ The commander of class R
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -1377,16 +1378,16 @@ The commander of class R
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td>        <!-- 第三首 歌名 -->            Eraser Rain For GAIA
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7000
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td>        <!-- 第四首 歌名 -->            Kamui (神威)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 VNQS~4.cnv
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `CODENAME VIOLET`
     </td></tr></table>
 
@@ -1394,9 +1395,9 @@ The commander of class R
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -1409,16 +1410,16 @@ The commander of class R
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td>        <!-- 第三首 歌名 -->            Eraser Rain For GAIA
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7664
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td>        <!-- 第四首 歌名 -->            Kamui (神威)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 VNQS~5.cnv
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `CODENAME VIOLET`
     </td></tr></table>
 
@@ -1426,9 +1427,9 @@ The commander of class R
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -1441,16 +1442,16 @@ The commander of class R
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td>        <!-- 第三首 歌名 -->            Eraser Rain For GAIA
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9027
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td>        <!-- 第四首 歌名 -->            Kamui (神威)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 VNQS~6.cnv
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `CODENAME VIOLET`
     </td></tr></table>
 
@@ -1458,9 +1459,9 @@ The commander of class R
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -1473,16 +1474,16 @@ The commander of class R
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    8X
         </code></td><td>        <!-- 第三首 歌名 -->            Eraser Rain For GAIA
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9239
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    8X
         </code></td><td>        <!-- 第四首 歌名 -->            Kamui (神威)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 VNQS~8.cnv
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `CODENAME VIOLET`
     </td></tr></table>
 
@@ -1498,7 +1499,7 @@ Bitter and Sweet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="180" }
+                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1513,16 +1514,16 @@ Bitter and Sweet
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第三首 歌名 -->            Faker
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2024400
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6748
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第四首 歌名 -->            felys -final remix-
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -1530,7 +1531,7 @@ Bitter and Sweet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="180" }
+                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1545,16 +1546,16 @@ Bitter and Sweet
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第三首 歌名 -->            Faker
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2133000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7110
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第四首 歌名 -->            felys -final remix-
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -1562,7 +1563,7 @@ Bitter and Sweet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="180" }
+                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1577,16 +1578,16 @@ Bitter and Sweet
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第三首 歌名 -->            Faker
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2267700
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7559
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第四首 歌名 -->            felys -final remix-
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -1594,7 +1595,7 @@ Bitter and Sweet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="180" }
+                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1609,16 +1610,16 @@ Bitter and Sweet
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第三首 歌名 -->            Faker
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2560200
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8534
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第四首 歌名 -->            felys -final remix-
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -1634,7 +1635,7 @@ Wising on a better tomorrow
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="180" }
+                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1649,16 +1650,16 @@ Wising on a better tomorrow
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第三首 歌名 -->            Various Ways
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1712700
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5709
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第四首 歌名 -->            2038 (2022 Version)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -1666,7 +1667,7 @@ Wising on a better tomorrow
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="180" }
+                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1681,16 +1682,16 @@ Wising on a better tomorrow
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第三首 歌名 -->            Various Ways
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2114100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7047
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第四首 歌名 -->            2038 (2022 Version)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -1698,7 +1699,7 @@ Wising on a better tomorrow
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="180" }
+                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1713,16 +1714,16 @@ Wising on a better tomorrow
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第三首 歌名 -->            Various Ways
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2329800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7766
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第四首 歌名 -->            2038 (2022 Version)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -1730,7 +1731,7 @@ Wising on a better tomorrow
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="180" }
+                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1745,16 +1746,16 @@ Wising on a better tomorrow
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第三首 歌名 -->            Various Ways
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2340900
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7803
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第四首 歌名 -->            2038 (2022 Version)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -1770,7 +1771,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="180" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1785,16 +1786,16 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2665500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8885
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第四首 歌名 -->            ?
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -1802,7 +1803,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="180" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1817,16 +1818,16 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3255900
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 10853
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第四首 歌名 -->            ?
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -1834,7 +1835,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="180" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1849,16 +1850,16 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3648000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 12160
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第四首 歌名 -->            ?
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -1866,7 +1867,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="180" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1881,16 +1882,16 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3673800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 12246
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第四首 歌名 -->            ?
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -1910,7 +1911,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="180" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1925,16 +1926,16 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2665500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8885
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td>        <!-- 第四首 歌名 -->            ?
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -1942,7 +1943,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="180" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1957,16 +1958,16 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3255900
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 10853
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td>        <!-- 第四首 歌名 -->            ?
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -1974,7 +1975,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="180" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1989,16 +1990,16 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3648000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 12160
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td>        <!-- 第四首 歌名 -->            ?
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -2006,7 +2007,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="180" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2021,16 +2022,16 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    8X
         </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3673800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 12246
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    8X
         </code></td><td>        <!-- 第四首 歌名 -->            ?
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -2050,7 +2051,7 @@ Resolve the contradiction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="180" }
+                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2065,16 +2066,16 @@ Resolve the contradiction
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td>        <!-- 第三首 歌名 -->            Encounter on orbit
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2331300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7771
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td>        <!-- 第四首 歌名 -->            Last Flight
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `TIME TRAVELER`
     </td></tr></table>
 
@@ -2082,7 +2083,7 @@ Resolve the contradiction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="180" }
+                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2097,16 +2098,16 @@ Resolve the contradiction
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td>        <!-- 第三首 歌名 -->            Encounter on orbit
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2683200
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8944
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td>        <!-- 第四首 歌名 -->            Last Flight
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 E2O Pattern Team
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `TIME TRAVELER`
     </td></tr></table>
 
@@ -2114,7 +2115,7 @@ Resolve the contradiction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="180" }
+                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2129,16 +2130,16 @@ Resolve the contradiction
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td>        <!-- 第三首 歌名 -->            Encounter on orbit
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2999700
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9999
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td>        <!-- 第四首 歌名 -->            Last Flight
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `TIME TRAVELER`
     </td></tr></table>
 
@@ -2146,7 +2147,7 @@ Resolve the contradiction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="180" }
+                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2161,16 +2162,16 @@ Resolve the contradiction
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    8X
         </code></td><td>        <!-- 第三首 歌名 -->            Last Knot
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3398400
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 11328
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    8X
         </code></td><td>        <!-- 第四首 歌名 -->            Last Flight
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `TIME TRAVELER`
     </td></tr></table>
 
@@ -2186,7 +2187,7 @@ the cold snap season, enjoy the BIG 4, only stronger.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="180" }
+                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2201,16 +2202,16 @@ the cold snap season, enjoy the BIG 4, only stronger.
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第三首 歌名 -->            Omega Ax
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2763300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9211
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第四首 歌名 -->            Per Aspera Ad Astra
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `GROOVE COASTER`
     </td></tr></table>
 
@@ -2218,7 +2219,7 @@ the cold snap season, enjoy the BIG 4, only stronger.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="180" }
+                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2233,16 +2234,16 @@ the cold snap season, enjoy the BIG 4, only stronger.
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第三首 歌名 -->            Omega Ax
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3252300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 10841
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第四首 歌名 -->            Per Aspera Ad Astra
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `GROOVE COASTER`
     </td></tr></table>
 
@@ -2250,7 +2251,7 @@ the cold snap season, enjoy the BIG 4, only stronger.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="180" }
+                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2265,16 +2266,16 @@ the cold snap season, enjoy the BIG 4, only stronger.
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第三首 歌名 -->            Omega Ax
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3585600
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 11952
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第四首 歌名 -->            Per Aspera Ad Astra
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `GROOVE COASTER`
     </td></tr></table>
   
@@ -2282,7 +2283,7 @@ the cold snap season, enjoy the BIG 4, only stronger.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="180" }
+                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2297,16 +2298,16 @@ the cold snap season, enjoy the BIG 4, only stronger.
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第三首 歌名 -->            Omega Ax
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3692400
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 12308
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第四首 歌名 -->            Per Aspera Ad Astra
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `GROOVE COASTER`
     </td></tr></table>  
 ---
@@ -2321,7 +2322,7 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           :material-crown: Clear 挑战
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2336,16 +2337,16 @@ Serpent of Destruction
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td>        <!-- 第三首 歌名 -->            Legend
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 ???????
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7578
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
     </td></tr></table>
 
@@ -2353,7 +2354,7 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           :material-crown: Clear 挑战
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2368,16 +2369,16 @@ Serpent of Destruction
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td>        <!-- 第三首 歌名 -->            Legend
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 ???????
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9017
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
     </td></tr></table>
 
@@ -2385,7 +2386,7 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           :material-crown: Clear 挑战
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2400,16 +2401,16 @@ Serpent of Destruction
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td>        <!-- 第三首 歌名 -->            Legend
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 ???????
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 10384
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
     </td></tr></table>
 
@@ -2417,7 +2418,7 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           :material-crown: Clear 挑战
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2432,16 +2433,16 @@ Serpent of Destruction
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    8X
         </code></td><td>        <!-- 第三首 歌名 -->            Legend
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 ???????
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9999
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    8X
         </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope & YUKINARI! MELON 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
     </td></tr></table>
 
@@ -2457,9 +2458,9 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -2472,16 +2473,16 @@ Serpent of Destruction
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td>        <!-- 第三首 歌名 -->            Legend
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7578
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
         </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
     </td></tr></table>
 
@@ -2489,9 +2490,9 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -2504,16 +2505,16 @@ Serpent of Destruction
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td>        <!-- 第三首 歌名 -->            Legend
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9017
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
         </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
     </td></tr></table>
 
@@ -2521,9 +2522,9 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -2536,16 +2537,16 @@ Serpent of Destruction
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td>        <!-- 第三首 歌名 -->            Legend
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 10384
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
         </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
     </td></tr></table>
 
@@ -2553,9 +2554,9 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -2568,16 +2569,16 @@ Serpent of Destruction
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-x">    8X
         </code></td><td>        <!-- 第三首 歌名 -->            Legend
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9999
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-x">    8X
         </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope & YUKINARI! MELON 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
     </td></tr></table>
 
@@ -2593,7 +2594,7 @@ The deserted planet waits
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![O2PLANET](./assets/disc/o2.webp){ width="180" }
+                                <!-- 封面图 -->                 ![O2PLANET](./assets/disc/o2.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2608,16 +2609,16 @@ The deserted planet waits
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    7B
         </code></td><td>        <!-- 第三首 歌名 -->            Beautiful Day
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1881300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6271
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    7B
         </code></td><td>        <!-- 第四首 歌名 -->            Feel The O2JAM
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 O2Jam
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `O2JAM COLLAB`
     </td></tr></table>
 
@@ -2637,7 +2638,7 @@ A set of perceptual-cognitive traning exercises
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Brain Stretch](./assets/disc/o2b.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Brain Stretch](./assets/disc/o2b.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2652,16 +2653,16 @@ A set of perceptual-cognitive traning exercises
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    7B
         </code></td><td>        <!-- 第三首 歌名 -->            Identity part 2
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3135900
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 10453
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    7B
         </code></td><td>        <!-- 第四首 歌名 -->            End of Fight
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 O2Jam
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `O2JAM COLLAB`
     </td></tr></table>
 
@@ -2681,9 +2682,9 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Trickster](./assets/disc/tr.webp){ width="180" }
+                                <!-- 封面图 -->                 ![Trickster](./assets/disc/tr.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               !?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -2696,16 +2697,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第三首 歌名 -->            Mystic Dream 9903 (Horror Mix)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 2524
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第四首 歌名 -->            Be Mine
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 X-seq.TraX
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -2721,7 +2722,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="180" }
+                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2736,16 +2737,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第三首 歌名 -->            Go Back
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1890000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6300
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第四首 歌名 -->            Monochrome
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`、`O2JAM COLLAB`
     </td></tr></table>
 
@@ -2755,7 +2756,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="180" }
+                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2770,16 +2771,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第三首 歌名 -->            Messier 333
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2331000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7770
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第四首 歌名 -->            Lucid
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Original by PatternGACHA 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `CODENAME VIOLET`
     </td></tr></table>
 
@@ -2789,7 +2790,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="180" }
+                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2804,16 +2805,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    6B
         </code></td><td>        <!-- 第三首 歌名 -->            Diabolic Swing
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1887600
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6292
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    6B
         </code></td><td>        <!-- 第四首 歌名 -->            Good Bye
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Cozy Haus 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`、`DJMAX`
     </td></tr></table>
     
@@ -2823,7 +2824,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="180" }
+                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2838,16 +2839,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第三首 歌名 -->            Lucid
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2718600
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9062
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第四首 歌名 -->            ROD7 -Regions Of Desolation-
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Forbidden Chateau 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -2857,7 +2858,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="180" }
+                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2872,16 +2873,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    7S
         </code></td><td>        <!-- 第三首 歌名 -->            ROD7 -Regions Of Desolation-
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2828100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9427
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    7S
         </code></td><td>        <!-- 第四首 歌名 -->            picking
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`
     </td></tr></table>
 
@@ -2901,7 +2902,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="180" }
+                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2916,16 +2917,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第三首 歌名 -->            Round 3
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2350500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7835
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第四首 歌名 -->            End Of Fight
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & Jackalope 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`、`O2JAM COLLAB`
     </td></tr></table>
 
@@ -2935,7 +2936,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="180" }
+                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2950,16 +2951,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第三首 歌名 -->            Panzer Schock (Culture Shock - ATAS Remix)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2875500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9585
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第四首 歌名 -->            Black Dragon
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `O2JAM COLLAB`、`FORTRESS`
     </td></tr></table>
     
@@ -2969,7 +2970,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="180" }
+                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2984,16 +2985,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第三首 歌名 -->            Fortress 2 Blue GM05 (NieN Metal Remix)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 4084800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 13616
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第四首 歌名 -->            Identity part 2
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `O2JAM COLLAB`、`FORTRESS`
     </td></tr></table>    
 
@@ -3003,7 +3004,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="180" }
+                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3018,16 +3019,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第三首 歌名 -->            Unison System
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 263820
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8794
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第四首 歌名 -->            TRPNO
-        </td></tr><tr><td>**谱师**</td><td colspan = "3" style = "font-size:85% !important">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK & Quinta
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`、`O2JAM COLLAB`
     </td></tr></table>    
 
@@ -3037,9 +3038,9 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="180" }
+                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
-                                <!-- 是否有AC挑战 -->           All Combo 挑战
+                                <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               !?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
@@ -3052,16 +3053,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第三首 歌名 -->            個人的なメモ (KENPO SAITO)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5220
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    8B
         </code></td><td>        <!-- 第四首 歌名 -->            Digital Labyrinth
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `CODENAME VIOLET`、`PRESTIGE PASS`
     </td></tr></table>    
 
@@ -3077,7 +3078,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3092,16 +3093,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第三首 歌名 -->            Diabolic Swing
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1903800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6346
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第四首 歌名 -->            Le Grand Bleu
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & Jackalope 
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `CODENAME VIOLET`、`PRESTIGE PASS`
     </td></tr></table>
 
@@ -3112,7 +3113,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3127,16 +3128,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2604300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8681
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第四首 歌名 -->            Wings on my Back
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope & Aubergine Cookie
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`、`ENDLESS CIRCULATION`
     </td></tr></table>
 
@@ -3146,7 +3147,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3161,16 +3162,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第三首 歌名 -->            FiND A WAY
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2893800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9646
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第四首 歌名 -->            ApolloN
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `CODENAME VIOLET`、`PRESTIGE PASS`、`ENDLESS CIRCULATION`
     </td></tr></table>
 
@@ -3180,7 +3181,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3195,16 +3196,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第三首 歌名 -->            LIGHTYEAR
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2772600
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9242
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第四首 歌名 -->            Almost There
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`、`ENDLESS CIRCULATION`
     </td></tr></table>
     
@@ -3214,7 +3215,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3229,16 +3230,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    7S
         </code></td><td>        <!-- 第三首 歌名 -->            Sand Storm
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1635300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5451
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    7S
         </code></td><td>        <!-- 第四首 歌名 -->            R.F.C.
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -3258,7 +3259,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3273,16 +3274,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第三首 歌名 -->            WE ALIVE
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1623600
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5412
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
         </code></td><td>        <!-- 第四首 歌名 -->            sweet★star
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `TIME TRAVELER`、`DJMAX`
     </td></tr></table>
 
@@ -3293,7 +3294,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3308,16 +3309,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第三首 歌名 -->            Belong To You
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2196300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8681
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
         </code></td><td>        <!-- 第四首 歌名 -->            Bride In Dream
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `PRESTIGE PASS`、`O2JAM COLLAB`
     </td></tr></table>
 
@@ -3327,7 +3328,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3342,16 +3343,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第三首 歌名 -->            Glimmering
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2467500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9646
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
         </code></td><td>        <!-- 第四首 歌名 -->            Nobody Face Love
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `CODENAME VIOLET`、`PRESTIGE PASS`、`FORTRESS`
     </td></tr></table>
 
@@ -3361,7 +3362,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3376,16 +3377,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第三首 歌名 -->            Life Is So Beautiful (Nauts Ver.)
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2599200
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8664
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
         </code></td><td>        <!-- 第四首 歌名 -->            Raise me up
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               `FORTRESS`、`DJMAX`
     </td></tr></table>
     
@@ -3395,7 +3396,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3410,16 +3411,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-s">    7S
         </code></td><td>        <!-- 第三首 歌名 -->            Aquaris
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1406100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4687
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-s">    7S
         </code></td><td>        <!-- 第四首 歌名 -->            Lovely Day (Remaster)
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -3437,7 +3438,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3452,16 +3453,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    4B
         </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1350300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4501
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    4B
         </code></td><td>        <!-- 第四首 歌名 -->            ?
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -3472,7 +3473,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3487,16 +3488,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    5B
         </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1555500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5185
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    5B
         </code></td><td>        <!-- 第四首 歌名 -->            ?
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -3506,7 +3507,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3521,16 +3522,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    6B
         </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1783200
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5944
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    6B
         </code></td><td>        <!-- 第四首 歌名 -->            ?
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -3540,7 +3541,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3555,16 +3556,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    8B
         </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1870500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6235
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    8B
         </code></td><td>        <!-- 第四首 歌名 -->            ?
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
     
@@ -3574,7 +3575,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3589,16 +3590,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    7B
         </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1495500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4985
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    7B
         </code></td><td>        <!-- 第四首 歌名 -->            ?
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
@@ -3620,7 +3621,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="180" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="162" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3635,16 +3636,16 @@ The hand is quicker than the eye
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
         <!-- 第三首 模式 --><code class="ez-course-judge-b">    7B
         </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
-        </td></tr><tr><td width="80">**总得分**</td><td width="120">
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 433550
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 1445
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
         <!-- 第四首 模式 --><code class="ez-course-judge-b">    7B
         </code></td><td>        <!-- 第四首 歌名 -->            ?
-        </td></tr><tr><td>**谱师**</td><td colspan = "3">
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
-        </td><td>**所需 DLC**</td><td colspan = "2">
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               /
     </td></tr></table>
 
