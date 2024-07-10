@@ -126,7 +126,7 @@ A new chapter begins
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -158,7 +158,7 @@ A new chapter begins
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -190,7 +190,7 @@ A new chapter begins
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -222,7 +222,7 @@ A new chapter begins
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Take One](./assets/disc/one.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -262,7 +262,7 @@ The most genuine K-pop station on the planet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="162" }
+                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -294,7 +294,7 @@ The most genuine K-pop station on the planet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="162" }
+                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -326,7 +326,7 @@ The most genuine K-pop station on the planet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="162" }
+                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -358,7 +358,7 @@ The most genuine K-pop station on the planet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="162" }
+                                <!-- 封面图 -->                 ![KPC 86.9MHz](./assets/disc/kpc.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -398,7 +398,7 @@ Partying tonight? We got you covered
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![DBC 91.4MHz](./assets/disc/dbc.webp){ width="162" }
+                                <!-- 封面图 -->                 ![DBC 91.4MHz](./assets/disc/dbc.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -430,7 +430,7 @@ Partying tonight? We got you covered
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![DBC 91.4MHz](./assets/disc/dbc.webp){ width="162" }
+                                <!-- 封面图 -->                 ![DBC 91.4MHz](./assets/disc/dbc.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -462,7 +462,7 @@ Partying tonight? We got you covered
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![DBC 91.4MHz](./assets/disc/dbc.webp){ width="162" }
+                                <!-- 封面图 -->                 ![DBC 91.4MHz](./assets/disc/dbc.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -502,7 +502,7 @@ Retrospective Remix Channel
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![RRC 39.7KHz](./assets/disc/kienrm.webp){ width="162" }
+                                <!-- 封面图 -->                 ![RRC 39.7KHz](./assets/disc/kienrm.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -534,7 +534,7 @@ Retrospective Remix Channel
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![RRC 39.7KHz](./assets/disc/kienrm.webp){ width="162" }
+                                <!-- 封面图 -->                 ![RRC 39.7KHz](./assets/disc/kienrm.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -567,7 +567,7 @@ Retrospective Remix Channel
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![RRC 39.7KHz](./assets/disc/kienrm.webp){ width="162" }
+                                <!-- 封面图 -->                 ![RRC 39.7KHz](./assets/disc/kienrm.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -607,7 +607,7 @@ Underground spirit carries on
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Hard Beat Underground](./assets/disc/hbu.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Hard Beat Underground](./assets/disc/hbu.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -639,7 +639,7 @@ Underground spirit carries on
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Hard Beat Underground](./assets/disc/hbu.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Hard Beat Underground](./assets/disc/hbu.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -679,7 +679,7 @@ OVER STAGE from a memory
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Hard Beat Stage](./assets/disc/hbs.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Hard Beat Stage](./assets/disc/hbs.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -711,7 +711,7 @@ OVER STAGE from a memory
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Hard Beat Stage](./assets/disc/hbs.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Hard Beat Stage](./assets/disc/hbs.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -751,7 +751,7 @@ The forbidden answer , unleashed.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="162" }
+                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -783,7 +783,7 @@ The forbidden answer , unleashed.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="162" }
+                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -815,7 +815,7 @@ The forbidden answer , unleashed.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="162" }
+                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -847,7 +847,7 @@ The forbidden answer , unleashed.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="162" }
+                                <!-- 封面图 -->                 ![18+](./assets/disc/18p.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -885,7 +885,7 @@ The forbidden answer , unleashed.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![03's ICON](./assets/disc/03s.webp){ width="162" }
+                                <!-- 封面图 -->                 ![03's ICON](./assets/disc/03s.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -917,7 +917,7 @@ The forbidden answer , unleashed.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![03's ICON](./assets/disc/03s.webp){ width="162" }
+                                <!-- 封面图 -->                 ![03's ICON](./assets/disc/03s.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -949,7 +949,7 @@ The forbidden answer , unleashed.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![03's ICON](./assets/disc/03s.webp){ width="162" }
+                                <!-- 封面图 -->                 ![03's ICON](./assets/disc/03s.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -987,7 +987,7 @@ Hearty spice mix with some extra kick
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![GARAM MASALA](./assets/disc/mas.webp){ width="162" }
+                                <!-- 封面图 -->                 ![GARAM MASALA](./assets/disc/mas.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1019,7 +1019,7 @@ Hearty spice mix with some extra kick
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![GARAM MASALA](./assets/disc/mas.webp){ width="162" }
+                                <!-- 封面图 -->                 ![GARAM MASALA](./assets/disc/mas.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1051,7 +1051,7 @@ Hearty spice mix with some extra kick
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![GARAM MASALA](./assets/disc/mas.webp){ width="162" }
+                                <!-- 封面图 -->                 ![GARAM MASALA](./assets/disc/mas.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1091,7 +1091,7 @@ There is no stop sign
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1123,7 +1123,7 @@ There is no stop sign
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1155,7 +1155,7 @@ There is no stop sign
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1187,7 +1187,7 @@ There is no stop sign
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Nonstop Rapid Remix](./assets/disc/non.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1227,7 +1227,7 @@ The night that you will never forget
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1259,7 +1259,7 @@ The night that you will never forget
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1291,7 +1291,7 @@ The night that you will never forget
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1323,7 +1323,7 @@ The night that you will never forget
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Disco Wonderland](./assets/disc/disw.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1363,7 +1363,7 @@ The commander of class R
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1395,7 +1395,7 @@ The commander of class R
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1427,7 +1427,7 @@ The commander of class R
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1459,7 +1459,7 @@ The commander of class R
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Violet](./assets/disc/vio.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1499,7 +1499,7 @@ Bitter and Sweet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="162" }
+                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1531,7 +1531,7 @@ Bitter and Sweet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="162" }
+                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1563,7 +1563,7 @@ Bitter and Sweet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="162" }
+                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1595,7 +1595,7 @@ Bitter and Sweet
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="162" }
+                                <!-- 封面图 -->                 ![dds](./assets/disc/dds.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1635,7 +1635,7 @@ Wising on a better tomorrow
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="162" }
+                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1667,7 +1667,7 @@ Wising on a better tomorrow
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="162" }
+                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1699,7 +1699,7 @@ Wising on a better tomorrow
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="162" }
+                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1731,7 +1731,7 @@ Wising on a better tomorrow
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="162" }
+                                <!-- 封面图 -->                 ![marina](./assets/disc/marina.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1771,7 +1771,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="162" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1803,7 +1803,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="162" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1835,7 +1835,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="162" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1867,7 +1867,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="162" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1911,7 +1911,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="162" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1943,7 +1943,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="162" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -1975,7 +1975,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="162" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2007,7 +2007,7 @@ EXTRA RAPID SERVICE
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="162" }
+                                <!-- 封面图 -->                 ![PP Maglev Central Line](./assets/disc/ppmb-rh.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2051,7 +2051,7 @@ Resolve the contradiction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="162" }
+                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2083,7 +2083,7 @@ Resolve the contradiction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="162" }
+                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2115,7 +2115,7 @@ Resolve the contradiction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="162" }
+                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2147,7 +2147,7 @@ Resolve the contradiction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="162" }
+                                <!-- 封面图 -->                 ![TIME PARADOX](./assets/disc/tp.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2187,7 +2187,7 @@ the cold snap season, enjoy the BIG 4, only stronger.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="162" }
+                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2219,7 +2219,7 @@ the cold snap season, enjoy the BIG 4, only stronger.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="162" }
+                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2251,7 +2251,7 @@ the cold snap season, enjoy the BIG 4, only stronger.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="162" }
+                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2283,7 +2283,7 @@ the cold snap season, enjoy the BIG 4, only stronger.
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="162" }
+                                <!-- 封面图 -->                 ![gpep](./assets/disc/gpep.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2322,7 +2322,7 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           :material-crown: Clear 挑战
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2354,7 +2354,7 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           :material-crown: Clear 挑战
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2386,7 +2386,7 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           :material-crown: Clear 挑战
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2418,7 +2418,7 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           :material-crown: Clear 挑战
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2458,7 +2458,7 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2490,7 +2490,7 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2522,7 +2522,7 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2554,7 +2554,7 @@ Serpent of Destruction
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Ouroboros](./assets/disc/ouro.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2594,7 +2594,7 @@ The deserted planet waits
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![O2PLANET](./assets/disc/o2.webp){ width="162" }
+                                <!-- 封面图 -->                 ![O2PLANET](./assets/disc/o2.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2638,7 +2638,7 @@ A set of perceptual-cognitive traning exercises
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Brain Stretch](./assets/disc/o2b.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Brain Stretch](./assets/disc/o2b.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2682,7 +2682,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![Trickster](./assets/disc/tr.webp){ width="162" }
+                                <!-- 封面图 -->                 ![Trickster](./assets/disc/tr.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2722,7 +2722,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="162" }
+                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2756,7 +2756,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="162" }
+                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2790,7 +2790,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="162" }
+                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2824,7 +2824,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="162" }
+                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2858,7 +2858,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="162" }
+                                <!-- 封面图 -->                 ![AUTUMNAL EQUINOX 2023 SPECIAL](./assets/disc/23sp-01.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2902,7 +2902,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="162" }
+                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2936,7 +2936,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="162" }
+                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -2970,7 +2970,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="162" }
+                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3004,7 +3004,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="162" }
+                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3038,7 +3038,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="162" }
+                                <!-- 封面图 -->                 ![FROST'S DESCENT 2023 SPECIAL](./assets/disc/23fd.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           **All Combo 挑战**
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3078,7 +3078,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3113,7 +3113,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3147,7 +3147,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3181,7 +3181,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3215,7 +3215,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24bdb.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3259,7 +3259,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3294,7 +3294,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3328,7 +3328,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3362,7 +3362,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3396,7 +3396,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24aps.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3438,7 +3438,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3473,7 +3473,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3507,7 +3507,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3541,7 +3541,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3575,7 +3575,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
@@ -3621,7 +3621,7 @@ The hand is quicker than the eye
 
     <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
         <td colspan = "2" rowspan="4">
-                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="162" }
+                                <!-- 封面图 -->                 ![24bdb](./assets/disc/24deal.webp){ width="100%" }
         </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
                                 <!-- 是否有AC挑战 -->           
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
