@@ -8,8 +8,8 @@
 
 
 - 购买链接：[https://store.steampowered.com/app/1477590 :octicons-link-external-16:](https://store.steampowered.com/app/1477590)
-- 国区原价：**¥ 126.00**
-- 历史最低：**¥ 75.60** (40% Off)
+- 国区原价：**¥ 138.00** (2024 年 1 月涨价，原价 ¥ 126.00)
+- 历史最低：**¥ 82.80** (Summer Sale 2024 - 40% Off)
 - 歌曲数量：**250+**
 
 ---
@@ -25,8 +25,8 @@
 - 购买链接：[https://store.steampowered.com/app/1758560 :octicons-link-external-16:](https://store.steampowered.com/app/1758560)
 - 推荐程度：⭐⭐⭐⭐⭐
 - 国区原价：**¥ 78.00**
-- 历史最低：**¥ 58.50** (25% Off)
-- 歌曲数量：**15** (未来会再额外追加至少 2 首)
+- 历史最低：**¥ 59.94** (Summer Sale 2024 - 27% Off)
+- 歌曲数量：**15** (未来会再额外追加)
 - 曲风偏向：**科幻电子**
 - 难度趋向：**较难**
 - 捆绑内容：
@@ -49,7 +49,7 @@
 - 购买链接：[https://store.steampowered.com/app/1926200 :octicons-link-external-16:](https://store.steampowered.com/app/1926200)
 - 推荐程度：⭐⭐⭐⭐
 - 国区原价：**¥ 37.00** (Early Access 内测期间购买了游戏本体的玩家已免费赠送该 DLC)
-- 历史最低：**¥ 24.05** (35% Off)
+- 历史最低：**¥ 23.31** (Summer Sale 2024 - 37% Off)
 - 歌曲数量：**10**
 - 曲风偏向：**复古、电子、钢琴曲**
 - 难度趋向：**中等偏难**
@@ -71,8 +71,8 @@
 
 - 购买链接：[https://store.steampowered.com/app/1926210 :octicons-link-external-16:](https://store.steampowered.com/app/1926210)
 - 推荐程度：⭐⭐⭐⭐⭐⭐
-- 国区原价：**¥ 108.00**
-- 历史最低：**¥ 81.00** (25% Off)
+- 国区原价：**¥ 118.00** (2024 年 1 月涨价，原价 ¥ 108.00)
+- 历史最低：**¥ 88.50** (Summer Sale 2024 - 25% Off)
 - 歌曲数量：**42 (41 + 1)**
 - 曲风偏向：**复古、电子、钢琴曲**
 - 难度趋向：**中等偏难**
@@ -96,7 +96,7 @@
 - 购买链接：[https://store.steampowered.com/app/2052630 :octicons-link-external-16:](https://store.steampowered.com/app/2052630)
 - 推荐程度：⭐⭐⭐⭐
 - 国区原价：**¥ 88.00**
-- 历史最低：**¥ 66.00** (25% Off)
+- 历史最低：**¥ 64.24** (Summer Sale 2024 - 27% Off)
 - 歌曲数量：**22**
 - 曲风偏向：**多样化、经典**
 - 难度趋向：**中等**
@@ -120,7 +120,7 @@
 - 购买链接：[https://store.steampowered.com/app/2130530 :octicons-link-external-16:](https://store.steampowered.com/app/2130530)
 - 推荐程度：⭐⭐⭐
 - 国区原价：**¥ 78.00**
-- 历史最低：**¥ 58.50** (25% Off)
+- 历史最低：**¥ 56.94** (Summer Sale 2024 - 27% Off)
 - 歌曲数量：**10**
 - 难度趋向：**极难**
 - 捆绑内容：
@@ -142,8 +142,8 @@
 
 - 购买链接：[https://store.steampowered.com/app/2325460 :octicons-link-external-16:](https://store.steampowered.com/app/2325460)
 - 推荐程度：⭐⭐⭐⭐⭐
-- 国区原价：**¥ 118.00** (已确认未来会涨价)
-- 历史最低：**¥ 100.30** (15% Off)
+- 国区原价：**¥ 118.00** 
+- 历史最低：**¥ 97.94** (Summer Sale 2024 - 17% Off)
 - 歌曲数量：**39** 
 - 曲风偏向：**迷幻舞曲**
 - 难度趋向：**中等偏难**
@@ -154,7 +154,7 @@
     + 演奏音符：`ENDLESS LUNE`
     + 判定字体：`EC2304 Mk.II`、`EC1304`
     + 连击字体：`ENDLESS`
-    + 课题组曲：`Ouroboros ~Challenge~`、`Ouroboros`
+    + 课题组曲：`Ouroboros ~Challenge~`、`Ouroboros`、`Jormungand` (尚未推出)
 
 ---
 
@@ -167,7 +167,7 @@
 - 购买链接：[https://store.steampowered.com/app/2459810 :octicons-link-external-16:](https://store.steampowered.com/app/2459810)
 - 推荐程度：⭐⭐⭐⭐
 - 国区原价：**¥ 98.00**
-- 历史最低：**¥ 80.75** (15% Off)
+- 历史最低：**¥ 76.44** (Summer Sale 2024 - 22% Off)
 - 歌曲数量：**23**
 - 曲风偏向：**电子混音、轻音乐、摇滚、电核**
 - 难度趋向：**较简单**
@@ -190,7 +190,7 @@
 - 购买链接：[https://store.steampowered.com/app/2427370 :octicons-link-external-16:](https://store.steampowered.com/app/2427370)
 - 推荐程度：⭐⭐⭐⭐⭐⭐
 - 国区原价：**¥ 78.00**
-- 历史最低：**¥ 62.40** (20% Off)
+- 历史最低：**¥ 60.84** (Summer Sale 2024 - 22% Off)
 - 歌曲数量：**18**
 - 难度趋向：**中等**
 - 捆绑内容：
@@ -214,7 +214,7 @@
 - 购买链接：[https://store.steampowered.com/app/2688850 :octicons-link-external-16:](https://store.steampowered.com/app/2688850)
 - 推荐程度：⭐⭐⭐⭐
 - 国区原价：**¥ 58.00**
-- 历史最低：**¥ 49.30** (15% Off)
+- 历史最低：**¥ 48.14** (Summer Sale 2024 - 17% Off)
 - 歌曲数量：**8 (+1)**
 - 难度趋向：**极难**
 - 捆绑内容：
@@ -224,9 +224,31 @@
     + 判定字体：`TCEZ-001`
     + 连击字体：`TCEZ-001`
 
-
 ---
 
+### EVOLVE
+
+![EVOLVE](./assets/dlc/ev.jpg)
+
+> 街机歌曲扩充包，收录街机 EZ2AC : EVOLVE 中的歌曲，共收录 32 首歌，目前已推出其中的 29 首。
+
+- 购买链接：[https://store.steampowered.com/app/2688860 :octicons-link-external-16:](https://store.steampowered.com/app/2688860)
+- 推荐程度：⭐⭐⭐⭐⭐
+- 国区原价：**¥ 138.00**
+- 历史最低：**¥ 124.20** (10% Off)
+- 歌曲数量：**29 (32)** 
+- 曲风偏向：**综合**
+- 难度趋向：**中等偏难**
+- 捆绑内容：
+    + 系统主题：`EVOLVE`
+    + 演奏面板：`EV-1`、`EV-2`
+    + 面板背景：`EVOLVE`
+    + 演奏音符：`EVOLVE`
+    + 判定字体：`EVOLVE`
+    + 连击字体：`EVOLVE`
+    + 课题组曲：`LEVEL : ALPHA` (尚未推出)、`LEVEL : ZETA` (尚未推出)
+
+---
 
 ## 外观主题包 DLC
 
@@ -243,7 +265,7 @@
 - 购买链接：[https://store.steampowered.com/app/1926230 :octicons-link-external-16:](https://store.steampowered.com/app/1926230)
 - 推荐程度：⭐⭐⭐⭐⭐
 - 国区原价：**¥ 37.00** (Early Access 内测期间购买了游戏本体的玩家已免费赠送该 DLC)
-- 历史最低：**¥ 24.05** (35% Off)
+- 历史最低：**¥ 23.31** (Summer Sale 2024 - 37% Off)
 - 捆绑内容：
     + 系统主题：`Quantum Complex`
     + 演奏面板：`QTZ-01`、`QTZ-02`
@@ -258,14 +280,6 @@
 !!! tip "提示"
     
     以下内容均已确定会推出，部分尚未公布详细信息与推出日期。
-
-### EVOLVE
-
-![EVOLVE](./assets/dlc/ev_demo.jpg){ width="250" }
-
-> 街机歌曲扩充包，收录街机 EZ2AC : EVOLVE 中的歌曲，初定 2024 年第二季度推出。
-
----
 
 ### NIGHT TRAVELER
 

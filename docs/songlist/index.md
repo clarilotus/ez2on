@@ -36,11 +36,11 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable" v-if="activeName =='4b'"  v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="530" style="width: 100%" :lazy="false">
+                    :border=true :fit=true style="width: 100%" :lazy="false">
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }, { text: 'EV', value: 'EC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
@@ -95,11 +95,11 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable" v-if="activeName =='5b'" v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="550" style="width: 100%" :lazy="false" >
+                    :border=true :fit=true style="width: 100%" :lazy="false" >
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }, { text: 'EV', value: 'EC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
@@ -154,11 +154,11 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable" v-if="activeName =='6b'" v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="550" style="width: 100%" :lazy="false" >
+                    :border=true :fit=true style="width: 100%" :lazy="false" >
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }, { text: 'EV', value: 'EC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
@@ -213,11 +213,11 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable" v-if="activeName =='8b'" v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="550" style="width: 100%" :lazy="false" >
+                    :border=true :fit=true style="width: 100%" :lazy="false" >
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }, { text: 'EV', value: 'EC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
@@ -272,11 +272,11 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable" v-if="activeName =='4s'" v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="550" style="width: 100%" :lazy="false" >
+                    :border=true :fit=true style="width: 100%" :lazy="false" >
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }, { text: 'EV', value: 'EC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
@@ -331,11 +331,11 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable"  v-if="activeName =='5s'" v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="550" style="width: 100%" :lazy="false" >
+                    :border=true :fit=true style="width: 100%" :lazy="false" >
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }, { text: 'EV', value: 'EC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
@@ -390,11 +390,11 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable" v-if="activeName =='6s'" v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="550" style="width: 100%" :lazy="false" >
+                    :border=true :fit=true style="width: 100%" :lazy="false" >
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }, { text: 'EV', value: 'EC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
@@ -449,11 +449,11 @@ hide:
                 <br /><span style="height: 10px;display: block;"></span>
                 <el-table ref="filterTable" v-if="activeName =='8s'" v-loading="loading"
                     :data="tableData.filter(data =>(!searchTitle&&!searchArtist)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&!searchArtist)||(data.artist.toLowerCase().includes(searchArtist.toLowerCase())&&!searchTitle)||(data.title.toLowerCase().includes(searchTitle.toLowerCase())&&data.artist.toLowerCase().includes(searchArtist.toLowerCase())))"
-                    :border=true height="550" style="width: 100%" :lazy="false" >
+                    :border=true :fit=true style="width: 100%" :lazy="false" >
                     <el-table-column prop="id" label="#" sortable :resizable=false width="54">
                     </el-table-column>
                     <el-table-column prop="dir" label="目录 " :resizable=false width="70"
-                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }]"
+                        :filters="[{ text: '1ST', value: '1ST' }, { text: 'S/E', value: 'SE' }, { text: '2ND', value: '2ND' }, { text: '3RD', value: '3RD' }, { text: '4TH', value: '4TH' }, { text: 'PT', value: 'PT' }, { text: '6TH', value: '6TH' }, { text: '7TH', value: '7TH' }, { text: '2008', value: 2008 }, { text: '2013', value: 2013 }, { text: '2021', value: 2021 }, { text: 'TT', value: 'TT' }, { text: 'CV', value: 'CV' }, { text: 'PP', value: 'PP' }, { text: 'O2', value: 'O2' }, { text: 'GC', value: 'GC' }, { text: 'EC', value: 'EC' }, { text: 'FT', value: 'FT' }, { text: 'DM', value: 'NW' }, { text: 'TC', value: 'TC' }, { text: 'EV', value: 'EC' }]"
                         :filter-method="filterHandler"><template slot-scope="scope">
                             <el-image :src="'./diricons/' + scope.row.dir + '.png'"
                             style="vertical-align: middle" :lazy="false" />
