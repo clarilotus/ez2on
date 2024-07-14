@@ -31,19 +31,149 @@
 }
 
 .ez-course-judge-b{
-    color:rgb(16, 169, 92) !important;
+    color:#00b88d !important;
+    font-size:1.2em !important;
+    font-weight: 600 !important;
 }
 
 .ez-course-judge-s{
-    color:rgb(0, 164, 219) !important;
+    color:#02a4cc !important;
+    font-size:1.2em !important;
+    font-weight: 600 !important;
 }
 
 .ez-course-judge-x{
-    color:firebrick !important;
+    color:#b1001d !important;
+    font-size:1.2em !important;
+    font-weight: 600 !important;
 }
 
 .ez-course-songname-td{
     width: 390px !important;
+}
+
+
+.ez-2021 {
+    text-align: center !important;
+    display: inline-block;
+    color:#000000 !important;
+    border-radius:0.4em;
+    background-image:linear-gradient(to bottom, #00E4FF, #00E4FF);
+    font-size:1em !important;
+    font-weight: 800 !important;
+    width: 12em;
+}
+
+.ez-TT {
+    text-align: center !important;
+    /* font-style: italic; */
+    display: inline-block;
+    
+    color:#000000 !important;
+    border-radius:0.4em;
+    background-image:linear-gradient(to bottom, #37ED88, #37ED88);
+    font-size:1em !important;
+    font-weight: 800 !important;
+    width: 12em;
+}
+
+.ez-CV {
+    text-align: center !important;
+    color:#000000 !important;
+    border-radius:0.4em;
+    display: inline-block;
+    background-image:linear-gradient(to bottom, #f666fd, #cb44ec, #b834e4);
+    font-size:1em !important;
+    font-weight: 800 !important;
+    width: 12em;
+}
+
+.ez-PP {
+    text-align: center !important;
+    color:#000000 !important;
+    display: inline-block;
+    border-radius:0.4em;
+    background-image:linear-gradient(to bottom, #8787ff, #6565ec);
+    font-size:1em !important;
+    font-weight: 800 !important;
+    width: 12em;
+}
+
+.ez-O2 {
+    text-align: center !important;
+    color:#000000 !important;
+    display: inline-block;
+    border-radius:0.4em;
+    background-image:linear-gradient(to bottom, #14FEDB, #9CFE6B, #FDFD1A,#FED815,#FEBB11,#E58220,#B25563,#893F9D);
+    font-size:1em !important;
+    font-weight: 800 !important;
+    width: 12em;
+}
+
+.ez-GC {
+    text-align: center !important;
+    color:#000000 !important;
+    border-radius:0.4em;
+    display: inline-block;
+    background-image:linear-gradient(to bottom, #FF9EBE, #FF7896);
+    font-size:1em !important;
+    font-weight: 800 !important;
+    width: 12em;
+}
+
+.ez-EC {
+    text-align: center !important;
+    color:#000000 !important;
+    border-radius:0.4em;
+    display: inline-block;
+    background-image:linear-gradient(to bottom, #91F0E1, #91F0E1);
+    font-size:1em !important;
+    font-weight: 800 !important;
+    width: 15em;
+}
+
+.ez-FT {
+    text-align: center !important;
+    color:#000000 !important;
+    border-radius:0.4em;
+    display: inline-block;
+    background-image:linear-gradient(to bottom, #FF6E43, #F9AF17);
+    font-size:1em !important;
+    font-weight: 800 !important;
+    width: 12em;
+}
+
+.ez-NW {
+    text-align: center !important;
+    color:#000000 !important;
+    border-radius:0.4em;
+    display: inline-block;
+    background-image:linear-gradient(to bottom, #FEE600, #FEE600);
+    font-size:1em !important;
+    font-weight: 800 !important;
+    width: 12em;
+}
+
+.ez-TC {
+    text-align: center !important;
+    color:#FFFFFF !important;
+    border-radius:0.4em;
+    display: inline-block;
+    background-image:linear-gradient(to bottom, #000000, #760000, #F50000);
+    font-size:1em !important;
+    font-weight: 800 !important;
+    width: 12em;
+}
+
+.ez-EV {
+    text-align: center !important;
+    color:#FFFFFF !important;
+    border-radius:0.4em;
+    display: inline-block;
+    background-image:linear-gradient(to bottom, #21525A, #272727, #800F2E);
+    font-size:1em !important;
+    font-weight: 800 !important;
+    width: 12em;
 }
 
 </style>
@@ -132,26 +262,26 @@ A new chapter begins
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               5
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            2.14
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td>        <!-- 第二首 歌名 -->            Clear After Rain
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td>        <!-- 第二首 歌名 -->            Clear After Rain
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td>        <!-- 第三首 歌名 -->            Spotlight
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td>        <!-- 第三首 歌名 -->            Spotlight
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 368400
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 1228
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td>        <!-- 第四首 歌名 -->            The Boy
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td>        <!-- 第四首 歌名 -->            The Boy
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "5K"
@@ -164,26 +294,26 @@ A new chapter begins
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               6
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            2.14
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td>        <!-- 第二首 歌名 -->            Clear After Rain
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td>        <!-- 第二首 歌名 -->            Clear After Rain
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td>        <!-- 第三首 歌名 -->            Spotlight
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td>        <!-- 第三首 歌名 -->            Spotlight
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 411000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 1370
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td>        <!-- 第四首 歌名 -->            The Boy
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td>        <!-- 第四首 歌名 -->            The Boy
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Sparrow_A-Jae 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "6K"
@@ -196,26 +326,26 @@ A new chapter begins
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               6
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            2.14
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td>        <!-- 第二首 歌名 -->            Clear After Rain
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td>        <!-- 第二首 歌名 -->            Clear After Rain
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td>        <!-- 第三首 歌名 -->            Spotlight
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td>        <!-- 第三首 歌名 -->            Spotlight
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 416400
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 1388
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td>        <!-- 第四首 歌名 -->            The Boy
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td>        <!-- 第四首 歌名 -->            The Boy
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Sparrow_A-Jae 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "8K"
@@ -228,26 +358,26 @@ A new chapter begins
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               6
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            2.14
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td>        <!-- 第二首 歌名 -->            Clear After Rain
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td>        <!-- 第二首 歌名 -->            Clear After Rain
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td>        <!-- 第三首 歌名 -->            Spotlight
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td>        <!-- 第三首 歌名 -->            Spotlight
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 419100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 1397
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td>        <!-- 第四首 歌名 -->            The Boy
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td>        <!-- 第四首 歌名 -->            The Boy
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Sparrow_A-Jae 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 ---
@@ -268,26 +398,26 @@ The most genuine K-pop station on the planet
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               9
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Combination
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td>        <!-- 第二首 歌名 -->            My Honey
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td>        <!-- 第二首 歌名 -->            My Honey
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td>        <!-- 第三首 歌名 -->            Love & Extasy
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td>        <!-- 第三首 歌名 -->            Love & Extasy
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 711000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 2370
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td>        <!-- 第四首 歌名 -->            For 3 Weeks
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td>        <!-- 第四首 歌名 -->            For 3 Weeks
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "5K"
@@ -300,26 +430,26 @@ The most genuine K-pop station on the planet
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               10
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Combination
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td>        <!-- 第二首 歌名 -->            My Honey
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td>        <!-- 第二首 歌名 -->            My Honey
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td>        <!-- 第三首 歌名 -->            Love & Extasy
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td>        <!-- 第三首 歌名 -->            Love & Extasy
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 809100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 2697
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td>        <!-- 第四首 歌名 -->            For 3 Weeks
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td>        <!-- 第四首 歌名 -->            For 3 Weeks
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Sparrow_A-Jae 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "6K"
@@ -332,26 +462,26 @@ The most genuine K-pop station on the planet
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               10
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Combination
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td>        <!-- 第二首 歌名 -->            My Honey
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td>        <!-- 第二首 歌名 -->            My Honey
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td>        <!-- 第三首 歌名 -->            Love & Extasy
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td>        <!-- 第三首 歌名 -->            Love & Extasy
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 855000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 2850
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td>        <!-- 第四首 歌名 -->            For 3 Weeks
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td>        <!-- 第四首 歌名 -->            For 3 Weeks
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Sparrow_A-Jae 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "8K"
@@ -364,26 +494,26 @@ The most genuine K-pop station on the planet
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               10
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Combination
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td>        <!-- 第二首 歌名 -->            My Honey
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td>        <!-- 第二首 歌名 -->            My Honey
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td>        <!-- 第三首 歌名 -->            Love & Extasy
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td>        <!-- 第三首 歌名 -->            Love & Extasy
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 914700
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3049
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td>        <!-- 第四首 歌名 -->            For 3 Weeks
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td>        <!-- 第四首 歌名 -->            For 3 Weeks
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Sparrow_A-Jae 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 ---
@@ -404,26 +534,26 @@ Partying tonight? We got you covered
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               14
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            I've Fallen (Remaster)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第二首 歌名 -->            Stay (Remaster)
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第二首 歌名 -->            Stay (Remaster)
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第三首 歌名 -->            The Rhythm (Remaster)
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第三首 歌名 -->            The Rhythm (Remaster)
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1221000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4070
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第四首 歌名 -->            Look Out (Remaster)
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第四首 歌名 -->            Look Out (Remaster)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Aubergine Cookie
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "6K"
@@ -436,26 +566,26 @@ Partying tonight? We got you covered
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               14
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            I've Fallen (Remaster)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第二首 歌名 -->            Stay (Remaster)
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第二首 歌名 -->            Stay (Remaster)
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第三首 歌名 -->            The Rhythm (Remaster)
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第三首 歌名 -->            The Rhythm (Remaster)
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1360200
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4534
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第四首 歌名 -->            Look Out (Remaster)
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第四首 歌名 -->            Look Out (Remaster)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "8K"
@@ -468,26 +598,26 @@ Partying tonight? We got you covered
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               14
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            I've Fallen (Remaster)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第二首 歌名 -->            Stay (Remaster)
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第二首 歌名 -->            Stay (Remaster)
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第三首 歌名 -->            The Rhythm (Remaster)
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第三首 歌名 -->            The Rhythm (Remaster)
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1472100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4907
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第四首 歌名 -->            Look Out (Remaster)
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第四首 歌名 -->            Look Out (Remaster)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 ---
@@ -508,26 +638,26 @@ Retrospective Remix Channel
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               15
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            I Do Love You (Insida Club Remix)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第二首 歌名 -->            Anemia (Synth Pop Remix)
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第二首 歌名 -->            Anemia (Synth Pop Remix)
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第三首 歌名 -->            Back to Bed (Crimson Red Remix)
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第三首 歌名 -->            Back to Bed (Crimson Red Remix)
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1315800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4386
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第四首 歌名 -->            20000000000 (Hurt Bass Remix)
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第四首 歌名 -->            20000000000 (Hurt Bass Remix)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "6K"
@@ -540,26 +670,26 @@ Retrospective Remix Channel
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            I Do Love You (Insida Club Remix)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第二首 歌名 -->            Anemia (Synth Pop Remix)
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第二首 歌名 -->            Anemia (Synth Pop Remix)
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第三首 歌名 -->            Back to Bed (Crimson Red Remix)
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第三首 歌名 -->            Back to Bed (Crimson Red Remix)
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1555200
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5184
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第四首 歌名 -->            20000000000 (Hurt Bass Remix)
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第四首 歌名 -->            20000000000 (Hurt Bass Remix)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 
@@ -573,26 +703,26 @@ Retrospective Remix Channel
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            I Do Love You (Insida Club Remix)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第二首 歌名 -->            Anemia (Synth Pop Remix)
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第二首 歌名 -->            Anemia (Synth Pop Remix)
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第三首 歌名 -->            Back to Bed (Crimson Red Remix)
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第三首 歌名 -->            Back to Bed (Crimson Red Remix)
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1685100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5617
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第四首 歌名 -->            20000000000 (Hurt Bass Remix)
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第四首 歌名 -->            20000000000 (Hurt Bass Remix)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 ---
@@ -613,26 +743,26 @@ Underground spirit carries on
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            R.F.C.
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第二首 歌名 -->            Riff Guy
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第二首 歌名 -->            Riff Guy
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第三首 歌名 -->            Q Factor
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第三首 歌名 -->            Q Factor
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4753
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第四首 歌名 -->            Climax
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第四首 歌名 -->            Climax
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "8K"
@@ -645,26 +775,26 @@ Underground spirit carries on
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            R.F.C.
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第二首 歌名 -->            Riff Guy
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第二首 歌名 -->            Riff Guy
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第三首 歌名 -->            Q Factor
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第三首 歌名 -->            Q Factor
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6183
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第四首 歌名 -->            Climax
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第四首 歌名 -->            Climax
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
     
 ---
@@ -685,26 +815,26 @@ OVER STAGE from a memory
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Shout
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第二首 歌名 -->            Go!
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第二首 歌名 -->            Go!
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第三首 歌名 -->            Climax
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第三首 歌名 -->            Climax
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5763
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第四首 歌名 -->            R.F.C.
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第四首 歌名 -->            R.F.C.
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
     
 === "6K"
@@ -717,26 +847,26 @@ OVER STAGE from a memory
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Shout
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第二首 歌名 -->            Go!
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第二首 歌名 -->            Go!
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第三首 歌名 -->            Climax
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第三首 歌名 -->            Climax
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6561
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第四首 歌名 -->            R.F.C.
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第四首 歌名 -->            R.F.C.
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 ---
@@ -757,26 +887,26 @@ The forbidden answer , unleashed.
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            20000000000
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第二首 歌名 -->            Panic Strike
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第二首 歌名 -->            Panic Strike
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第三首 歌名 -->            Zeroize
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第三首 歌名 -->            Zeroize
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5347
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第四首 歌名 -->            Fire Storm
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第四首 歌名 -->            Fire Storm
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "5K"
@@ -789,26 +919,26 @@ The forbidden answer , unleashed.
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            20000000000
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第二首 歌名 -->            Panic Strike
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第二首 歌名 -->            Panic Strike
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第三首 歌名 -->            Zeroize
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第三首 歌名 -->            Zeroize
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6173
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第四首 歌名 -->            Fire Storm
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第四首 歌名 -->            Fire Storm
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
   
 === "6K"
@@ -821,26 +951,26 @@ The forbidden answer , unleashed.
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            20000000000
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第二首 歌名 -->            Panic Strike
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第二首 歌名 -->            Panic Strike
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第三首 歌名 -->            Zeroize
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第三首 歌名 -->            Zeroize
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6448
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第四首 歌名 -->            Fire Storm
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第四首 歌名 -->            Fire Storm
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
   
 === "8K"
@@ -853,26 +983,26 @@ The forbidden answer , unleashed.
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            20000000000
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第二首 歌名 -->            Panic Strike
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第二首 歌名 -->            Panic Strike
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第三首 歌名 -->            Zeroize
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第三首 歌名 -->            Zeroize
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6373
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第四首 歌名 -->            Fire Storm
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第四首 歌名 -->            Fire Storm
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
     
 ---
@@ -891,26 +1021,26 @@ The forbidden answer , unleashed.
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Minus 1 (Space Mix)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td>        <!-- 第二首 歌名 -->            Showdown
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td>        <!-- 第二首 歌名 -->            Showdown
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td>        <!-- 第三首 歌名 -->            R.F.C.
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td>        <!-- 第三首 歌名 -->            R.F.C.
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3736
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td>        <!-- 第四首 歌名 -->            Sand Storm
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td>        <!-- 第四首 歌名 -->            Sand Storm
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "5K"
@@ -923,26 +1053,26 @@ The forbidden answer , unleashed.
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Minus 1 (Space Mix)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td>        <!-- 第二首 歌名 -->            Showdown
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td>        <!-- 第二首 歌名 -->            Showdown
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td>        <!-- 第三首 歌名 -->            R.F.C.
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td>        <!-- 第三首 歌名 -->            R.F.C.
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4014
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td>        <!-- 第四首 歌名 -->            Sand Storm
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td>        <!-- 第四首 歌名 -->            Sand Storm
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "8K"
@@ -955,26 +1085,26 @@ The forbidden answer , unleashed.
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Minus 1 (Space Mix)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td>        <!-- 第二首 歌名 -->            Showdown
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td>        <!-- 第二首 歌名 -->            Showdown
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td>        <!-- 第三首 歌名 -->            R.F.C.
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td>        <!-- 第三首 歌名 -->            R.F.C.
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4505
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td>        <!-- 第四首 歌名 -->            Sand Storm
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td>        <!-- 第四首 歌名 -->            Sand Storm
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 ---
@@ -993,26 +1123,26 @@ Hearty spice mix with some extra kick
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            The Formula
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第二首 歌名 -->            INFINITY
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第二首 歌名 -->            INFINITY
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第三首 歌名 -->            GOODTEK
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第三首 歌名 -->            GOODTEK
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2004600
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6682
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第四首 歌名 -->            The Last Page
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第四首 歌名 -->            The Last Page
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 MIDGAP
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "5K"
@@ -1025,26 +1155,26 @@ Hearty spice mix with some extra kick
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            The Formula
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第二首 歌名 -->            INFINITY
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第二首 歌名 -->            INFINITY
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第三首 歌名 -->            GOODTEK
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第三首 歌名 -->            GOODTEK
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1900800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6336
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第四首 歌名 -->            The Last Page
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第四首 歌名 -->            The Last Page
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 MIDGAP
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
     
 === "6K"
@@ -1057,26 +1187,26 @@ Hearty spice mix with some extra kick
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            The Formula
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第二首 歌名 -->            INFINITY
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第二首 歌名 -->            INFINITY
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第三首 歌名 -->            GOODTEK
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第三首 歌名 -->            GOODTEK
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2259000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7530
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第四首 歌名 -->            The Last Page
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第四首 歌名 -->            The Last Page
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 MIDGAP
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>    
 
 ---
@@ -1097,26 +1227,26 @@ There is no stop sign
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               13
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Nonstop Remix 001
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第二首 歌名 -->            Nonstop Remix 002
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第二首 歌名 -->            Nonstop Remix 002
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第三首 歌名 -->            Nonstop Remix 003
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第三首 歌名 -->            Nonstop Remix 003
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 949800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3166
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第四首 歌名 -->            Nonstop Remix 004
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第四首 歌名 -->            Nonstop Remix 004
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Retro EZ2ON Crew
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>    
 
 === "5K"
@@ -1129,26 +1259,26 @@ There is no stop sign
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               15
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Nonstop Remix 001
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第二首 歌名 -->            Nonstop Remix 002
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第二首 歌名 -->            Nonstop Remix 002
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第三首 歌名 -->            Nonstop Remix 003
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第三首 歌名 -->            Nonstop Remix 003
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1185900
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3953
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第四首 歌名 -->            Nonstop Remix 004
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第四首 歌名 -->            Nonstop Remix 004
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Retro EZ2ON Crew
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "6K"
@@ -1161,26 +1291,26 @@ There is no stop sign
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               15
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Nonstop Remix 001
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第二首 歌名 -->            Nonstop Remix 002
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第二首 歌名 -->            Nonstop Remix 002
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第三首 歌名 -->            Nonstop Remix 003
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第三首 歌名 -->            Nonstop Remix 003
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1191600
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3972
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第四首 歌名 -->            Nonstop Remix 004
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第四首 歌名 -->            Nonstop Remix 004
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Retro EZ2ON Crew
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "8K"
@@ -1193,26 +1323,26 @@ There is no stop sign
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               16
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Nonstop Remix 001
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第二首 歌名 -->            Nonstop Remix 002
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第二首 歌名 -->            Nonstop Remix 002
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第三首 歌名 -->            Nonstop Remix 003
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第三首 歌名 -->            Nonstop Remix 003
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1278900
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4263
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第四首 歌名 -->            Nonstop Remix 004
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第四首 歌名 -->            Nonstop Remix 004
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Retro EZ2ON Crew
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 ---
@@ -1233,26 +1363,26 @@ The night that you will never forget
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               15
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Seize The Day
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第二首 歌名 -->            Give it 2 Me
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第二首 歌名 -->            Give it 2 Me
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第三首 歌名 -->            I've Fallen (Hot Dog Boogie Groove Mix)
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第三首 歌名 -->            I've Fallen (Hot Dog Boogie Groove Mix)
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1005000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3350
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第四首 歌名 -->            J.M.J (DFC Space Gear Re-formation)
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第四首 歌名 -->            J.M.J (DFC Space Gear Re-formation)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 ALTiTUNE
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "5K"
@@ -1265,26 +1395,26 @@ The night that you will never forget
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               15
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Seize The Day
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第二首 歌名 -->            Give it 2 Me
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第二首 歌名 -->            Give it 2 Me
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第三首 歌名 -->            I've Fallen (Hot Dog Boogie Groove Mix)
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第三首 歌名 -->            I've Fallen (Hot Dog Boogie Groove Mix)
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1087500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3625
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第四首 歌名 -->            J.M.J (DFC Space Gear Re-formation)
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第四首 歌名 -->            J.M.J (DFC Space Gear Re-formation)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 ALTiTUNE
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "6K"
@@ -1297,26 +1427,26 @@ The night that you will never forget
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               15
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Seize The Day
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第二首 歌名 -->            Give it 2 Me
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第二首 歌名 -->            Give it 2 Me
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第三首 歌名 -->            I've Fallen (Hot Dog Boogie Groove Mix)
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第三首 歌名 -->            I've Fallen (Hot Dog Boogie Groove Mix)
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1139100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3797
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第四首 歌名 -->            J.M.J (DFC Space Gear Re-formation)
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第四首 歌名 -->            J.M.J (DFC Space Gear Re-formation)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 ALTiTUNE
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "8K"
@@ -1329,26 +1459,26 @@ The night that you will never forget
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               15
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Seize The Day
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第二首 歌名 -->            Give it 2 Me
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第二首 歌名 -->            Give it 2 Me
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第三首 歌名 -->            I've Fallen (Hot Dog Boogie Groove Mix)
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第三首 歌名 -->            I've Fallen (Hot Dog Boogie Groove Mix)
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1172100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 3907
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第四首 歌名 -->            J.M.J (DFC Space Gear Re-formation)
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第四首 歌名 -->            J.M.J (DFC Space Gear Re-formation)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 ALTiTUNE
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 ---
@@ -1369,26 +1499,26 @@ The commander of class R
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Tempus Praeterita
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第二首 歌名 -->            Blood Castle (Remix)
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第二首 歌名 -->            Blood Castle (Remix)
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第三首 歌名 -->            Eraser Rain For GAIA
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第三首 歌名 -->            Eraser Rain For GAIA
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7000
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第四首 歌名 -->            Kamui (神威)
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第四首 歌名 -->            Kamui (神威)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 VNQS~4.cnv
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `CODENAME VIOLET`
+                                <!-- 所需 DLC -->               <span class="ez-CV">CODENAME VIOLET</span>
     </td></tr></table>
 
 === "5K"
@@ -1401,26 +1531,26 @@ The commander of class R
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Tempus Praeterita
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第二首 歌名 -->            Blood Castle (Remix)
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第二首 歌名 -->            Blood Castle (Remix)
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第三首 歌名 -->            Eraser Rain For GAIA
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第三首 歌名 -->            Eraser Rain For GAIA
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7664
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第四首 歌名 -->            Kamui (神威)
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第四首 歌名 -->            Kamui (神威)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 VNQS~5.cnv
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `CODENAME VIOLET`
+                                <!-- 所需 DLC -->               <span class="ez-CV">CODENAME VIOLET</span>
     </td></tr></table>
 
 === "6K"
@@ -1433,26 +1563,26 @@ The commander of class R
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Tempus Praeterita
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第二首 歌名 -->            Blood Castle (Remix)
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第二首 歌名 -->            Blood Castle (Remix)
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第三首 歌名 -->            Eraser Rain For GAIA
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第三首 歌名 -->            Eraser Rain For GAIA
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9027
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第四首 歌名 -->            Kamui (神威)
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第四首 歌名 -->            Kamui (神威)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 VNQS~6.cnv
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `CODENAME VIOLET`
+                                <!-- 所需 DLC -->               <span class="ez-CV">CODENAME VIOLET</span>
     </td></tr></table>
 
 === "8K"
@@ -1465,26 +1595,26 @@ The commander of class R
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Tempus Praeterita
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第二首 歌名 -->            Blood Castle (Remix)
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第二首 歌名 -->            Blood Castle (Remix)
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第三首 歌名 -->            Eraser Rain For GAIA
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第三首 歌名 -->            Eraser Rain For GAIA
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9239
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第四首 歌名 -->            Kamui (神威)
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第四首 歌名 -->            Kamui (神威)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 VNQS~8.cnv
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `CODENAME VIOLET`
+                                <!-- 所需 DLC -->               <span class="ez-CV">CODENAME VIOLET</span>
     </td></tr></table>
 
 ---
@@ -1505,26 +1635,26 @@ Bitter and Sweet
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            個人的なメモ (KENPO SAITO)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第二首 歌名 -->            TROMA
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第二首 歌名 -->            TROMA
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第三首 歌名 -->            Faker
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第三首 歌名 -->            Faker
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2024400
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6748
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第四首 歌名 -->            felys -final remix-
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第四首 歌名 -->            felys -final remix-
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 === "5K"
@@ -1537,26 +1667,26 @@ Bitter and Sweet
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            個人的なメモ (KENPO SAITO)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第二首 歌名 -->            TROMA
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第二首 歌名 -->            TROMA
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第三首 歌名 -->            Faker
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第三首 歌名 -->            Faker
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2133000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7110
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第四首 歌名 -->            felys -final remix-
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第四首 歌名 -->            felys -final remix-
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 === "6K"
@@ -1569,26 +1699,26 @@ Bitter and Sweet
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            個人的なメモ (KENPO SAITO)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第二首 歌名 -->            TROMA
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第二首 歌名 -->            TROMA
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第三首 歌名 -->            Faker
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第三首 歌名 -->            Faker
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2267700
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7559
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第四首 歌名 -->            felys -final remix-
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第四首 歌名 -->            felys -final remix-
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 === "8K"
@@ -1601,26 +1731,26 @@ Bitter and Sweet
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               18
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            個人的なメモ (KENPO SAITO)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第二首 歌名 -->            TROMA
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第二首 歌名 -->            TROMA
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第三首 歌名 -->            Faker
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第三首 歌名 -->            Faker
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2560200
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8534
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第四首 歌名 -->            felys -final remix-
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第四首 歌名 -->            felys -final remix-
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 ---
@@ -1641,26 +1771,26 @@ Wising on a better tomorrow
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               15
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Stella
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第二首 歌名 -->            Almost There
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第二首 歌名 -->            Almost There
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第三首 歌名 -->            Various Ways
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第三首 歌名 -->            Various Ways
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1712700
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5709
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第四首 歌名 -->            2038 (2022 Version)
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第四首 歌名 -->            2038 (2022 Version)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 === "5K"
@@ -1673,26 +1803,26 @@ Wising on a better tomorrow
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               16
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Stella
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第二首 歌名 -->            Almost There
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第二首 歌名 -->            Almost There
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第三首 歌名 -->            Various Ways
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第三首 歌名 -->            Various Ways
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2114100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7047
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第四首 歌名 -->            2038 (2022 Version)
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第四首 歌名 -->            2038 (2022 Version)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 === "6K"
@@ -1705,26 +1835,26 @@ Wising on a better tomorrow
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               16
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Stella
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第二首 歌名 -->            Almost There
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第二首 歌名 -->            Almost There
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第三首 歌名 -->            Various Ways
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第三首 歌名 -->            Various Ways
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2329800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7766
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第四首 歌名 -->            2038 (2022 Version)
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第四首 歌名 -->            2038 (2022 Version)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 === "8K"
@@ -1737,26 +1867,26 @@ Wising on a better tomorrow
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               16
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Stella
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第二首 歌名 -->            Almost There
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第二首 歌名 -->            Almost There
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第三首 歌名 -->            Various Ways
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第三首 歌名 -->            Various Ways
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2340900
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7803
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第四首 歌名 -->            2038 (2022 Version)
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第四首 歌名 -->            2038 (2022 Version)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 ---
@@ -1777,26 +1907,26 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               19
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            FiND A WAY
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第三首 歌名 -->            Start Me Up
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2665500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8885
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第四首 歌名 -->            ?
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 === "5K"
@@ -1809,26 +1939,26 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               20
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            FiND A WAY
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第三首 歌名 -->            Start Me Up
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3255900
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 10853
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第四首 歌名 -->            ?
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 === "6K"
@@ -1841,26 +1971,26 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               20
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            FiND A WAY
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第三首 歌名 -->            Start Me Up
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3648000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 12160
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第四首 歌名 -->            ?
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 === "8K"
@@ -1873,26 +2003,26 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               20
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            FiND A WAY
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第三首 歌名 -->            Start Me Up
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3673800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 12246
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第四首 歌名 -->            ?
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 !!! tip "提示"
@@ -1917,26 +2047,26 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               19
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            FiND A WAY
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第三首 歌名 -->            Start Me Up
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2665500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8885
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第四首 歌名 -->            ?
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 === "5K"
@@ -1949,26 +2079,26 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               20
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            FiND A WAY
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第三首 歌名 -->            Start Me Up
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3255900
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 10853
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第四首 歌名 -->            ?
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 === "6K"
@@ -1981,26 +2111,26 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               20
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            FiND A WAY
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第三首 歌名 -->            Start Me Up
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3648000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 12160
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第四首 歌名 -->            ?
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 === "8K"
@@ -2013,26 +2143,26 @@ EXTRA RAPID SERVICE
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               20
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            FiND A WAY
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第三首 歌名 -->            Start Me Up
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3673800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 12246
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第四首 歌名 -->            ?
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 !!! tip "提示"
@@ -2057,26 +2187,26 @@ Resolve the contradiction
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Black sour Ruby
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第二首 歌名 -->            Guardian
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第二首 歌名 -->            Guardian
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第三首 歌名 -->            Encounter on orbit
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第三首 歌名 -->            Encounter on orbit
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2331300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7771
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第四首 歌名 -->            Last Flight
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第四首 歌名 -->            Last Flight
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `TIME TRAVELER`
+                                <!-- 所需 DLC -->               <span class="ez-TT">TIME TRAVELER</span>
     </td></tr></table>
 
 === "5K"
@@ -2089,26 +2219,26 @@ Resolve the contradiction
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Black sour Ruby
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第二首 歌名 -->            Guardian
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第二首 歌名 -->            Guardian
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第三首 歌名 -->            Encounter on orbit
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第三首 歌名 -->            Encounter on orbit
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2683200
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8944
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第四首 歌名 -->            Last Flight
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第四首 歌名 -->            Last Flight
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 E2O Pattern Team
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `TIME TRAVELER`
+                                <!-- 所需 DLC -->               <span class="ez-TT">TIME TRAVELER</span>
     </td></tr></table>
 
 === "6K"
@@ -2121,26 +2251,26 @@ Resolve the contradiction
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Black sour Ruby
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第二首 歌名 -->            Guardian
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第二首 歌名 -->            Guardian
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第三首 歌名 -->            Encounter on orbit
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第三首 歌名 -->            Encounter on orbit
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2999700
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9999
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第四首 歌名 -->            Last Flight
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第四首 歌名 -->            Last Flight
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `TIME TRAVELER`
+                                <!-- 所需 DLC -->               <span class="ez-TT">TIME TRAVELER</span>
     </td></tr></table>
 
 === "8K"
@@ -2153,26 +2283,26 @@ Resolve the contradiction
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Black sour Ruby
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第二首 歌名 -->            Encounter on orbit
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第二首 歌名 -->            Encounter on orbit
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第三首 歌名 -->            Last Knot
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第三首 歌名 -->            Last Knot
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3398400
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 11328
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第四首 歌名 -->            Last Flight
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第四首 歌名 -->            Last Flight
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `TIME TRAVELER`
+                                <!-- 所需 DLC -->               <span class="ez-TT">TIME TRAVELER</span>
     </td></tr></table>
 
 ---
@@ -2193,26 +2323,26 @@ the cold snap season, enjoy the BIG 4, only stronger.
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            FUJIN Rumble
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第二首 歌名 -->            ouroboros -twin stroke of the end-
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第二首 歌名 -->            ouroboros -twin stroke of the end-
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第三首 歌名 -->            Omega Ax
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第三首 歌名 -->            Omega Ax
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2763300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9211
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第四首 歌名 -->            Per Aspera Ad Astra
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第四首 歌名 -->            Per Aspera Ad Astra
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `GROOVE COASTER`
+                                <!-- 所需 DLC -->               <span class="ez-GC">GROOVE COASTER</span>
     </td></tr></table>
 
 === "5K"
@@ -2225,26 +2355,26 @@ the cold snap season, enjoy the BIG 4, only stronger.
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            FUJIN Rumble
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第二首 歌名 -->            ouroboros -twin stroke of the end-
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第二首 歌名 -->            ouroboros -twin stroke of the end-
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第三首 歌名 -->            Omega Ax
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第三首 歌名 -->            Omega Ax
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3252300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 10841
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第四首 歌名 -->            Per Aspera Ad Astra
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第四首 歌名 -->            Per Aspera Ad Astra
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `GROOVE COASTER`
+                                <!-- 所需 DLC -->               <span class="ez-GC">GROOVE COASTER</span>
     </td></tr></table>
 
 === "6K"
@@ -2257,26 +2387,26 @@ the cold snap season, enjoy the BIG 4, only stronger.
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            FUJIN Rumble
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第二首 歌名 -->            ouroboros -twin stroke of the end-
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第二首 歌名 -->            ouroboros -twin stroke of the end-
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第三首 歌名 -->            Omega Ax
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第三首 歌名 -->            Omega Ax
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3585600
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 11952
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第四首 歌名 -->            Per Aspera Ad Astra
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第四首 歌名 -->            Per Aspera Ad Astra
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `GROOVE COASTER`
+                                <!-- 所需 DLC -->               <span class="ez-GC">GROOVE COASTER</span>
     </td></tr></table>
   
 === "8K"
@@ -2289,26 +2419,26 @@ the cold snap season, enjoy the BIG 4, only stronger.
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            FUJIN Rumble
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第二首 歌名 -->            ouroboros -twin stroke of the end-
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第二首 歌名 -->            ouroboros -twin stroke of the end-
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第三首 歌名 -->            Omega Ax
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第三首 歌名 -->            Omega Ax
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3692400
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 12308
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第四首 歌名 -->            Per Aspera Ad Astra
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第四首 歌名 -->            Per Aspera Ad Astra
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `GROOVE COASTER`
+                                <!-- 所需 DLC -->               <span class="ez-GC">GROOVE COASTER</span>
     </td></tr></table>  
 ---
 
@@ -2328,26 +2458,26 @@ Serpent of Destruction
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Dream Walker
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第三首 歌名 -->            Legend
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 ???????
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7578
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+                                <!-- 所需 DLC -->               <span class="ez-EC">ENDLESS CIRCULATION</span>
     </td></tr></table>
 
 === "5K"
@@ -2360,26 +2490,26 @@ Serpent of Destruction
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Dream Walker
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第三首 歌名 -->            Legend
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 ???????
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9017
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+                                <!-- 所需 DLC -->               <span class="ez-EC">ENDLESS CIRCULATION</span>
     </td></tr></table>
 
 === "6K"
@@ -2392,26 +2522,26 @@ Serpent of Destruction
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Dream Walker
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第三首 歌名 -->            Legend
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 ???????
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 10384
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+                                <!-- 所需 DLC -->               <span class="ez-EC">ENDLESS CIRCULATION</span>
     </td></tr></table>
 
 === "8K"
@@ -2424,26 +2554,26 @@ Serpent of Destruction
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Dream Walker
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第三首 歌名 -->            Legend
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 ???????
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9999
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope & YUKINARI! MELON 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+                                <!-- 所需 DLC -->               <span class="ez-EC">ENDLESS CIRCULATION</span>
     </td></tr></table>
 
 ---
@@ -2464,26 +2594,26 @@ Serpent of Destruction
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Dream Walker
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第三首 歌名 -->            Legend
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7578
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    4X
-        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+                                <!-- 所需 DLC -->               <span class="ez-EC">ENDLESS CIRCULATION</span>
     </td></tr></table>
 
 === "5K"
@@ -2496,26 +2626,26 @@ Serpent of Destruction
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Dream Walker
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第三首 歌名 -->            Legend
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9017
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    5X
-        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+                                <!-- 所需 DLC -->               <span class="ez-EC">ENDLESS CIRCULATION</span>
     </td></tr></table>
 
 === "6K"
@@ -2528,26 +2658,26 @@ Serpent of Destruction
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Dream Walker
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第三首 歌名 -->            Legend
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 10384
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    6X
-        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+                                <!-- 所需 DLC -->               <span class="ez-EC">ENDLESS CIRCULATION</span>
     </td></tr></table>
 
 === "8K"
@@ -2560,26 +2690,26 @@ Serpent of Destruction
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ∞
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Dream Walker
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第二首 歌名 -->            Starlight Factory
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第三首 歌名 -->            Legend
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第三首 歌名 -->            Legend
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9999
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-x">    8X
-        </code></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第四首 歌名 -->            A Site De La Rue
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope & YUKINARI! MELON 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `ENDLESS CIRCULATION`
+                                <!-- 所需 DLC -->               <span class="ez-EC">ENDLESS CIRCULATION</span>
     </td></tr></table>
 
 ---
@@ -2600,26 +2730,26 @@ The deserted planet waits
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Go Hell
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第二首 歌名 -->            Visual Dream !!
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td>        <!-- 第二首 歌名 -->            Visual Dream !!
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第三首 歌名 -->            Beautiful Day
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td>        <!-- 第三首 歌名 -->            Beautiful Day
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1881300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6271
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第四首 歌名 -->            Feel The O2JAM
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td>        <!-- 第四首 歌名 -->            Feel The O2JAM
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 O2Jam
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `O2JAM COLLAB`
+                                <!-- 所需 DLC -->               <span class="ez-O2">O2JAM COLLAB</span>
     </td></tr></table>
 
 !!! warning "注意"
@@ -2644,26 +2774,26 @@ A set of perceptual-cognitive traning exercises
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Move it on (DJ HD Mix)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第二首 歌名 -->            Cross Time !!
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td>        <!-- 第二首 歌名 -->            Cross Time !!
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第三首 歌名 -->            Identity part 2
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td>        <!-- 第三首 歌名 -->            Identity part 2
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 3135900
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 10453
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第四首 歌名 -->            End of Fight
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td>        <!-- 第四首 歌名 -->            End of Fight
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 O2Jam
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `O2JAM COLLAB`
+                                <!-- 所需 DLC -->               <span class="ez-O2">O2JAM COLLAB</span>
     </td></tr></table>
 
 !!! warning "注意"
@@ -2688,26 +2818,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               !?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            You love the life you live (Remix)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td>        <!-- 第二首 歌名 -->            Red Ocean
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td>        <!-- 第二首 歌名 -->            Red Ocean
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第三首 歌名 -->            Mystic Dream 9903 (Horror Mix)
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第三首 歌名 -->            Mystic Dream 9903 (Horror Mix)
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 2524
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第四首 歌名 -->            Be Mine
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第四首 歌名 -->            Be Mine
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 X-seq.TraX
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 ---
@@ -2728,26 +2858,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               15
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Wings of the Wind
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第二首 歌名 -->            Stellar
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第二首 歌名 -->            Stellar
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第三首 歌名 -->            Go Back
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第三首 歌名 -->            Go Back
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1890000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6300
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第四首 歌名 -->            Monochrome
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第四首 歌名 -->            Monochrome
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`、`O2JAM COLLAB`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span> <span class="ez-O2">O2JAM COLLAB</span>
     </td></tr></table>
 
 === "5K"
@@ -2762,26 +2892,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               20
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Sand Storm
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第二首 歌名 -->            ApolloN
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第二首 歌名 -->            ApolloN
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第三首 歌名 -->            Messier 333
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第三首 歌名 -->            Messier 333
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2331000
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7770
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第四首 歌名 -->            Lucid
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第四首 歌名 -->            Lucid
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Original by PatternGACHA 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `CODENAME VIOLET`
+                                <!-- 所需 DLC -->               <span class="ez-CV">CODENAME VIOLET</span>
     </td></tr></table>
 
 === "6K"
@@ -2796,26 +2926,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               13
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Kings
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td>        <!-- 第二首 歌名 -->            Unleashed Emotions
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td>        <!-- 第三首 歌名 -->            Diabolic Swing
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td>        <!-- 第三首 歌名 -->            Diabolic Swing
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1887600
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6292
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td>        <!-- 第四首 歌名 -->            Good Bye
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td>        <!-- 第四首 歌名 -->            Good Bye
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Cozy Haus 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`、`DJMAX`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span> <span class="ez-NW">DJMAX</span>
     </td></tr></table>
     
 === "8K"
@@ -2830,26 +2960,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               19
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            R.F.C
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第二首 歌名 -->            Soul Destructor
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第二首 歌名 -->            Soul Destructor
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第三首 歌名 -->            Lucid
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第三首 歌名 -->            Lucid
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2718600
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9062
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第四首 歌名 -->            ROD7 -Regions Of Desolation-
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第四首 歌名 -->            ROD7 -Regions Of Desolation-
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Forbidden Chateau 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 === "SP"
@@ -2864,26 +2994,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    7S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    7S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Kings
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    7S
-        </code></td><td>        <!-- 第二首 歌名 -->            LIGHTYEAR
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    7S
+        </span></td><td>        <!-- 第二首 歌名 -->            LIGHTYEAR
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    7S
-        </code></td><td>        <!-- 第三首 歌名 -->            ROD7 -Regions Of Desolation-
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    7S
+        </span></td><td>        <!-- 第三首 歌名 -->            ROD7 -Regions Of Desolation-
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2828100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9427
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    7S
-        </code></td><td>        <!-- 第四首 歌名 -->            picking
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    7S
+        </span></td><td>        <!-- 第四首 歌名 -->            picking
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 !!! warning "注意"
@@ -2908,26 +3038,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               18
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            kthnox
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第二首 歌名 -->            Glacial Alice
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第二首 歌名 -->            Glacial Alice
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第三首 歌名 -->            Round 3
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第三首 歌名 -->            Round 3
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2350500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 7835
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第四首 歌名 -->            End Of Fight
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第四首 歌名 -->            End Of Fight
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & Jackalope 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`、`O2JAM COLLAB`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span> <span class="ez-O2">O2JAM COLLAB</span>
     </td></tr></table>
 
 === "5K"
@@ -2942,26 +3072,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               20
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Welcome To Skull's Hell (yusi. Remix)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第二首 歌名 -->            Unison System
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第二首 歌名 -->            Unison System
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第三首 歌名 -->            Panzer Schock (Culture Shock - ATAS Remix)
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第三首 歌名 -->            Panzer Schock (Culture Shock - ATAS Remix)
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2875500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9585
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第四首 歌名 -->            Black Dragon
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第四首 歌名 -->            Black Dragon
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `O2JAM COLLAB`、`FORTRESS`
+                                <!-- 所需 DLC -->               <span class="ez-O2">O2JAM COLLAB</span> <span class="ez-FT">FORTRESS</span>
     </td></tr></table>
     
 === "6K"
@@ -2976,26 +3106,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               20
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Miyang Fortress -VIA GUPO REMIX-
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第二首 歌名 -->            End Of Fight
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第二首 歌名 -->            End Of Fight
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第三首 歌名 -->            Fortress 2 Blue GM05 (NieN Metal Remix)
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第三首 歌名 -->            Fortress 2 Blue GM05 (NieN Metal Remix)
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 4084800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 13616
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第四首 歌名 -->            Identity part 2
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第四首 歌名 -->            Identity part 2
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `O2JAM COLLAB`、`FORTRESS`
+                                <!-- 所需 DLC -->               <span class="ez-O2">O2JAM COLLAB</span> <span class="ez-FT">FORTRESS</span>
     </td></tr></table>    
 
 === "8K"
@@ -3010,26 +3140,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               18
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Absolute Death
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第二首 歌名 -->            METATRON
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第二首 歌名 -->            METATRON
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第三首 歌名 -->            Unison System
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第三首 歌名 -->            Unison System
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 263820
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8794
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第四首 歌名 -->            TRPNO
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第四首 歌名 -->            TRPNO
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK & Quinta
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`、`O2JAM COLLAB`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span> <span class="ez-O2">O2JAM COLLAB</span>
     </td></tr></table>    
 
 === "SP"
@@ -3044,26 +3174,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               !?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Blood Castle (Remix)
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第二首 歌名 -->            Iron Cloud
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第二首 歌名 -->            Iron Cloud
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第三首 歌名 -->            個人的なメモ (KENPO SAITO)
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第三首 歌名 -->            個人的なメモ (KENPO SAITO)
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 /
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5220
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td>        <!-- 第四首 歌名 -->            Digital Labyrinth
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td>        <!-- 第四首 歌名 -->            Digital Labyrinth
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `CODENAME VIOLET`、`PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-CV">CODENAME VIOLET</span> <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>    
 
 ---
@@ -3084,26 +3214,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            The World is One's Oyster
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第二首 歌名 -->            The Prince of Darkness
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第二首 歌名 -->            The Prince of Darkness
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第三首 歌名 -->            Diabolic Swing
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第三首 歌名 -->            Diabolic Swing
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1903800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6346
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第四首 歌名 -->            Le Grand Bleu
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第四首 歌名 -->            Le Grand Bleu
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & Jackalope 
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `CODENAME VIOLET`、`PRESTIGE PASS`
+                                <!-- 所需 DLC -->               <span class="ez-CV">CODENAME VIOLET</span> <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
 
 
@@ -3119,26 +3249,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               18
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Dreamy Flight
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第二首 歌名 -->            comet
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第二首 歌名 -->            comet
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第三首 歌名 -->            Start Me Up
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第三首 歌名 -->            Start Me Up
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2604300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8681
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第四首 歌名 -->            Wings on my Back
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第四首 歌名 -->            Wings on my Back
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope & Aubergine Cookie
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`、`ENDLESS CIRCULATION`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span> <span class="ez-EC">ENDLESS CIRCULATION</span>
     </td></tr></table>
 
 === "6K"
@@ -3153,26 +3283,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               19
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            BEATRICE
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第二首 歌名 -->            INSTANT Vampire†StartKit™
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第二首 歌名 -->            INSTANT Vampire†StartKit™
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第三首 歌名 -->            FiND A WAY
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第三首 歌名 -->            FiND A WAY
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2893800
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9646
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第四首 歌名 -->            ApolloN
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第四首 歌名 -->            ApolloN
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `CODENAME VIOLET`、`PRESTIGE PASS`、`ENDLESS CIRCULATION`
+                                <!-- 所需 DLC -->               <span class="ez-CV">CODENAME VIOLET</span> <span class="ez-PP">PRESTIGE PASS</span> <span class="ez-EC">ENDLESS CIRCULATION</span>
     </td></tr></table>
 
 === "8K"
@@ -3187,26 +3317,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               18
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Enter the Beginning
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第二首 歌名 -->            CLear After Rain
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第二首 歌名 -->            Clear After Rain
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第三首 歌名 -->            LIGHTYEAR
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第三首 歌名 -->            LIGHTYEAR
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2772600
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9242
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第四首 歌名 -->            Almost There
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第四首 歌名 -->            Almost There
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`、`ENDLESS CIRCULATION`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span>
     </td></tr></table>
     
 === "SP"
@@ -3221,26 +3351,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    7S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    7S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Y-Gate
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    7S
-        </code></td><td>        <!-- 第二首 歌名 -->            Minus 2
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    7S
+        </span></td><td>        <!-- 第二首 歌名 -->            Minus 2
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    7S
-        </code></td><td>        <!-- 第三首 歌名 -->            Sand Storm
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    7S
+        </span></td><td>        <!-- 第三首 歌名 -->            Sand Storm
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1635300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5451
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    7S
-        </code></td><td>        <!-- 第四首 歌名 -->            R.F.C.
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    7S
+        </span></td><td>        <!-- 第四首 歌名 -->            R.F.C.
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 EZ2ON Pattern Team
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 !!! warning "注意"
@@ -3265,26 +3395,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               16
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Ask to Wind
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第二首 歌名 -->            Clear After Rain
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第二首 歌名 -->            Clear After Rain
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第三首 歌名 -->            WE ALIVE
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第三首 歌名 -->            WE ALIVE
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1623600
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5412
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    4S
-        </code></td><td>        <!-- 第四首 歌名 -->            sweet★star
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第四首 歌名 -->            sweet★star
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `TIME TRAVELER`、`DJMAX`
+                                <!-- 所需 DLC -->               <span class="ez-TT">TIME TRAVELER</span> <span class="ez-NW">DJMAX</span>
     </td></tr></table>
 
 
@@ -3300,26 +3430,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               16
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Do You Know?
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第二首 歌名 -->            Go Back
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第二首 歌名 -->            Go Back
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第三首 歌名 -->            Belong To You
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第三首 歌名 -->            Belong To You
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2196300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8681
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    5S
-        </code></td><td>        <!-- 第四首 歌名 -->            Bride In Dream
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第四首 歌名 -->            Bride In Dream
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `PRESTIGE PASS`、`O2JAM COLLAB`
+                                <!-- 所需 DLC -->               <span class="ez-PP">PRESTIGE PASS</span> <span class="ez-O2">O2JAM COLLAB</span>
     </td></tr></table>
 
 === "6K"
@@ -3334,26 +3464,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Doll's Garden
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第二首 歌名 -->            Tank Slayer (DoubleTO Remix)
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第二首 歌名 -->            Tank Slayer (DoubleTO Remix)
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第三首 歌名 -->            Glimmering
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第三首 歌名 -->            Glimmering
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2467500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 9646
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    6S
-        </code></td><td>        <!-- 第四首 歌名 -->            Nobody Face Love
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第四首 歌名 -->            Nobody Face Love
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `CODENAME VIOLET`、`PRESTIGE PASS`、`FORTRESS`
+                                <!-- 所需 DLC -->               <span class="ez-CV">CODENAME VIOLET</span> <span class="ez-FT">FORTRESS</span>
     </td></tr></table>
 
 === "8K"
@@ -3368,26 +3498,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               17
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Over the Rainbow
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第二首 歌名 -->            WE ALIVE
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第二首 歌名 -->            WE ALIVE
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第三首 歌名 -->            Life Is So Beautiful (Nauts Ver.)
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第三首 歌名 -->            Life Is So Beautiful (Nauts Ver.)
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 2599200
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 8664
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    8S
-        </code></td><td>        <!-- 第四首 歌名 -->            Raise me up
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第四首 歌名 -->            Raise me up
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               `FORTRESS`、`DJMAX`
+                                <!-- 所需 DLC -->               <span class="ez-FT">FORTRESS</span> <span class="ez-NW">DJMAX</span>
     </td></tr></table>
     
 === "SP"
@@ -3402,26 +3532,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-s">    7S
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    7S
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            J.M.J
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-s">    7S
-        </code></td><td>        <!-- 第二首 歌名 -->            Judgement
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    7S
+        </span></td><td>        <!-- 第二首 歌名 -->            Judgement
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-s">    7S
-        </code></td><td>        <!-- 第三首 歌名 -->            Aquaris
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    7S
+        </span></td><td>        <!-- 第三首 歌名 -->            Aquaris
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1406100
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4687
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-s">    7S
-        </code></td><td>        <!-- 第四首 歌名 -->            Lovely Day (Remaster)
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    7S
+        </span></td><td>        <!-- 第四首 歌名 -->            Lovely Day (Remaster)
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 !!! warning "注意"
@@ -3444,26 +3574,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               16
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Night Madness
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td>        <!-- 第二首 歌名 -->            T-eMotion
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td>        <!-- 第二首 歌名 -->            T-eMotion
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1350300
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4501
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    4B
-        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    4B
+        </span></td><td>        <!-- 第四首 歌名 -->            ?
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 
@@ -3479,26 +3609,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               16
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Night Madness
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td>        <!-- 第二首 歌名 -->            T-eMotion
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td>        <!-- 第二首 歌名 -->            T-eMotion
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1555500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5185
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    5B
-        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    5B
+        </span></td><td>        <!-- 第四首 歌名 -->            ?
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 Jackalope
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "6K"
@@ -3513,26 +3643,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               16
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Night Madness
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td>        <!-- 第二首 歌名 -->            T-eMotion
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td>        <!-- 第二首 歌名 -->            T-eMotion
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1783200
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 5944
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    6B
-        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    6B
+        </span></td><td>        <!-- 第四首 歌名 -->            ?
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 CLOCKWORK & YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 === "8K"
@@ -3547,26 +3677,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               16
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Night Madness
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td>        <!-- 第二首 歌名 -->            T-eMotion
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td>        <!-- 第二首 歌名 -->            T-eMotion
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1870500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 6235
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    8B
-        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    8B
+        </span></td><td>        <!-- 第四首 歌名 -->            ?
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
     
 === "SP"
@@ -3581,26 +3711,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Night Madness
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第二首 歌名 -->            T-eMotion
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td>        <!-- 第二首 歌名 -->            T-eMotion
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 1495500
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 4985
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td>        <!-- 第四首 歌名 -->            ?
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 !!! warning "注意"
@@ -3627,26 +3757,26 @@ The hand is quicker than the eye
         </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
                                 <!-- 组曲等级 -->               ?
         </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第一首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td class="ez-course-songname-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td class="ez-course-songname-td">
                                 <!-- 第一首 歌名 -->            Night Madness
         </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第二首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第二首 歌名 -->            T-eMotion
+        <!-- 第二首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td>        <!-- 第二首 歌名 -->            T-eMotion
         </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第三首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
+        <!-- 第三首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td>        <!-- 第三首 歌名 -->            The First Movement of Moonlight
         </td></tr><tr><td width="90">**总得分**</td><td width="100">
                                 <!-- 总得分 -->                 433550
         </td><td>**总物量**</td><td>
                                 <!-- 总物量 -->                 1445
         </td><td>4th STAGE</td><td class="ez-course-song-title-td">
-        <!-- 第四首 模式 --><code class="ez-course-judge-b">    7B
-        </code></td><td>        <!-- 第四首 歌名 -->            ?
+        <!-- 第四首 模式 --><span class="ez-course-judge-b">    7B
+        </span></td><td>        <!-- 第四首 歌名 -->            ?
         </td></tr><tr><td>**谱师**</td><td colspan = "6">
                                 <!-- 谱师名 -->                 YUKINARI! MELON & CLOCKWORK
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
-                                <!-- 所需 DLC -->               /
+                                <!-- 所需 DLC -->               <span class="ez-2021">EZ2ON REBOOT : R</span>
     </td></tr></table>
 
 !!! warning "注意"

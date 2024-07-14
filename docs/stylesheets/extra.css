@@ -3,8 +3,8 @@
     --md-default-fg-color--light: #282e3e;
     --md-default-fg-color: #282e3e;
     --md-typeset-kbd-color: #eeeeee;
-    --md-text-font: "Microsoft Yahei UI", "Noto Sans Simplified Chinese";
-    --md-code-font: "Microsoft Yahei UI","Roboto Mono";
+    --md-text-font: "Noto Sans Simplified Chinese";
+    --md-code-font: "Roboto Mono";
     --md-typeset-table-color--light: rgba(0, 0, 0, 0);
 }
 
@@ -39,7 +39,7 @@
 .md-typeset code {
     background-color: #e4e4e4;
     font-weight: 600;
-    font-family: "Microsoft Yahei UI", "Noto Sans Simplified Chinese";
+    font-family: "Noto Sans Simplified Chinese";
     padding-top: 2px;
     padding-right: 5px;
     padding-bottom: 2px;
