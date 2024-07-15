@@ -129,6 +129,7 @@
     background-image:linear-gradient(to bottom, #91F0E1, #91F0E1);
     font-size:1em !important;
     font-weight: 800 !important;
+    letter-spacing: -0.1em;
     width: 15em;
 }
 
