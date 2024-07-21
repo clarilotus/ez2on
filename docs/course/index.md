@@ -24,6 +24,10 @@
 .ez-course-song-title-td{
     width: 4em !important; 
     text-align: center !important;
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
 }
 
 .ez-course-stage-td{
@@ -32,20 +36,23 @@
 
 .ez-course-judge-b{
     color:#00b88d !important;
-    font-size:1.2em !important;
+    font-size:1.1em !important;
     font-weight: 600 !important;
+    vertical-align: middle !important;
 }
 
 .ez-course-judge-s{
     color:#02a4cc !important;
     font-size:1.2em !important;
     font-weight: 600 !important;
+    vertical-align: middle !important;
 }
 
 .ez-course-judge-x{
     color:#b1001d !important;
     font-size:1.2em !important;
     font-weight: 600 !important;
+    vertical-align: middle !important;
 }
 
 .ez-course-songname-td{
@@ -61,7 +68,7 @@
     background-image:linear-gradient(to bottom, #00E4FF, #00E4FF);
     font-size:1em !important;
     font-weight: 800 !important;
-    width: 12em;
+    width: 14em;
 }
 
 .ez-TT {
@@ -74,7 +81,7 @@
     background-image:linear-gradient(to bottom, #37ED88, #37ED88);
     font-size:1em !important;
     font-weight: 800 !important;
-    width: 12em;
+    width: 14em;
 }
 
 .ez-CV {
@@ -85,7 +92,7 @@
     background-image:linear-gradient(to bottom, #f666fd, #cb44ec, #b834e4);
     font-size:1em !important;
     font-weight: 800 !important;
-    width: 12em;
+    width: 14em;
 }
 
 .ez-PP {
@@ -96,7 +103,7 @@
     background-image:linear-gradient(to bottom, #8787ff, #6565ec);
     font-size:1em !important;
     font-weight: 800 !important;
-    width: 12em;
+    width: 14em;
 }
 
 .ez-O2 {
@@ -107,7 +114,7 @@
     background-image:linear-gradient(to bottom, #14FEDB, #9CFE6B, #FDFD1A,#FED815,#FEBB11,#E58220,#B25563,#893F9D);
     font-size:1em !important;
     font-weight: 800 !important;
-    width: 12em;
+    width: 14em;
 }
 
 .ez-GC {
@@ -118,7 +125,7 @@
     background-image:linear-gradient(to bottom, #FF9EBE, #FF7896);
     font-size:1em !important;
     font-weight: 800 !important;
-    width: 12em;
+    width: 14em;
 }
 
 .ez-EC {
@@ -129,8 +136,8 @@
     background-image:linear-gradient(to bottom, #91F0E1, #91F0E1);
     font-size:1em !important;
     font-weight: 800 !important;
-    letter-spacing: -0.12em;
-    width: 12em;
+    /* letter-spacing: -0.06em; */
+    width: 14em;
 }
 
 .ez-FT {
@@ -141,7 +148,7 @@
     background-image:linear-gradient(to bottom, #FF6E43, #F9AF17);
     font-size:1em !important;
     font-weight: 800 !important;
-    width: 12em;
+    width: 14em;
 }
 
 .ez-NW {
@@ -152,7 +159,7 @@
     background-image:linear-gradient(to bottom, #FEE600, #FEE600);
     font-size:1em !important;
     font-weight: 800 !important;
-    width: 12em;
+    width: 14em;
 }
 
 .ez-TC {
@@ -163,7 +170,7 @@
     background-image:linear-gradient(to bottom, #000000, #760000, #F50000);
     font-size:1em !important;
     font-weight: 800 !important;
-    width: 12em;
+    width: 14em;
 }
 
 .ez-EV {
@@ -174,7 +181,7 @@
     background-image:linear-gradient(to bottom, #21525A, #272727, #800F2E);
     font-size:1em !important;
     font-weight: 800 !important;
-    width: 12em;
+    width: 14em;
 }
 
 </style>
@@ -2712,6 +2719,286 @@ Serpent of Destruction
         </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
                                 <!-- 所需 DLC -->               <span class="ez-EC">ENDLESS CIRCULATION</span>
     </td></tr></table>
+
+---
+
+## LEVEL : ALPHA
+
+Find the origin of incidents that have already occurred
+
+> EVOLVE 入门级 BOSS 试炼，主题为 Dubstep 与 Long Note。
+
+=== "4K"
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Alpha](./assets/disc/alpha-nm.webp){ width="100%" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               17
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Hallucination
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第二首 歌名 -->            Immortal
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第三首 歌名 -->            Old Heaven
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
+                                <!-- 总得分 -->                 2192400
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 7308
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    4S
+        </span></td><td>        <!-- 第四首 歌名 -->            Rebel Against
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
+                                <!-- 谱师名 -->                 Jackalope
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
+                                <!-- 所需 DLC -->               <span class="ez-EV">EVOLVE</span>
+    </td></tr></table>
+
+=== "5K"
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Alpha](./assets/disc/alpha-nm.webp){ width="100%" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               18
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Hallucination
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第二首 歌名 -->            Immortal
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第三首 歌名 -->            Old Heaven
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
+                                <!-- 总得分 -->                 2552700
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 8509
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    5S
+        </span></td><td>        <!-- 第四首 歌名 -->            Rebel Against
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
+                                <!-- 谱师名 -->                 CLOCKWORK & YUKINARI! MELON
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
+                                <!-- 所需 DLC -->               <span class="ez-EV">EVOLVE</span>
+    </td></tr></table>
+
+=== "6K"
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Alpha](./assets/disc/alpha-nm.webp){ width="100%" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               18
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Hallucination
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第二首 歌名 -->            Immortal
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第三首 歌名 -->            Old Heaven
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
+                                <!-- 总得分 -->                 2684400
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 8948
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    6S
+        </span></td><td>        <!-- 第四首 歌名 -->            Rebel Against
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
+                                <!-- 谱师名 -->                 Jackalope & CLOCKWORK
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
+                                <!-- 所需 DLC -->               <span class="ez-EV">EVOLVE</span>
+    </td></tr></table>
+
+=== "8K"
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Alpha](./assets/disc/alpha-nm.webp){ width="100%" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               18
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Hallucination
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第二首 歌名 -->            Immortal
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第三首 歌名 -->            Old Heaven
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
+                                <!-- 总得分 -->                 3095100
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 10317
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><span class="ez-course-judge-s">    8S
+        </span></td><td>        <!-- 第四首 歌名 -->            Rebel Against
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
+                                <!-- 谱师名 -->                 YUKINARI! MELON
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
+                                <!-- 所需 DLC -->               <span class="ez-EV">EVOLVE</span>
+    </td></tr></table>
+
+!!! warning "注意"
+
+    在该组曲中，出现 COOL 和 GOOD 判定也会适当扣能量槽，其中每一个 COOL 扣除 0.3%，每一个 GOOD 扣除约 1%。
+
+---
+
+## LEVEL : ALPHA [HD]
+
+Find the origin of incidents that have already occurred
+
+> EVOLVE 入门级 BOSS 试炼，主题为 Dubstep 与 Long Note，判定改为 X 判，谱面更难。
+
+=== "4K"
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Alpha](./assets/disc/alpha-nm.webp){ width="100%" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ?
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Hallucination
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第二首 歌名 -->            Immortal
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第三首 歌名 -->            Old Heaven
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
+                                <!-- 总得分 -->                 2300100
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 7667
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    4X
+        </span></td><td>        <!-- 第四首 歌名 -->            Rebel Against
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
+                                <!-- 谱师名 -->                 Jackalope
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
+                                <!-- 所需 DLC -->               <span class="ez-EV">EVOLVE</span>
+    </td></tr></table>
+
+=== "5K"
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Alpha](./assets/disc/alpha-nm.webp){ width="100%" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ?
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Hallucination
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第二首 歌名 -->            Immortal
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第三首 歌名 -->            Old Heaven
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
+                                <!-- 总得分 -->                 2742600
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 9142
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    5X
+        </span></td><td>        <!-- 第四首 歌名 -->            Rebel Against
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
+                                <!-- 谱师名 -->                 CLOCKWORK & YUKINARI! MELON
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
+                                <!-- 所需 DLC -->               <span class="ez-EV">EVOLVE</span>
+    </td></tr></table>
+
+=== "6K"
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Alpha](./assets/disc/alpha-nm.webp){ width="100%" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ?
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Hallucination
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第二首 歌名 -->            Immortal
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第三首 歌名 -->            Old Heaven
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
+                                <!-- 总得分 -->                 2874600
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 9582
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    6X
+        </span></td><td>        <!-- 第四首 歌名 -->            Rebel Against
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
+                                <!-- 谱师名 -->                 Jackalope & CLOCKWORK
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
+                                <!-- 所需 DLC -->               <span class="ez-EV">EVOLVE</span>
+    </td></tr></table>
+
+=== "8K"
+
+    <table style="display: inline-block; vertical-align: middle; width:900px"><tr>
+        <td colspan = "2" rowspan="4">
+                                <!-- 封面图 -->                 ![Alpha](./assets/disc/alpha-nm.webp){ width="100%" }
+        </td><td colspan = "2" width="160" display="inline-block">**等级**</td><td colspan = "3" class="ez2-course-levellable-tr">
+                                <!-- 是否有AC挑战 -->           
+        </td></tr><tr><td minwidth="160" colspan = "2" rowspan="3" class="ez2-course-levelnum-tr">
+                                <!-- 组曲等级 -->               ?
+        </td><td class="ez-course-stage-td">1st STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第一首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td class="ez-course-songname-td">
+                                <!-- 第一首 歌名 -->            Hallucination
+        </td></tr><tr><td>2nd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第二首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第二首 歌名 -->            Immortal
+        </td></tr><tr><td>3rd STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第三首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第三首 歌名 -->            Old Heaven
+        </td></tr><tr><td width="90">**总得分**</td><td width="100">
+                                <!-- 总得分 -->                 3278400
+        </td><td>**总物量**</td><td>
+                                <!-- 总物量 -->                 10928
+        </td><td>4th STAGE</td><td class="ez-course-song-title-td">
+        <!-- 第四首 模式 --><span class="ez-course-judge-x">    8X
+        </span></td><td>        <!-- 第四首 歌名 -->            Rebel Against
+        </td></tr><tr><td>**谱师**</td><td colspan = "6">
+                                <!-- 谱师名 -->                 YUKINARI! MELON
+        </td></tr><tr><td>**所需 DLC**</td><td colspan = "6">
+                                <!-- 所需 DLC -->               <span class="ez-EV">EVOLVE</span>
+    </td></tr></table>
+
+!!! warning "注意"
+
+    对比普通版，该 [HD] 版谱面会相对更难，判定改为 X 判，且同样出现 COOL 和 GOOD 判定也会适当扣能量槽。
 
 ---
 
