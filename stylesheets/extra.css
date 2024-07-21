@@ -1,0 +1,197 @@
+:root,
+[data-md-color-scheme=default] {
+    --md-default-fg-color--light: #282e3e;
+    --md-default-fg-color: #282e3e;
+    --md-typeset-kbd-color: #eeeeee;
+    --md-text-font: "Noto Sans Simplified Chinese";
+    --md-code-font: "Roboto Mono";
+    --md-typeset-table-color--light: rgba(0, 0, 0, 0);
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3 {
+    font-weight: 600;
+    color: #282e3e;
+    /* letter-spacing: -.01em; */
+}
+
+
+[data-md-color-primary=white] {
+    --md-primary-bg-color: #282e3e;
+    --md-typeset-a-color: #0d1369;
+}
+
+.md-typeset a {
+    color: #002974;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:focus,
+.md-tabs__link:hover {
+    font-weight: 600;
+}
+
+[data-md-color-primary=white] .md-search__input+.md-search__icon {
+    color: #282e3e;
+}
+
+.md-typeset code {
+    background-color: #e4e4e4;
+    font-weight: 600;
+    font-family: "Noto Sans Simplified Chinese";
+    padding-top: 2px;
+    padding-right: 5px;
+    padding-bottom: 2px;
+    padding-left: 5px;
+}
+
+
+/* .md-grid {
+    max-width: 70rem;
+} */
+
+@media (max-width: 1919px) and (min-width: 768px) {
+    img {
+        zoom: 80%;
+    }
+
+    @-ms-viewport {
+        width: 1920px;
+    }
+}
+
+.md-typeset table:not([class]) th {
+    font-weight: 700;
+    min-width: 3rem;
+    padding-top: 0.9375em;
+    padding-right: 1.0em;
+    padding-bottom: 0.9375em;
+    padding-left: 1.0em;
+    vertical-align: middle;
+}
+
+.md-typeset table:not([class]) td {
+    border-top: .05rem solid var(--md-typeset-table-color);
+    padding-top: 0.9375em;
+    padding-right: 1.0em;
+    padding-bottom: 0.9375em;
+    padding-left: 1.0em;
+    vertical-align: middle;
+}
+
+td,
+th {
+    font-size: 10pt;
+    vertical-align: middle;
+    /* height: 40pt; */
+}
+
+.md-typeset img,
+.md-typeset svg,
+.md-typeset video {
+    vertical-align: middle;
+}
+
+/* .md-header__button.md-logo {
+    display: none;
+} */
+
+[dir=ltr] .md-header__title {
+    margin-left: 0.5rem;
+}
+
+/* @media screen and (max-width: 76.1875em)
+[dir=ltr] .md-sidebar--primary {
+    left: -12.1rem;
+} */
+
+@media screen and (max-width: 76.1875em) {
+    .md-sidebar--primary {
+        width: 16rem;
+    }
+
+    [dir=ltr] .md-sidebar--primary {
+        left: -16rem;
+    }
+
+    [data-md-toggle=drawer]:checked~.md-container .md-sidebar--primary {
+        box-shadow: var(--md-shadow-z3);
+        transform: translateX(16rem);
+    }
+
+    /* .md-nav--primary .md-nav__title {
+        height: 3.6rem;
+        padding-top: 0.4rem;
+        padding-right: 0.8rem;
+        padding-bottom: 0.2rem;
+        padding-left: 0.8rem;
+    } */
+}
+
+@media screen and (min-width: 78em) {
+    .md-sidebar {
+        width: 14rem;
+    }
+}
+
+@supports selector(::-webkit-scrollbar) {
+    [dir=ltr] .md-sidebar__inner {
+        padding-right: calc(100% - 18rem);
+    }
+}
+
+
+.md-typeset .admonition, .md-typeset details {
+    font-size: 0.7rem;
+}
+
+.md-typeset .grid {
+    grid-gap: .4rem;
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(16rem,1fr));
+    margin: 1em 0;
+}
+
+.md-typeset .grid.cards>ol, .md-typeset .grid.cards>ul {
+    display: contents;
+}
+
+.md-typeset .grid.cards>ol>li, .md-typeset .grid.cards>ul>li, .md-typeset .grid>.card {
+    border: .05rem solid var(--md-default-fg-color--lightest);
+    border-radius: .1rem;
+    display: block;
+    margin: 0;
+    padding: .8rem;
+    transition: border .25s,box-shadow .25s
+}
+
+
+.md-header__button.md-logo img, .md-header__button.md-logo svg {
+    fill: currentcolor;
+    display: block;
+    height: 2.2rem;
+    width: auto;
+}
+
+.md-nav nav {
+    padding-bottom: 20px;
+}
+
+.md-nav__item{
+    /* font-size: larger; */
+    font-family: 'Microsoft Yahei UI';
+    font-weight: 520;
+}
+
+.md-typeset table:not([class]) td {
+    border-left: 1px solid var(--md-typeset-table-color);
+    border-top: 1px solid var(--md-typeset-table-color);
+}
+
+.md-typeset table:not([class]){
+    border-left: 0px solid var(--md-typeset-table-color);
+    border-top: 0px solid var(--md-typeset-table-color);
+    border-right:  1px solid var(--md-typeset-table-color);
+    border-bottom:  1px solid var(--md-typeset-table-color);
+}
