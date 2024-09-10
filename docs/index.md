@@ -67,7 +67,7 @@ features:
 		EZ2ON REBOOT : R 中文 Wiki
 	</h1>
 	<div class="description" style="max-width: 45rem;line-height: 1.3;color: #949494;text-align: center;margin:auto">
-		为国内 EZ2ON (Steam 版) 玩家提供游戏的购买指南、歌曲、详细功能讲解等，并为新玩家提供入门指南及相关信息的百科。
+		由于本人受到相关人士的开盒攻击，故本 Wiki 将永久性停更，本人亦永久性退网。 --2024.9.10
 	</div></header>
 </header>
 
@@ -128,7 +128,3 @@ features:
 - EZ2ON 官方 Discord：[https://discord.gg/ez2onofficial](https://discord.gg/ez2onofficial)
 
 - EZ2ON 官方 Facebook (已停更)：[https://www.facebook.com/ez2on](https://www.facebook.com/ez2on)
-
-- bilibili @clarilotus：[https://space.bilibili.com/170896943](https://space.bilibili.com/170896943)
-    
-- EZ2ON 交流 QQ 群：[954099355](https://jq.qq.com/?_wv=1027&k=9atW8Y9W)
